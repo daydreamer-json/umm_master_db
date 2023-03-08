@@ -1,0 +1,97 @@
+[
+    {
+        "group_id": 1,
+        "id": 1,
+        "scenario_id": 1
+    },
+    {
+        "group_id": 2,
+        "id": 2,
+        "scenario_id": 2
+    },
+    {
+        "group_id": 3,
+        "id": 3,
+        "scenario_id": 3
+    },
+    {
+        "group_id": 4,
+        "id": 4,
+        "scenario_id": 4
+    },
+    {
+        "group_id": 5,
+        "id": 5,
+        "scenario_id": 5
+    },
+    {
+        "group_id": 100,
+        "id": 101,
+        "scenario_id": 1
+    },
+    {
+        "group_id": 100,
+        "id": 102,
+        "scenario_id": 2
+    },
+    {
+        "group_id": 100,
+        "id": 103,
+        "scenario_id": 3
+    },
+    {
+        "group_id": 100,
+        "id": 104,
+        "scenario_id": 4
+    },
+    {
+        "group_id": 100,
+        "id": 105,
+        "scenario_id": 5
+    },
+    {
+        "group_id": 701,
+        "id": 701,
+        "scenario_id": 1
+    },
+    {
+        "group_id": 701,
+        "id": 702,
+        "scenario_id": 2
+    },
+    {
+        "group_id": 701,
+        "id": 703,
+        "scenario_id": 3
+    },
+    {
+        "group_id": 801,
+        "id": 801,
+        "scenario_id": 1
+    },
+    {
+        "group_id": 801,
+        "id": 802,
+        "scenario_id": 2
+    },
+    {
+        "group_id": 801,
+        "id": 803,
+        "scenario_id": 3
+    },
+    {
+        "group_id": 801,
+        "id": 805,
+        "scenario_id": 5
+    },
+    {
+        "group_id": 901,
+        "id": 901,
+        "scenario_id": 2
+    },
+    {
+        "group_id": 901,
+        "id": 902,
+        "scenario_id": 3
+    }
+]

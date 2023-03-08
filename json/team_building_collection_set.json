@@ -1,0 +1,50 @@
+[
+    {
+        "chara_group_id": 1,
+        "id": 1,
+        "skill_id": 1200031,
+        "team_building_event_id": 1001
+    },
+    {
+        "chara_group_id": 2,
+        "id": 2,
+        "skill_id": 1200011,
+        "team_building_event_id": 1001
+    },
+    {
+        "chara_group_id": 3,
+        "id": 3,
+        "skill_id": 1200021,
+        "team_building_event_id": 1001
+    },
+    {
+        "chara_group_id": 4,
+        "id": 4,
+        "skill_id": 1200041,
+        "team_building_event_id": 1002
+    },
+    {
+        "chara_group_id": 5,
+        "id": 5,
+        "skill_id": 1200031,
+        "team_building_event_id": 1002
+    },
+    {
+        "chara_group_id": 6,
+        "id": 6,
+        "skill_id": 1200011,
+        "team_building_event_id": 1002
+    },
+    {
+        "chara_group_id": 7,
+        "id": 7,
+        "skill_id": 1200021,
+        "team_building_event_id": 1002
+    },
+    {
+        "chara_group_id": 8,
+        "id": 8,
+        "skill_id": 1200051,
+        "team_building_event_id": 1002
+    }
+]

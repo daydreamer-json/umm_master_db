@@ -1,0 +1,1506 @@
+[
+    {
+        "chara_id": 1001,
+        "comment_id": 1001101,
+        "comment_type": 1,
+        "id": 1,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1001,
+        "comment_id": 1001102,
+        "comment_type": 1,
+        "id": 2,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1001,
+        "comment_id": 1001203,
+        "comment_type": 2,
+        "id": 3,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1002,
+        "comment_id": 1002101,
+        "comment_type": 1,
+        "id": 4,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1002,
+        "comment_id": 1002102,
+        "comment_type": 1,
+        "id": 5,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1002,
+        "comment_id": 1002203,
+        "comment_type": 2,
+        "id": 6,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1003,
+        "comment_id": 1003101,
+        "comment_type": 1,
+        "id": 7,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1003,
+        "comment_id": 1003102,
+        "comment_type": 1,
+        "id": 8,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1003,
+        "comment_id": 1003203,
+        "comment_type": 2,
+        "id": 9,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1004,
+        "comment_id": 1004101,
+        "comment_type": 1,
+        "id": 10,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1004,
+        "comment_id": 1004102,
+        "comment_type": 1,
+        "id": 11,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1004,
+        "comment_id": 1004203,
+        "comment_type": 2,
+        "id": 12,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1005,
+        "comment_id": 1005101,
+        "comment_type": 1,
+        "id": 13,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1005,
+        "comment_id": 1005102,
+        "comment_type": 1,
+        "id": 14,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1005,
+        "comment_id": 1005203,
+        "comment_type": 2,
+        "id": 15,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1006,
+        "comment_id": 1006101,
+        "comment_type": 1,
+        "id": 16,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1006,
+        "comment_id": 1006102,
+        "comment_type": 1,
+        "id": 17,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1006,
+        "comment_id": 1006203,
+        "comment_type": 2,
+        "id": 18,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1007,
+        "comment_id": 1007101,
+        "comment_type": 1,
+        "id": 19,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1007,
+        "comment_id": 1007102,
+        "comment_type": 1,
+        "id": 20,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1007,
+        "comment_id": 1007203,
+        "comment_type": 2,
+        "id": 21,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1008,
+        "comment_id": 1008101,
+        "comment_type": 1,
+        "id": 22,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1008,
+        "comment_id": 1008102,
+        "comment_type": 1,
+        "id": 23,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1008,
+        "comment_id": 1008203,
+        "comment_type": 2,
+        "id": 24,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1009,
+        "comment_id": 1009101,
+        "comment_type": 1,
+        "id": 25,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1009,
+        "comment_id": 1009102,
+        "comment_type": 1,
+        "id": 26,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1009,
+        "comment_id": 1009203,
+        "comment_type": 2,
+        "id": 27,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1010,
+        "comment_id": 1010101,
+        "comment_type": 1,
+        "id": 28,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1010,
+        "comment_id": 1010102,
+        "comment_type": 1,
+        "id": 29,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1010,
+        "comment_id": 1010203,
+        "comment_type": 2,
+        "id": 30,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1011,
+        "comment_id": 1011101,
+        "comment_type": 1,
+        "id": 31,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1011,
+        "comment_id": 1011102,
+        "comment_type": 1,
+        "id": 32,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1011,
+        "comment_id": 1011203,
+        "comment_type": 2,
+        "id": 33,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1012,
+        "comment_id": 1012101,
+        "comment_type": 1,
+        "id": 34,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1012,
+        "comment_id": 1012102,
+        "comment_type": 1,
+        "id": 35,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1012,
+        "comment_id": 1012203,
+        "comment_type": 2,
+        "id": 36,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1013,
+        "comment_id": 1013101,
+        "comment_type": 1,
+        "id": 37,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1013,
+        "comment_id": 1013102,
+        "comment_type": 1,
+        "id": 38,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1013,
+        "comment_id": 1013203,
+        "comment_type": 2,
+        "id": 39,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1014,
+        "comment_id": 1014101,
+        "comment_type": 1,
+        "id": 40,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1014,
+        "comment_id": 1014102,
+        "comment_type": 1,
+        "id": 41,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1014,
+        "comment_id": 1014203,
+        "comment_type": 2,
+        "id": 42,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1015,
+        "comment_id": 1015101,
+        "comment_type": 1,
+        "id": 43,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1015,
+        "comment_id": 1015102,
+        "comment_type": 1,
+        "id": 44,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1015,
+        "comment_id": 1015203,
+        "comment_type": 2,
+        "id": 45,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1016,
+        "comment_id": 1016101,
+        "comment_type": 1,
+        "id": 46,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1016,
+        "comment_id": 1016102,
+        "comment_type": 1,
+        "id": 47,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1016,
+        "comment_id": 1016203,
+        "comment_type": 2,
+        "id": 48,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1017,
+        "comment_id": 1017101,
+        "comment_type": 1,
+        "id": 49,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1017,
+        "comment_id": 1017202,
+        "comment_type": 2,
+        "id": 50,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1018,
+        "comment_id": 1018101,
+        "comment_type": 1,
+        "id": 51,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1018,
+        "comment_id": 1018202,
+        "comment_type": 2,
+        "id": 52,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1019,
+        "comment_id": 1019101,
+        "comment_type": 1,
+        "id": 53,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1019,
+        "comment_id": 1019102,
+        "comment_type": 1,
+        "id": 54,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1019,
+        "comment_id": 1019203,
+        "comment_type": 2,
+        "id": 55,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1020,
+        "comment_id": 1020101,
+        "comment_type": 1,
+        "id": 56,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1020,
+        "comment_id": 1020102,
+        "comment_type": 1,
+        "id": 57,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1020,
+        "comment_id": 1020203,
+        "comment_type": 2,
+        "id": 58,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1023,
+        "comment_id": 1023101,
+        "comment_type": 1,
+        "id": 59,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1023,
+        "comment_id": 1023102,
+        "comment_type": 1,
+        "id": 60,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1023,
+        "comment_id": 1023203,
+        "comment_type": 2,
+        "id": 61,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1024,
+        "comment_id": 1024101,
+        "comment_type": 1,
+        "id": 62,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1024,
+        "comment_id": 1024202,
+        "comment_type": 2,
+        "id": 63,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1025,
+        "comment_id": 1025101,
+        "comment_type": 1,
+        "id": 64,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1025,
+        "comment_id": 1025102,
+        "comment_type": 1,
+        "id": 65,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1025,
+        "comment_id": 1025203,
+        "comment_type": 2,
+        "id": 66,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1026,
+        "comment_id": 1026101,
+        "comment_type": 1,
+        "id": 67,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1026,
+        "comment_id": 1026102,
+        "comment_type": 1,
+        "id": 68,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1026,
+        "comment_id": 1026203,
+        "comment_type": 2,
+        "id": 69,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1027,
+        "comment_id": 1027101,
+        "comment_type": 1,
+        "id": 70,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1027,
+        "comment_id": 1027202,
+        "comment_type": 2,
+        "id": 71,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1028,
+        "comment_id": 1028101,
+        "comment_type": 1,
+        "id": 72,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1028,
+        "comment_id": 1028202,
+        "comment_type": 2,
+        "id": 73,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1030,
+        "comment_id": 1030101,
+        "comment_type": 1,
+        "id": 74,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1030,
+        "comment_id": 1030102,
+        "comment_type": 1,
+        "id": 75,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1030,
+        "comment_id": 1030203,
+        "comment_type": 2,
+        "id": 76,
+        "variation_type": 1,
+        "variation_value": 2
+    },
+    {
+        "chara_id": 1030,
+        "comment_id": 1030203,
+        "comment_type": 2,
+        "id": 77,
+        "variation_type": 1,
+        "variation_value": 1
+    },
+    {
+        "chara_id": 1032,
+        "comment_id": 1032101,
+        "comment_type": 1,
+        "id": 78,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1032,
+        "comment_id": 1032102,
+        "comment_type": 1,
+        "id": 79,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1032,
+        "comment_id": 1032203,
+        "comment_type": 2,
+        "id": 80,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1035,
+        "comment_id": 1035101,
+        "comment_type": 1,
+        "id": 81,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1035,
+        "comment_id": 1035102,
+        "comment_type": 1,
+        "id": 82,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1035,
+        "comment_id": 1035203,
+        "comment_type": 2,
+        "id": 83,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1037,
+        "comment_id": 1037101,
+        "comment_type": 1,
+        "id": 84,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1037,
+        "comment_id": 1037202,
+        "comment_type": 2,
+        "id": 85,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1038,
+        "comment_id": 1038101,
+        "comment_type": 1,
+        "id": 86,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1038,
+        "comment_id": 1038102,
+        "comment_type": 1,
+        "id": 87,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1038,
+        "comment_id": 1038203,
+        "comment_type": 2,
+        "id": 88,
+        "variation_type": 1,
+        "variation_value": 2
+    },
+    {
+        "chara_id": 1038,
+        "comment_id": 1038203,
+        "comment_type": 2,
+        "id": 89,
+        "variation_type": 1,
+        "variation_value": 1
+    },
+    {
+        "chara_id": 1039,
+        "comment_id": 1039101,
+        "comment_type": 1,
+        "id": 90,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1039,
+        "comment_id": 1039102,
+        "comment_type": 1,
+        "id": 91,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1039,
+        "comment_id": 1039203,
+        "comment_type": 2,
+        "id": 92,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1040,
+        "comment_id": 1040101,
+        "comment_type": 1,
+        "id": 93,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1040,
+        "comment_id": 1040202,
+        "comment_type": 2,
+        "id": 94,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1041,
+        "comment_id": 1041101,
+        "comment_type": 1,
+        "id": 95,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1041,
+        "comment_id": 1041102,
+        "comment_type": 1,
+        "id": 96,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1041,
+        "comment_id": 1041203,
+        "comment_type": 2,
+        "id": 97,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1045,
+        "comment_id": 1045101,
+        "comment_type": 1,
+        "id": 98,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1045,
+        "comment_id": 1045202,
+        "comment_type": 2,
+        "id": 99,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1046,
+        "comment_id": 1046101,
+        "comment_type": 1,
+        "id": 100,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1046,
+        "comment_id": 1046202,
+        "comment_type": 2,
+        "id": 101,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1048,
+        "comment_id": 1048101,
+        "comment_type": 1,
+        "id": 102,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1048,
+        "comment_id": 1048102,
+        "comment_type": 1,
+        "id": 103,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1048,
+        "comment_id": 1048203,
+        "comment_type": 2,
+        "id": 104,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1050,
+        "comment_id": 1050101,
+        "comment_type": 1,
+        "id": 105,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1050,
+        "comment_id": 1050102,
+        "comment_type": 1,
+        "id": 106,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1050,
+        "comment_id": 1050203,
+        "comment_type": 2,
+        "id": 107,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1052,
+        "comment_id": 1052101,
+        "comment_type": 1,
+        "id": 108,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1052,
+        "comment_id": 1052102,
+        "comment_type": 1,
+        "id": 109,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1052,
+        "comment_id": 1052203,
+        "comment_type": 2,
+        "id": 110,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1056,
+        "comment_id": 1056101,
+        "comment_type": 1,
+        "id": 111,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1056,
+        "comment_id": 1056102,
+        "comment_type": 1,
+        "id": 112,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1056,
+        "comment_id": 1056203,
+        "comment_type": 2,
+        "id": 113,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1058,
+        "comment_id": 1058101,
+        "comment_type": 1,
+        "id": 114,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1058,
+        "comment_id": 1058102,
+        "comment_type": 1,
+        "id": 115,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1058,
+        "comment_id": 1058203,
+        "comment_type": 2,
+        "id": 116,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1060,
+        "comment_id": 1060101,
+        "comment_type": 1,
+        "id": 117,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1060,
+        "comment_id": 1060102,
+        "comment_type": 1,
+        "id": 118,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1060,
+        "comment_id": 1060203,
+        "comment_type": 2,
+        "id": 119,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1061,
+        "comment_id": 1061101,
+        "comment_type": 1,
+        "id": 120,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1061,
+        "comment_id": 1061102,
+        "comment_type": 1,
+        "id": 121,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1061,
+        "comment_id": 1061203,
+        "comment_type": 2,
+        "id": 122,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1059,
+        "comment_id": 1059201,
+        "comment_type": 2,
+        "id": 123,
+        "variation_type": 1,
+        "variation_value": 1
+    },
+    {
+        "chara_id": 1059,
+        "comment_id": 1059201,
+        "comment_type": 2,
+        "id": 124,
+        "variation_type": 1,
+        "variation_value": 2
+    },
+    {
+        "chara_id": 1022,
+        "comment_id": 1022201,
+        "comment_type": 2,
+        "id": 125,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1021,
+        "comment_id": 1021201,
+        "comment_type": 2,
+        "id": 126,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1069,
+        "comment_id": 1069201,
+        "comment_type": 2,
+        "id": 127,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1071,
+        "comment_id": 1071201,
+        "comment_type": 2,
+        "id": 128,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1033,
+        "comment_id": 1033201,
+        "comment_type": 2,
+        "id": 129,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1068,
+        "comment_id": 1068201,
+        "comment_type": 2,
+        "id": 130,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1062,
+        "comment_id": 1062201,
+        "comment_type": 2,
+        "id": 131,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1059,
+        "comment_id": 1059101,
+        "comment_type": 1,
+        "id": 132,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1022,
+        "comment_id": 1022101,
+        "comment_type": 1,
+        "id": 133,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1021,
+        "comment_id": 1021101,
+        "comment_type": 1,
+        "id": 134,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1069,
+        "comment_id": 1069101,
+        "comment_type": 1,
+        "id": 135,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1071,
+        "comment_id": 1071101,
+        "comment_type": 1,
+        "id": 136,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1033,
+        "comment_id": 1033101,
+        "comment_type": 1,
+        "id": 137,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1068,
+        "comment_id": 1068101,
+        "comment_type": 1,
+        "id": 138,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1062,
+        "comment_id": 1062101,
+        "comment_type": 1,
+        "id": 139,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1067,
+        "comment_id": 1067101,
+        "comment_type": 1,
+        "id": 140,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1022,
+        "comment_id": 1022102,
+        "comment_type": 1,
+        "id": 141,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1021,
+        "comment_id": 1021102,
+        "comment_type": 1,
+        "id": 142,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1068,
+        "comment_id": 1068102,
+        "comment_type": 1,
+        "id": 143,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1067,
+        "comment_id": 1067102,
+        "comment_type": 1,
+        "id": 144,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1062,
+        "comment_id": 1062102,
+        "comment_type": 1,
+        "id": 145,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1017,
+        "comment_id": 1017102,
+        "comment_type": 1,
+        "id": 146,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1027,
+        "comment_id": 1027102,
+        "comment_type": 1,
+        "id": 147,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1067,
+        "comment_id": 1067202,
+        "comment_type": 2,
+        "id": 148,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1074,
+        "comment_id": 1074201,
+        "comment_type": 2,
+        "id": 149,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1046,
+        "comment_id": 1046102,
+        "comment_type": 1,
+        "id": 150,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1051,
+        "comment_id": 1051201,
+        "comment_type": 2,
+        "id": 151,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1007,
+        "comment_id": 1007103,
+        "comment_type": 1,
+        "id": 152,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1072,
+        "comment_id": 1072201,
+        "comment_type": 2,
+        "id": 153,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1031,
+        "comment_id": 1031201,
+        "comment_type": 2,
+        "id": 154,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1064,
+        "comment_id": 1064201,
+        "comment_type": 2,
+        "id": 155,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1034,
+        "comment_id": 1034201,
+        "comment_type": 2,
+        "id": 156,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1044,
+        "comment_id": 1044201,
+        "comment_type": 2,
+        "id": 157,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1036,
+        "comment_id": 1036201,
+        "comment_type": 2,
+        "id": 158,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1053,
+        "comment_id": 1053201,
+        "comment_type": 2,
+        "id": 159,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1074,
+        "comment_id": 1074101,
+        "comment_type": 1,
+        "id": 160,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1051,
+        "comment_id": 1051101,
+        "comment_type": 1,
+        "id": 161,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1072,
+        "comment_id": 1072101,
+        "comment_type": 1,
+        "id": 162,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1031,
+        "comment_id": 1031101,
+        "comment_type": 1,
+        "id": 163,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1064,
+        "comment_id": 1064101,
+        "comment_type": 1,
+        "id": 164,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1034,
+        "comment_id": 1034101,
+        "comment_type": 1,
+        "id": 165,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1044,
+        "comment_id": 1044101,
+        "comment_type": 1,
+        "id": 166,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1036,
+        "comment_id": 1036101,
+        "comment_type": 1,
+        "id": 167,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1053,
+        "comment_id": 1053101,
+        "comment_type": 1,
+        "id": 168,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1098,
+        "comment_id": 1098101,
+        "comment_type": 1,
+        "id": 169,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1045,
+        "comment_id": 1045102,
+        "comment_type": 1,
+        "id": 170,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1098,
+        "comment_id": 1098102,
+        "comment_type": 1,
+        "id": 171,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1001,
+        "comment_id": 1001103,
+        "comment_type": 1,
+        "id": 172,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1046,
+        "comment_id": 1046103,
+        "comment_type": 1,
+        "id": 173,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1098,
+        "comment_id": 1098201,
+        "comment_type": 2,
+        "id": 174,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1029,
+        "comment_id": 1029201,
+        "comment_type": 2,
+        "id": 175,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1042,
+        "comment_id": 1042201,
+        "comment_type": 2,
+        "id": 176,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1087,
+        "comment_id": 1087201,
+        "comment_type": 2,
+        "id": 177,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1078,
+        "comment_id": 1078201,
+        "comment_type": 2,
+        "id": 178,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1049,
+        "comment_id": 1049201,
+        "comment_type": 2,
+        "id": 179,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1100,
+        "comment_id": 1100201,
+        "comment_type": 2,
+        "id": 180,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1047,
+        "comment_id": 1047201,
+        "comment_type": 2,
+        "id": 181,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1099,
+        "comment_id": 1099201,
+        "comment_type": 2,
+        "id": 182,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1065,
+        "comment_id": 1065201,
+        "comment_type": 2,
+        "id": 183,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1065,
+        "comment_id": 1065101,
+        "comment_type": 1,
+        "id": 184,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1078,
+        "comment_id": 1078101,
+        "comment_type": 1,
+        "id": 187,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1043,
+        "comment_id": 1043201,
+        "comment_type": 2,
+        "id": 188,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1057,
+        "comment_id": 1057201,
+        "comment_type": 2,
+        "id": 189,
+        "variation_type": 0,
+        "variation_value": 0
+    },
+    {
+        "chara_id": 1066,
+        "comment_id": 1066201,
+        "comment_type": 2,
+        "id": 190,
+        "variation_type": 0,
+        "variation_value": 0
+    }
+]

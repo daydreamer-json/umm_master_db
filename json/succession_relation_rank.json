@@ -1,0 +1,17 @@
+[
+    {
+        "rank_value_max": 50,
+        "rank_value_min": 0,
+        "relation_rank": 1
+    },
+    {
+        "rank_value_max": 150,
+        "rank_value_min": 51,
+        "relation_rank": 2
+    },
+    {
+        "rank_value_max": 9999,
+        "rank_value_min": 151,
+        "relation_rank": 3
+    }
+]

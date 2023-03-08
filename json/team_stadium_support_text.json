@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "max_bonus": 10000,
+        "min_bonus": 0,
+        "type": 1
+    },
+    {
+        "id": 2,
+        "max_bonus": 10000,
+        "min_bonus": 0,
+        "type": 1
+    },
+    {
+        "id": 3,
+        "max_bonus": 99,
+        "min_bonus": 0,
+        "type": 1
+    },
+    {
+        "id": 4,
+        "max_bonus": 499,
+        "min_bonus": 100,
+        "type": 1
+    },
+    {
+        "id": 5,
+        "max_bonus": 999,
+        "min_bonus": 500,
+        "type": 1
+    },
+    {
+        "id": 6,
+        "max_bonus": 1999,
+        "min_bonus": 1000,
+        "type": 1
+    },
+    {
+        "id": 7,
+        "max_bonus": 4999,
+        "min_bonus": 2000,
+        "type": 1
+    },
+    {
+        "id": 8,
+        "max_bonus": 10000,
+        "min_bonus": 5000,
+        "type": 1
+    },
+    {
+        "id": 9,
+        "max_bonus": 10000,
+        "min_bonus": 0,
+        "type": 2
+    },
+    {
+        "id": 10,
+        "max_bonus": 10000,
+        "min_bonus": 0,
+        "type": 2
+    }
+]

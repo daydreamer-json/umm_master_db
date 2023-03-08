@@ -1,0 +1,110 @@
+[
+    {
+        "chara_id": 0,
+        "motion_set": 1,
+        "race_dress_id": 0,
+        "type": 1
+    },
+    {
+        "chara_id": 0,
+        "motion_set": 1,
+        "race_dress_id": 0,
+        "type": 2
+    },
+    {
+        "chara_id": 0,
+        "motion_set": 1,
+        "race_dress_id": 0,
+        "type": 3
+    },
+    {
+        "chara_id": 0,
+        "motion_set": 1,
+        "race_dress_id": 0,
+        "type": 4
+    },
+    {
+        "chara_id": 1020,
+        "motion_set": 1001,
+        "race_dress_id": 0,
+        "type": 1
+    },
+    {
+        "chara_id": 1020,
+        "motion_set": 1001,
+        "race_dress_id": 0,
+        "type": 2
+    },
+    {
+        "chara_id": 1020,
+        "motion_set": 1001,
+        "race_dress_id": 0,
+        "type": 3
+    },
+    {
+        "chara_id": 1020,
+        "motion_set": 1001,
+        "race_dress_id": 0,
+        "type": 4
+    },
+    {
+        "chara_id": 1050,
+        "motion_set": 1050006,
+        "race_dress_id": 0,
+        "type": 1
+    },
+    {
+        "chara_id": 1050,
+        "motion_set": 1050006,
+        "race_dress_id": 0,
+        "type": 2
+    },
+    {
+        "chara_id": 1050,
+        "motion_set": 1050006,
+        "race_dress_id": 0,
+        "type": 3
+    },
+    {
+        "chara_id": 1050,
+        "motion_set": 1050006,
+        "race_dress_id": 0,
+        "type": 4
+    },
+    {
+        "chara_id": 0,
+        "motion_set": 1,
+        "race_dress_id": 0,
+        "type": 10
+    },
+    {
+        "chara_id": 0,
+        "motion_set": 1,
+        "race_dress_id": 0,
+        "type": 11
+    },
+    {
+        "chara_id": 0,
+        "motion_set": 5,
+        "race_dress_id": 0,
+        "type": 12
+    },
+    {
+        "chara_id": 0,
+        "motion_set": 1,
+        "race_dress_id": 0,
+        "type": 13
+    },
+    {
+        "chara_id": 0,
+        "motion_set": 9,
+        "race_dress_id": 0,
+        "type": 14
+    },
+    {
+        "chara_id": 0,
+        "motion_set": 9,
+        "race_dress_id": 0,
+        "type": 15
+    }
+]

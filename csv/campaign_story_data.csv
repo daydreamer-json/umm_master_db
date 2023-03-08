@@ -1,0 +1,5 @@
+id,campaign_id,condition_type,condition_value,story_id
+1,251,1,0,120251001
+2,251,2,1,120251002
+3,251,2,2,120251003
+4,251,2,3,120251004

@@ -1,0 +1,122 @@
+[
+    {
+        "attach_node": 0,
+        "personality": 1,
+        "pos_id": 1,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 2,
+        "pos_id": 1,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 3,
+        "pos_id": 1,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 4,
+        "pos_id": 1,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 5,
+        "pos_id": 1,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 1,
+        "personality": 1,
+        "pos_id": 2,
+        "prop_id": 100303
+    },
+    {
+        "attach_node": 2,
+        "personality": 2,
+        "pos_id": 2,
+        "prop_id": 100303
+    },
+    {
+        "attach_node": 1,
+        "personality": 3,
+        "pos_id": 2,
+        "prop_id": 100303
+    },
+    {
+        "attach_node": 2,
+        "personality": 4,
+        "pos_id": 2,
+        "prop_id": 100303
+    },
+    {
+        "attach_node": 2,
+        "personality": 5,
+        "pos_id": 2,
+        "prop_id": 100303
+    },
+    {
+        "attach_node": 0,
+        "personality": 1,
+        "pos_id": 3,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 2,
+        "pos_id": 3,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 3,
+        "pos_id": 3,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 4,
+        "pos_id": 3,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 5,
+        "pos_id": 3,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 1,
+        "pos_id": 4,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 2,
+        "pos_id": 4,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 3,
+        "pos_id": 4,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 4,
+        "pos_id": 4,
+        "prop_id": 0
+    },
+    {
+        "attach_node": 0,
+        "personality": 5,
+        "pos_id": 4,
+        "prop_id": 0
+    }
+]

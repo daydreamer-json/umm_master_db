@@ -1,0 +1,52 @@
+[
+    {
+        "bonus_value": 0,
+        "consecutive_wins_num": 1,
+        "id": 1
+    },
+    {
+        "bonus_value": 1000,
+        "consecutive_wins_num": 2,
+        "id": 2
+    },
+    {
+        "bonus_value": 1000,
+        "consecutive_wins_num": 3,
+        "id": 3
+    },
+    {
+        "bonus_value": 1000,
+        "consecutive_wins_num": 4,
+        "id": 4
+    },
+    {
+        "bonus_value": 1000,
+        "consecutive_wins_num": 5,
+        "id": 5
+    },
+    {
+        "bonus_value": 1000,
+        "consecutive_wins_num": 6,
+        "id": 6
+    },
+    {
+        "bonus_value": 1000,
+        "consecutive_wins_num": 7,
+        "id": 7
+    },
+    {
+        "bonus_value": 1000,
+        "consecutive_wins_num": 8,
+        "id": 8
+    },
+    {
+        "bonus_value": 1000,
+        "consecutive_wins_num": 9,
+        "id": 9
+    },
+    {
+        "bonus_value": 1000,
+        "consecutive_wins_num": 10,
+        "id": 10
+    }
+]

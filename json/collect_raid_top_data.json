@@ -1,0 +1,67 @@
+[
+    {
+        "bgm_cue_name": "snd_bgm_CS1033_sys",
+        "bgm_cuesheet_name": "snd_bgm_CS1033_sys",
+        "collect_raid_id": 1001,
+        "condition_type": 0,
+        "condition_value": 0,
+        "cut_id": 2,
+        "cut_sub_id": 1,
+        "env_cue_name": "snd_sfx_atmos_training_stand_n",
+        "env_cuesheet_name": "snd_sfx_atmos_training_stand_n",
+        "id": 1,
+        "segment_cutt_id": 0
+    },
+    {
+        "bgm_cue_name": "snd_bgm_CS1033_sys",
+        "bgm_cuesheet_name": "snd_bgm_CS1033_sys",
+        "collect_raid_id": 1001,
+        "condition_type": 1,
+        "condition_value": 2,
+        "cut_id": 2,
+        "cut_sub_id": 2,
+        "env_cue_name": "snd_sfx_atmos_training_stand_n",
+        "env_cuesheet_name": "snd_sfx_atmos_training_stand_n",
+        "id": 2,
+        "segment_cutt_id": 1
+    },
+    {
+        "bgm_cue_name": "snd_bgm_CS1033_sys",
+        "bgm_cuesheet_name": "snd_bgm_CS1033_sys",
+        "collect_raid_id": 1001,
+        "condition_type": 1,
+        "condition_value": 4,
+        "cut_id": 2,
+        "cut_sub_id": 3,
+        "env_cue_name": "snd_sfx_atmos_training_stand_n",
+        "env_cuesheet_name": "snd_sfx_atmos_training_stand_n",
+        "id": 3,
+        "segment_cutt_id": 2
+    },
+    {
+        "bgm_cue_name": "snd_bgm_CS1033_sys",
+        "bgm_cuesheet_name": "snd_bgm_CS1033_sys",
+        "collect_raid_id": 1001,
+        "condition_type": 1,
+        "condition_value": 7,
+        "cut_id": 2,
+        "cut_sub_id": 4,
+        "env_cue_name": "snd_sfx_atmos_training_stand_n",
+        "env_cuesheet_name": "snd_sfx_atmos_training_stand_n",
+        "id": 4,
+        "segment_cutt_id": 3
+    },
+    {
+        "bgm_cue_name": "snd_bgm_CS1033_sys",
+        "bgm_cuesheet_name": "snd_bgm_CS1033_sys",
+        "collect_raid_id": 1001,
+        "condition_type": 2,
+        "condition_value": 2,
+        "cut_id": 2,
+        "cut_sub_id": 5,
+        "env_cue_name": "snd_sfx_atmos_training_stand_n",
+        "env_cuesheet_name": "snd_sfx_atmos_training_stand_n",
+        "id": 5,
+        "segment_cutt_id": 0
+    }
+]

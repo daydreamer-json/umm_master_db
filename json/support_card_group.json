@@ -1,0 +1,56 @@
+[
+    {
+        "chara_id": 1013,
+        "id": 1,
+        "outing_max": 1,
+        "support_card_id": 30081
+    },
+    {
+        "chara_id": 1030,
+        "id": 2,
+        "outing_max": 1,
+        "support_card_id": 30081
+    },
+    {
+        "chara_id": 1035,
+        "id": 3,
+        "outing_max": 1,
+        "support_card_id": 30081
+    },
+    {
+        "chara_id": 1016,
+        "id": 4,
+        "outing_max": 1,
+        "support_card_id": 30081
+    },
+    {
+        "chara_id": 1002,
+        "id": 5,
+        "outing_max": 1,
+        "support_card_id": 30081
+    },
+    {
+        "chara_id": 1001,
+        "id": 6,
+        "outing_max": 1,
+        "support_card_id": 30081
+    },
+    {
+        "chara_id": 1017,
+        "id": 7,
+        "outing_max": 1,
+        "support_card_id": 30067
+    },
+    {
+        "chara_id": 1003,
+        "id": 8,
+        "outing_max": 1,
+        "support_card_id": 30067
+    },
+    {
+        "chara_id": 1073,
+        "id": 9,
+        "outing_max": 1,
+        "support_card_id": 30067
+    }
+]

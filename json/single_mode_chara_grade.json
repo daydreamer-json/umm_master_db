@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "need_fan_count": 0,
+        "run_num": 0,
+        "win_num": 0
+    },
+    {
+        "id": 2,
+        "need_fan_count": 0,
+        "run_num": 1,
+        "win_num": 0
+    },
+    {
+        "id": 3,
+        "need_fan_count": 0,
+        "run_num": 1,
+        "win_num": 1
+    },
+    {
+        "id": 4,
+        "need_fan_count": 5000,
+        "run_num": 1,
+        "win_num": 1
+    },
+    {
+        "id": 5,
+        "need_fan_count": 20000,
+        "run_num": 1,
+        "win_num": 1
+    },
+    {
+        "id": 6,
+        "need_fan_count": 50000,
+        "run_num": 1,
+        "win_num": 1
+    },
+    {
+        "id": 7,
+        "need_fan_count": 100000,
+        "run_num": 1,
+        "win_num": 1
+    },
+    {
+        "id": 8,
+        "need_fan_count": 160000,
+        "run_num": 1,
+        "win_num": 1
+    },
+    {
+        "id": 9,
+        "need_fan_count": 240000,
+        "run_num": 1,
+        "win_num": 1
+    },
+    {
+        "id": 10,
+        "need_fan_count": 320000,
+        "run_num": 1,
+        "win_num": 1
+    }
+]

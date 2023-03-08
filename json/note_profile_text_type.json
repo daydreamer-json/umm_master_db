@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "sort": 1,
+        "text_category_id": 163,
+        "text_type": 1
+    },
+    {
+        "id": 2,
+        "sort": 2,
+        "text_category_id": 162,
+        "text_type": 1
+    },
+    {
+        "id": 3,
+        "sort": 3,
+        "text_category_id": 8,
+        "text_type": 1
+    },
+    {
+        "id": 4,
+        "sort": 1,
+        "text_category_id": 158,
+        "text_type": 2
+    },
+    {
+        "id": 5,
+        "sort": 2,
+        "text_category_id": 9,
+        "text_type": 2
+    },
+    {
+        "id": 6,
+        "sort": 3,
+        "text_category_id": 157,
+        "text_type": 2
+    },
+    {
+        "id": 7,
+        "sort": 1,
+        "text_category_id": 164,
+        "text_type": 3
+    },
+    {
+        "id": 8,
+        "sort": 2,
+        "text_category_id": 165,
+        "text_type": 3
+    },
+    {
+        "id": 9,
+        "sort": 1,
+        "text_category_id": 166,
+        "text_type": 4
+    },
+    {
+        "id": 10,
+        "sort": 2,
+        "text_category_id": 167,
+        "text_type": 4
+    },
+    {
+        "id": 11,
+        "sort": 1,
+        "text_category_id": 168,
+        "text_type": 5
+    },
+    {
+        "id": 12,
+        "sort": 1,
+        "text_category_id": 169,
+        "text_type": 6
+    },
+    {
+        "id": 13,
+        "sort": 1,
+        "text_category_id": 163,
+        "text_type": 7
+    },
+    {
+        "id": 14,
+        "sort": 2,
+        "text_category_id": 173,
+        "text_type": 7
+    },
+    {
+        "id": 15,
+        "sort": 3,
+        "text_category_id": 157,
+        "text_type": 7
+    },
+    {
+        "id": 16,
+        "sort": 1,
+        "text_category_id": 163,
+        "text_type": 8
+    },
+    {
+        "id": 17,
+        "sort": 2,
+        "text_category_id": 173,
+        "text_type": 8
+    },
+    {
+        "id": 18,
+        "sort": 3,
+        "text_category_id": 174,
+        "text_type": 8
+    },
+    {
+        "id": 22,
+        "sort": 1,
+        "text_category_id": 258,
+        "text_type": 10
+    },
+    {
+        "id": 23,
+        "sort": 2,
+        "text_category_id": 259,
+        "text_type": 10
+    },
+    {
+        "id": 24,
+        "sort": 3,
+        "text_category_id": 260,
+        "text_type": 10
+    },
+    {
+        "id": 25,
+        "sort": 1,
+        "text_category_id": 261,
+        "text_type": 11
+    },
+    {
+        "id": 26,
+        "sort": 2,
+        "text_category_id": 262,
+        "text_type": 11
+    },
+    {
+        "id": 27,
+        "sort": 3,
+        "text_category_id": 263,
+        "text_type": 11
+    }
+]

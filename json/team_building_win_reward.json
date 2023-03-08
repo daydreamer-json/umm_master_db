@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "win_loop_num": 10
+    },
+    {
+        "id": 2,
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 2500,
+        "win_loop_num": 10
+    }
+]

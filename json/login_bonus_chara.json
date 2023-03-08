@@ -1,0 +1,145 @@
+[
+    {
+        "chara_id": 1006,
+        "chara_id_2": 1021,
+        "chara_num": 2,
+        "dress_id": 100646,
+        "dress_id_2": 102101,
+        "id": 1,
+        "login_bonus_detail_id": 151,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1024,
+        "chara_id_2": 1003,
+        "chara_num": 2,
+        "dress_id": 102401,
+        "dress_id_2": 100301,
+        "id": 2,
+        "login_bonus_detail_id": 152,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1011,
+        "chara_id_2": 1014,
+        "chara_num": 2,
+        "dress_id": 101101,
+        "dress_id_2": 101401,
+        "id": 3,
+        "login_bonus_detail_id": 153,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1025,
+        "chara_id_2": 1029,
+        "chara_num": 2,
+        "dress_id": 102501,
+        "dress_id_2": 102901,
+        "id": 4,
+        "login_bonus_detail_id": 154,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1068,
+        "chara_id_2": 1067,
+        "chara_num": 2,
+        "dress_id": 106801,
+        "dress_id_2": 106701,
+        "id": 5,
+        "login_bonus_detail_id": 155,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1015,
+        "chara_id_2": 1023,
+        "chara_num": 2,
+        "dress_id": 101501,
+        "dress_id_2": 102301,
+        "id": 6,
+        "login_bonus_detail_id": 156,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1046,
+        "chara_id_2": 1037,
+        "chara_num": 2,
+        "dress_id": 104601,
+        "dress_id_2": 103701,
+        "id": 7,
+        "login_bonus_detail_id": 157,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1026,
+        "chara_id_2": 1051,
+        "chara_num": 2,
+        "dress_id": 102601,
+        "dress_id_2": 105101,
+        "id": 8,
+        "login_bonus_detail_id": 158,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1047,
+        "chara_id_2": 1030,
+        "chara_num": 2,
+        "dress_id": 104701,
+        "dress_id_2": 103001,
+        "id": 9,
+        "login_bonus_detail_id": 159,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1059,
+        "chara_id_2": 1010,
+        "chara_num": 2,
+        "dress_id": 105901,
+        "dress_id_2": 101001,
+        "id": 10,
+        "login_bonus_detail_id": 160,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1031,
+        "chara_id_2": 1027,
+        "chara_num": 2,
+        "dress_id": 103101,
+        "dress_id_2": 102701,
+        "id": 11,
+        "login_bonus_detail_id": 161,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1040,
+        "chara_id_2": 1053,
+        "chara_num": 2,
+        "dress_id": 104001,
+        "dress_id_2": 105301,
+        "id": 12,
+        "login_bonus_detail_id": 162,
+        "pose_id": 10,
+        "pose_id_2": 11
+    },
+    {
+        "chara_id": 1008,
+        "chara_id_2": 1009,
+        "chara_num": 1,
+        "dress_id": 100846,
+        "dress_id_2": 100946,
+        "id": 13,
+        "login_bonus_detail_id": 163,
+        "pose_id": 10,
+        "pose_id_2": 0
+    }
+]

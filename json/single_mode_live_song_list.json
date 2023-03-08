@@ -1,0 +1,218 @@
+[
+    {
+        "command_id": 1006,
+        "id": 1,
+        "level": 1,
+        "live_bonus_type": 1,
+        "live_bonus_value": 5,
+        "live_id": 1006,
+        "master_bonus_content_text_id": 40091
+    },
+    {
+        "command_id": 1032,
+        "id": 2,
+        "level": 1,
+        "live_bonus_type": 1,
+        "live_bonus_value": 5,
+        "live_id": 1032,
+        "master_bonus_content_text_id": 40000
+    },
+    {
+        "command_id": 1040,
+        "id": 3,
+        "level": 1,
+        "live_bonus_type": 3,
+        "live_bonus_value": 5,
+        "live_id": 1040,
+        "master_bonus_content_text_id": 40001
+    },
+    {
+        "command_id": 1044,
+        "id": 4,
+        "level": 1,
+        "live_bonus_type": 3,
+        "live_bonus_value": 5,
+        "live_id": 1044,
+        "master_bonus_content_text_id": 40002
+    },
+    {
+        "command_id": 1003,
+        "id": 5,
+        "level": 1,
+        "live_bonus_type": 3,
+        "live_bonus_value": 5,
+        "live_id": 1003,
+        "master_bonus_content_text_id": 40003
+    },
+    {
+        "command_id": 1012,
+        "id": 6,
+        "level": 1,
+        "live_bonus_type": 2,
+        "live_bonus_value": 15,
+        "live_id": 1012,
+        "master_bonus_content_text_id": 40004
+    },
+    {
+        "command_id": 1043,
+        "id": 7,
+        "level": 1,
+        "live_bonus_type": 2,
+        "live_bonus_value": 15,
+        "live_id": 1043,
+        "master_bonus_content_text_id": 40005
+    },
+    {
+        "command_id": 1042,
+        "id": 8,
+        "level": 1,
+        "live_bonus_type": 2,
+        "live_bonus_value": 15,
+        "live_id": 1042,
+        "master_bonus_content_text_id": 40006
+    },
+    {
+        "command_id": 1038,
+        "id": 9,
+        "level": 1,
+        "live_bonus_type": 1,
+        "live_bonus_value": 5,
+        "live_id": 1038,
+        "master_bonus_content_text_id": 40007
+    },
+    {
+        "command_id": 1045,
+        "id": 10,
+        "level": 1,
+        "live_bonus_type": 1,
+        "live_bonus_value": 5,
+        "live_id": 1045,
+        "master_bonus_content_text_id": 40008
+    },
+    {
+        "command_id": 1046,
+        "id": 11,
+        "level": 1,
+        "live_bonus_type": 2,
+        "live_bonus_value": 15,
+        "live_id": 1046,
+        "master_bonus_content_text_id": 40009
+    },
+    {
+        "command_id": 1047,
+        "id": 12,
+        "level": 1,
+        "live_bonus_type": 2,
+        "live_bonus_value": 15,
+        "live_id": 1047,
+        "master_bonus_content_text_id": 40010
+    },
+    {
+        "command_id": 1023,
+        "id": 13,
+        "level": 1,
+        "live_bonus_type": 1,
+        "live_bonus_value": 5,
+        "live_id": 1023,
+        "master_bonus_content_text_id": 40011
+    },
+    {
+        "command_id": 1021,
+        "id": 14,
+        "level": 1,
+        "live_bonus_type": 3,
+        "live_bonus_value": 5,
+        "live_id": 1021,
+        "master_bonus_content_text_id": 40012
+    },
+    {
+        "command_id": 1011,
+        "id": 15,
+        "level": 1,
+        "live_bonus_type": 1,
+        "live_bonus_value": 5,
+        "live_id": 1011,
+        "master_bonus_content_text_id": 40013
+    },
+    {
+        "command_id": 1014,
+        "id": 16,
+        "level": 1,
+        "live_bonus_type": 3,
+        "live_bonus_value": 5,
+        "live_id": 1014,
+        "master_bonus_content_text_id": 40014
+    },
+    {
+        "command_id": 1041,
+        "id": 17,
+        "level": 1,
+        "live_bonus_type": 3,
+        "live_bonus_value": 5,
+        "live_id": 1041,
+        "master_bonus_content_text_id": 40015
+    },
+    {
+        "command_id": 1039,
+        "id": 18,
+        "level": 1,
+        "live_bonus_type": 3,
+        "live_bonus_value": 5,
+        "live_id": 1039,
+        "master_bonus_content_text_id": 40016
+    },
+    {
+        "command_id": 1034,
+        "id": 19,
+        "level": 1,
+        "live_bonus_type": 1,
+        "live_bonus_value": 5,
+        "live_id": 1034,
+        "master_bonus_content_text_id": 40017
+    },
+    {
+        "command_id": 1020,
+        "id": 20,
+        "level": 1,
+        "live_bonus_type": 3,
+        "live_bonus_value": 10,
+        "live_id": 1020,
+        "master_bonus_content_text_id": 40018
+    },
+    {
+        "command_id": 1024,
+        "id": 21,
+        "level": 1,
+        "live_bonus_type": 3,
+        "live_bonus_value": 10,
+        "live_id": 1024,
+        "master_bonus_content_text_id": 40019
+    },
+    {
+        "command_id": 1006,
+        "id": 22,
+        "level": 4,
+        "live_bonus_type": 3,
+        "live_bonus_value": 10,
+        "live_id": 1036,
+        "master_bonus_content_text_id": 40092
+    },
+    {
+        "command_id": 1057,
+        "id": 23,
+        "level": 1,
+        "live_bonus_type": 2,
+        "live_bonus_value": 15,
+        "live_id": 1057,
+        "master_bonus_content_text_id": 40020
+    },
+    {
+        "command_id": 1006,
+        "id": 24,
+        "level": 4,
+        "live_bonus_type": 3,
+        "live_bonus_value": 10,
+        "live_id": 1029,
+        "master_bonus_content_text_id": 40092
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "chara_id": 9002,
+        "evaluation": 90,
+        "id": 1
+    },
+    {
+        "chara_id": 9002,
+        "evaluation": 70,
+        "id": 2
+    },
+    {
+        "chara_id": 9002,
+        "evaluation": 40,
+        "id": 3
+    },
+    {
+        "chara_id": 9002,
+        "evaluation": 0,
+        "id": 4
+    },
+    {
+        "chara_id": 9003,
+        "evaluation": 90,
+        "id": 5
+    },
+    {
+        "chara_id": 9003,
+        "evaluation": 70,
+        "id": 6
+    },
+    {
+        "chara_id": 9003,
+        "evaluation": 40,
+        "id": 7
+    },
+    {
+        "chara_id": 9003,
+        "evaluation": 0,
+        "id": 8
+    },
+    {
+        "chara_id": 9006,
+        "evaluation": 90,
+        "id": 9
+    },
+    {
+        "chara_id": 9006,
+        "evaluation": 70,
+        "id": 10
+    },
+    {
+        "chara_id": 9006,
+        "evaluation": 40,
+        "id": 11
+    },
+    {
+        "chara_id": 9006,
+        "evaluation": 0,
+        "id": 12
+    },
+    {
+        "chara_id": 9008,
+        "evaluation": 90,
+        "id": 13
+    },
+    {
+        "chara_id": 9008,
+        "evaluation": 70,
+        "id": 14
+    },
+    {
+        "chara_id": 9008,
+        "evaluation": 40,
+        "id": 15
+    },
+    {
+        "chara_id": 9008,
+        "evaluation": 0,
+        "id": 16
+    }
+]

@@ -1,0 +1,303 @@
+[
+    {
+        "id": 1,
+        "race_additional_id": 1,
+        "race_additional_reward_id": 1,
+        "race_program_id": 623,
+        "reward_limit": 1
+    },
+    {
+        "id": 2,
+        "race_additional_id": 2,
+        "race_additional_reward_id": 2,
+        "race_program_id": 624,
+        "reward_limit": 1
+    },
+    {
+        "id": 3,
+        "race_additional_id": 3,
+        "race_additional_reward_id": 3,
+        "race_program_id": 81,
+        "reward_limit": 1
+    },
+    {
+        "id": 4,
+        "race_additional_id": 4,
+        "race_additional_reward_id": 4,
+        "race_program_id": 625,
+        "reward_limit": 1
+    },
+    {
+        "id": 5,
+        "race_additional_id": 5,
+        "race_additional_reward_id": 5,
+        "race_program_id": 1,
+        "reward_limit": 1
+    },
+    {
+        "id": 6,
+        "race_additional_id": 6,
+        "race_additional_reward_id": 6,
+        "race_program_id": 2,
+        "reward_limit": 1
+    },
+    {
+        "id": 7,
+        "race_additional_id": 7,
+        "race_additional_reward_id": 7,
+        "race_program_id": 3,
+        "reward_limit": 1
+    },
+    {
+        "id": 8,
+        "race_additional_id": 8,
+        "race_additional_reward_id": 8,
+        "race_program_id": 162,
+        "reward_limit": 1
+    },
+    {
+        "id": 9,
+        "race_additional_id": 9,
+        "race_additional_reward_id": 9,
+        "race_program_id": 163,
+        "reward_limit": 1
+    },
+    {
+        "id": 10,
+        "race_additional_id": 10,
+        "race_additional_reward_id": 10,
+        "race_program_id": 4,
+        "reward_limit": 1
+    },
+    {
+        "id": 11,
+        "race_additional_id": 11,
+        "race_additional_reward_id": 11,
+        "race_program_id": 164,
+        "reward_limit": 1
+    },
+    {
+        "id": 12,
+        "race_additional_id": 12,
+        "race_additional_reward_id": 12,
+        "race_program_id": 5,
+        "reward_limit": 1
+    },
+    {
+        "id": 13,
+        "race_additional_id": 13,
+        "race_additional_reward_id": 13,
+        "race_program_id": 165,
+        "reward_limit": 1
+    },
+    {
+        "id": 14,
+        "race_additional_id": 14,
+        "race_additional_reward_id": 14,
+        "race_program_id": 166,
+        "reward_limit": 1
+    },
+    {
+        "id": 15,
+        "race_additional_id": 15,
+        "race_additional_reward_id": 15,
+        "race_program_id": 73,
+        "reward_limit": 1
+    },
+    {
+        "id": 16,
+        "race_additional_id": 16,
+        "race_additional_reward_id": 16,
+        "race_program_id": 74,
+        "reward_limit": 1
+    },
+    {
+        "id": 17,
+        "race_additional_id": 17,
+        "race_additional_reward_id": 17,
+        "race_program_id": 1022,
+        "reward_limit": 1
+    },
+    {
+        "id": 18,
+        "race_additional_id": 18,
+        "race_additional_reward_id": 18,
+        "race_program_id": 1023,
+        "reward_limit": 1
+    },
+    {
+        "id": 19,
+        "race_additional_id": 19,
+        "race_additional_reward_id": 19,
+        "race_program_id": 75,
+        "reward_limit": 1
+    },
+    {
+        "id": 20,
+        "race_additional_id": 20,
+        "race_additional_reward_id": 20,
+        "race_program_id": 1109,
+        "reward_limit": 1
+    },
+    {
+        "id": 21,
+        "race_additional_id": 21,
+        "race_additional_reward_id": 21,
+        "race_program_id": 167,
+        "reward_limit": 1
+    },
+    {
+        "id": 22,
+        "race_additional_id": 22,
+        "race_additional_reward_id": 22,
+        "race_program_id": 168,
+        "reward_limit": 1
+    },
+    {
+        "id": 23,
+        "race_additional_id": 23,
+        "race_additional_reward_id": 23,
+        "race_program_id": 76,
+        "reward_limit": 1
+    },
+    {
+        "id": 24,
+        "race_additional_id": 24,
+        "race_additional_reward_id": 24,
+        "race_program_id": 1026,
+        "reward_limit": 1
+    },
+    {
+        "id": 25,
+        "race_additional_id": 25,
+        "race_additional_reward_id": 25,
+        "race_program_id": 1025,
+        "reward_limit": 1
+    },
+    {
+        "id": 26,
+        "race_additional_id": 26,
+        "race_additional_reward_id": 26,
+        "race_program_id": 1024,
+        "reward_limit": 1
+    },
+    {
+        "id": 27,
+        "race_additional_id": 27,
+        "race_additional_reward_id": 27,
+        "race_program_id": 77,
+        "reward_limit": 1
+    },
+    {
+        "id": 28,
+        "race_additional_id": 28,
+        "race_additional_reward_id": 28,
+        "race_program_id": 78,
+        "reward_limit": 1
+    },
+    {
+        "id": 29,
+        "race_additional_id": 29,
+        "race_additional_reward_id": 29,
+        "race_program_id": 79,
+        "reward_limit": 1
+    },
+    {
+        "id": 39,
+        "race_additional_id": 30,
+        "race_additional_reward_id": 30,
+        "race_program_id": 80,
+        "reward_limit": 1
+    },
+    {
+        "id": 40,
+        "race_additional_id": 40,
+        "race_additional_reward_id": 40,
+        "race_program_id": 623,
+        "reward_limit": 1
+    },
+    {
+        "id": 41,
+        "race_additional_id": 41,
+        "race_additional_reward_id": 41,
+        "race_program_id": 1107,
+        "reward_limit": 1
+    },
+    {
+        "id": 42,
+        "race_additional_id": 42,
+        "race_additional_reward_id": 42,
+        "race_program_id": 624,
+        "reward_limit": 1
+    },
+    {
+        "id": 43,
+        "race_additional_id": 43,
+        "race_additional_reward_id": 43,
+        "race_program_id": 81,
+        "reward_limit": 1
+    },
+    {
+        "id": 44,
+        "race_additional_id": 44,
+        "race_additional_reward_id": 44,
+        "race_program_id": 625,
+        "reward_limit": 1
+    },
+    {
+        "id": 45,
+        "race_additional_id": 45,
+        "race_additional_reward_id": 45,
+        "race_program_id": 1027,
+        "reward_limit": 1
+    },
+    {
+        "id": 46,
+        "race_additional_id": 46,
+        "race_additional_reward_id": 46,
+        "race_program_id": 18,
+        "reward_limit": 1
+    },
+    {
+        "id": 47,
+        "race_additional_id": 47,
+        "race_additional_reward_id": 47,
+        "race_program_id": 178,
+        "reward_limit": 1
+    },
+    {
+        "id": 48,
+        "race_additional_id": 48,
+        "race_additional_reward_id": 48,
+        "race_program_id": 6,
+        "reward_limit": 1
+    },
+    {
+        "id": 49,
+        "race_additional_id": 49,
+        "race_additional_reward_id": 49,
+        "race_program_id": 180,
+        "reward_limit": 1
+    },
+    {
+        "id": 50,
+        "race_additional_id": 50,
+        "race_additional_reward_id": 50,
+        "race_program_id": 8,
+        "reward_limit": 1
+    },
+    {
+        "id": 51,
+        "race_additional_id": 51,
+        "race_additional_reward_id": 51,
+        "race_program_id": 1106,
+        "reward_limit": 1
+    },
+    {
+        "id": 52,
+        "race_additional_id": 52,
+        "race_additional_reward_id": 52,
+        "race_program_id": 1,
+        "reward_limit": 1
+    }
+]

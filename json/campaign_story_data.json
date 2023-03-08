@@ -1,0 +1,30 @@
+[
+    {
+        "campaign_id": 251,
+        "condition_type": 1,
+        "condition_value": 0,
+        "id": 1,
+        "story_id": 120251001
+    },
+    {
+        "campaign_id": 251,
+        "condition_type": 2,
+        "condition_value": 1,
+        "id": 2,
+        "story_id": 120251002
+    },
+    {
+        "campaign_id": 251,
+        "condition_type": 2,
+        "condition_value": 2,
+        "id": 3,
+        "story_id": 120251003
+    },
+    {
+        "campaign_id": 251,
+        "condition_type": 2,
+        "condition_value": 3,
+        "id": 4,
+        "story_id": 120251004
+    }
+]

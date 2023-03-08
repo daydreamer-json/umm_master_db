@@ -1,0 +1,218 @@
+[
+    {
+        "chara_id": 1004,
+        "command_name": "act01",
+        "id": 1,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1004,
+        "command_name": "act01_mirror",
+        "id": 2,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1005,
+        "command_name": "act01",
+        "id": 3,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1005,
+        "command_name": "act01_mirror",
+        "id": 4,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1008,
+        "command_name": "act01",
+        "id": 5,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1008,
+        "command_name": "act01_mirror",
+        "id": 6,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1009,
+        "command_name": "act01",
+        "id": 7,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1009,
+        "command_name": "act01_mirror",
+        "id": 8,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1011,
+        "command_name": "act01",
+        "id": 9,
+        "target_motion": 2
+    },
+    {
+        "chara_id": 1011,
+        "command_name": "act01_mirror",
+        "id": 10,
+        "target_motion": 2
+    },
+    {
+        "chara_id": 1011,
+        "command_name": "mot01",
+        "id": 11,
+        "target_motion": 2
+    },
+    {
+        "chara_id": 1011,
+        "command_name": "mot01_mirror",
+        "id": 12,
+        "target_motion": 2
+    },
+    {
+        "chara_id": 1017,
+        "command_name": "act01",
+        "id": 13,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1017,
+        "command_name": "act01_mirror",
+        "id": 14,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1017,
+        "command_name": "act02",
+        "id": 15,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1017,
+        "command_name": "act02_mirror",
+        "id": 16,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1018,
+        "command_name": "act01",
+        "id": 17,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1018,
+        "command_name": "act01_mirror",
+        "id": 18,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1018,
+        "command_name": "act02",
+        "id": 19,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1018,
+        "command_name": "act02_mirror",
+        "id": 20,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1018,
+        "command_name": "mot01",
+        "id": 21,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1018,
+        "command_name": "mot01_mirror",
+        "id": 22,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1020,
+        "command_name": "act03",
+        "id": 23,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1020,
+        "command_name": "act03_mirror",
+        "id": 24,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1023,
+        "command_name": "mot02",
+        "id": 25,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1023,
+        "command_name": "mot02_mirror",
+        "id": 26,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1023,
+        "command_name": "act01",
+        "id": 27,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1023,
+        "command_name": "act01_mirror",
+        "id": 28,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1032,
+        "command_name": "mot01",
+        "id": 29,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1032,
+        "command_name": "mot01_mirror",
+        "id": 30,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1036,
+        "command_name": "act01",
+        "id": 31,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1036,
+        "command_name": "act01_mirror",
+        "id": 32,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1045,
+        "command_name": "act02",
+        "id": 33,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1045,
+        "command_name": "act02_mirror",
+        "id": 34,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1050,
+        "command_name": "act01",
+        "id": 35,
+        "target_motion": 1
+    },
+    {
+        "chara_id": 1050,
+        "command_name": "act01_mirror",
+        "id": 36,
+        "target_motion": 1
+    }
+]

@@ -1,0 +1,6 @@
+id,sort_id,scenario_image_id,prologue_id,turn_set_id,hint_rate,start_date,end_date,additional_icon_set_id,bg_id,bg_sub_id,bg_offset_x,sec_bg_id,sec_bg_sub_id,label_font_color,label_bg_color,chara_program_change_flag,max_speed,max_stamina,max_pow,max_guts,max_wiz,gimmick_discount_rate
+1,1,1,80000001,1,0,1577804400,2524575600,0,5,5110,375,37,110,FFFFFF,9CD127,0,200,200,200,200,200,5000
+2,2,2,80000002,2,0,1630292400,2524575600,0,124,2111,0,79,110,FFFFFF,18B1FF,0,100,100,100,100,600,5000
+3,4,3,80000003,3,0,1661310000,2524575600,0,120,132,0,133,110,FFFFFF,B08FFF,0,400,100,100,300,100,5000
+4,3,4,80000004,4,0,1645671600,2524575600,0,24,110,0,56,111,FFFFFF,EABA00,1,0,700,0,0,300,5000
+5,5,5,80000005,5,0,1677207600,2524575600,5,50,0,0,50,0,FFFFFF,fb5f5f,0,300,200,300,100,100,5000

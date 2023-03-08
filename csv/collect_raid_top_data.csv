@@ -1,0 +1,6 @@
+id,collect_raid_id,cut_id,cut_sub_id,bgm_cue_name,bgm_cuesheet_name,env_cue_name,env_cuesheet_name,segment_cutt_id,condition_type,condition_value
+1,1001,2,1,snd_bgm_CS1033_sys,snd_bgm_CS1033_sys,snd_sfx_atmos_training_stand_n,snd_sfx_atmos_training_stand_n,0,0,0
+2,1001,2,2,snd_bgm_CS1033_sys,snd_bgm_CS1033_sys,snd_sfx_atmos_training_stand_n,snd_sfx_atmos_training_stand_n,1,1,2
+3,1001,2,3,snd_bgm_CS1033_sys,snd_bgm_CS1033_sys,snd_sfx_atmos_training_stand_n,snd_sfx_atmos_training_stand_n,2,1,4
+4,1001,2,4,snd_bgm_CS1033_sys,snd_bgm_CS1033_sys,snd_sfx_atmos_training_stand_n,snd_sfx_atmos_training_stand_n,3,1,7
+5,1001,2,5,snd_bgm_CS1033_sys,snd_bgm_CS1033_sys,snd_sfx_atmos_training_stand_n,snd_sfx_atmos_training_stand_n,0,2,2

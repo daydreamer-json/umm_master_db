@@ -1,0 +1,497 @@
+[
+    {
+        "chara_id": 0,
+        "id": 1,
+        "lock_type": 0,
+        "lock_value": 0,
+        "secret_flg": 0,
+        "sort": 1,
+        "text_type": 1
+    },
+    {
+        "chara_id": 0,
+        "id": 2,
+        "lock_type": 1,
+        "lock_value": 1,
+        "secret_flg": 0,
+        "sort": 2,
+        "text_type": 2
+    },
+    {
+        "chara_id": 0,
+        "id": 3,
+        "lock_type": 1,
+        "lock_value": 2,
+        "secret_flg": 0,
+        "sort": 3,
+        "text_type": 3
+    },
+    {
+        "chara_id": 0,
+        "id": 4,
+        "lock_type": 1,
+        "lock_value": 3,
+        "secret_flg": 0,
+        "sort": 4,
+        "text_type": 4
+    },
+    {
+        "chara_id": 0,
+        "id": 5,
+        "lock_type": 1,
+        "lock_value": 4,
+        "secret_flg": 0,
+        "sort": 5,
+        "text_type": 5
+    },
+    {
+        "chara_id": 0,
+        "id": 6,
+        "lock_type": 1,
+        "lock_value": 5,
+        "secret_flg": 0,
+        "sort": 6,
+        "text_type": 6
+    },
+    {
+        "chara_id": 9001,
+        "id": 7,
+        "lock_type": 0,
+        "lock_value": 0,
+        "secret_flg": 0,
+        "sort": 1,
+        "text_type": 7
+    },
+    {
+        "chara_id": 9004,
+        "id": 8,
+        "lock_type": 0,
+        "lock_value": 0,
+        "secret_flg": 0,
+        "sort": 1,
+        "text_type": 8
+    },
+    {
+        "chara_id": 1003,
+        "id": 9,
+        "lock_type": 2,
+        "lock_value": 100302,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1013,
+        "id": 10,
+        "lock_type": 2,
+        "lock_value": 101302,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1018,
+        "id": 11,
+        "lock_type": 2,
+        "lock_value": 101802,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1024,
+        "id": 12,
+        "lock_type": 2,
+        "lock_value": 102402,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1011,
+        "id": 13,
+        "lock_type": 2,
+        "lock_value": 101102,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1014,
+        "id": 14,
+        "lock_type": 2,
+        "lock_value": 101402,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1001,
+        "id": 15,
+        "lock_type": 2,
+        "lock_value": 100102,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1004,
+        "id": 16,
+        "lock_type": 2,
+        "lock_value": 100402,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1056,
+        "id": 17,
+        "lock_type": 2,
+        "lock_value": 105602,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 9006,
+        "id": 18,
+        "lock_type": 0,
+        "lock_value": 0,
+        "secret_flg": 0,
+        "sort": 1,
+        "text_type": 8
+    },
+    {
+        "chara_id": 1030,
+        "id": 19,
+        "lock_type": 2,
+        "lock_value": 103002,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1045,
+        "id": 20,
+        "lock_type": 2,
+        "lock_value": 104502,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1017,
+        "id": 21,
+        "lock_type": 2,
+        "lock_value": 101702,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1040,
+        "id": 22,
+        "lock_type": 2,
+        "lock_value": 104002,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1006,
+        "id": 23,
+        "lock_type": 2,
+        "lock_value": 100602,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1023,
+        "id": 24,
+        "lock_type": 2,
+        "lock_value": 102302,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1015,
+        "id": 25,
+        "lock_type": 2,
+        "lock_value": 101502,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1052,
+        "id": 26,
+        "lock_type": 2,
+        "lock_value": 105202,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 9005,
+        "id": 27,
+        "lock_type": 0,
+        "lock_value": 0,
+        "secret_flg": 0,
+        "sort": 1,
+        "text_type": 7
+    },
+    {
+        "chara_id": 1026,
+        "id": 28,
+        "lock_type": 2,
+        "lock_value": 102602,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1037,
+        "id": 29,
+        "lock_type": 2,
+        "lock_value": 103702,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1005,
+        "id": 30,
+        "lock_type": 2,
+        "lock_value": 100502,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1020,
+        "id": 31,
+        "lock_type": 2,
+        "lock_value": 102002,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1060,
+        "id": 32,
+        "lock_type": 2,
+        "lock_value": 106002,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1061,
+        "id": 33,
+        "lock_type": 2,
+        "lock_value": 106102,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1022,
+        "id": 34,
+        "lock_type": 2,
+        "lock_value": 102202,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1038,
+        "id": 35,
+        "lock_type": 2,
+        "lock_value": 103802,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1010,
+        "id": 36,
+        "lock_type": 2,
+        "lock_value": 101002,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1059,
+        "id": 37,
+        "lock_type": 2,
+        "lock_value": 105902,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1001,
+        "id": 38,
+        "lock_type": 2,
+        "lock_value": 100103,
+        "secret_flg": 1,
+        "sort": 20,
+        "text_type": 11
+    },
+    {
+        "chara_id": 1007,
+        "id": 39,
+        "lock_type": 2,
+        "lock_value": 100702,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1013,
+        "id": 40,
+        "lock_type": 2,
+        "lock_value": 101303,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 11
+    },
+    {
+        "chara_id": 1035,
+        "id": 41,
+        "lock_type": 2,
+        "lock_value": 103502,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1050,
+        "id": 42,
+        "lock_type": 2,
+        "lock_value": 105002,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 9008,
+        "id": 43,
+        "lock_type": 0,
+        "lock_value": 0,
+        "secret_flg": 0,
+        "sort": 1,
+        "text_type": 7
+    },
+    {
+        "chara_id": 1046,
+        "id": 44,
+        "lock_type": 2,
+        "lock_value": 104602,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1019,
+        "id": 45,
+        "lock_type": 2,
+        "lock_value": 101902,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1058,
+        "id": 46,
+        "lock_type": 2,
+        "lock_value": 105802,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1021,
+        "id": 47,
+        "lock_type": 2,
+        "lock_value": 102102,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1034,
+        "id": 48,
+        "lock_type": 2,
+        "lock_value": 103402,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1008,
+        "id": 49,
+        "lock_type": 2,
+        "lock_value": 100802,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1009,
+        "id": 50,
+        "lock_type": 2,
+        "lock_value": 100902,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1016,
+        "id": 51,
+        "lock_type": 2,
+        "lock_value": 101602,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1067,
+        "id": 52,
+        "lock_type": 2,
+        "lock_value": 106702,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1068,
+        "id": 53,
+        "lock_type": 2,
+        "lock_value": 106802,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1027,
+        "id": 54,
+        "lock_type": 2,
+        "lock_value": 102702,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    },
+    {
+        "chara_id": 1031,
+        "id": 55,
+        "lock_type": 2,
+        "lock_value": 103102,
+        "secret_flg": 0,
+        "sort": 20,
+        "text_type": 10
+    }
+]

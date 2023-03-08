@@ -1,0 +1,191 @@
+[
+    {
+        "ear_type": 0,
+        "id": 1,
+        "motion_name": "earI",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 0,
+        "id": 2,
+        "motion_name": "earJ",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 0,
+        "id": 3,
+        "motion_name": "earK",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 0,
+        "id": 4,
+        "motion_name": "shotS01_tail",
+        "parts_type": 2,
+        "use_story": 1
+    },
+    {
+        "ear_type": 0,
+        "id": 5,
+        "motion_name": "shotL01_tail",
+        "parts_type": 2,
+        "use_story": 1
+    },
+    {
+        "ear_type": 0,
+        "id": 6,
+        "motion_name": "loopL01_tail",
+        "parts_type": 2,
+        "use_story": 1
+    },
+    {
+        "ear_type": 2,
+        "id": 7,
+        "motion_name": "earA_act01",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 2,
+        "id": 8,
+        "motion_name": "earA_act02",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 4,
+        "id": 9,
+        "motion_name": "earB_act01",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 4,
+        "id": 10,
+        "motion_name": "earB_act02",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 7,
+        "id": 11,
+        "motion_name": "earD_act01",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 7,
+        "id": 12,
+        "motion_name": "earD_act02",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 8,
+        "id": 13,
+        "motion_name": "earE_act01",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 8,
+        "id": 14,
+        "motion_name": "earE_act02",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 9,
+        "id": 15,
+        "motion_name": "earF_act01",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 9,
+        "id": 16,
+        "motion_name": "earF_act02",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 11,
+        "id": 17,
+        "motion_name": "earG_act01",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 11,
+        "id": 18,
+        "motion_name": "earG_act02",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 12,
+        "id": 19,
+        "motion_name": "earH_act01",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 12,
+        "id": 20,
+        "motion_name": "earH_act02",
+        "parts_type": 1,
+        "use_story": 1
+    },
+    {
+        "ear_type": 0,
+        "id": 1226,
+        "motion_name": "shotS02_tail",
+        "parts_type": 2,
+        "use_story": 0
+    },
+    {
+        "ear_type": 0,
+        "id": 1227,
+        "motion_name": "shotS03_tail",
+        "parts_type": 2,
+        "use_story": 0
+    },
+    {
+        "ear_type": 0,
+        "id": 1228,
+        "motion_name": "loopL02_tail",
+        "parts_type": 2,
+        "use_story": 0
+    },
+    {
+        "ear_type": 0,
+        "id": 1229,
+        "motion_name": "loopL03_tail",
+        "parts_type": 2,
+        "use_story": 0
+    },
+    {
+        "ear_type": 0,
+        "id": 1230,
+        "motion_name": "loopL04_tail",
+        "parts_type": 2,
+        "use_story": 0
+    },
+    {
+        "ear_type": 0,
+        "id": 1231,
+        "motion_name": "loopS01_tail",
+        "parts_type": 2,
+        "use_story": 0
+    },
+    {
+        "ear_type": 0,
+        "id": 1232,
+        "motion_name": "shotL02_tail",
+        "parts_type": 2,
+        "use_story": 0
+    }
+]

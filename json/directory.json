@@ -1,0 +1,1602 @@
+[
+    {
+        "id": 1,
+        "item_category_1": 0,
+        "item_id_1": 0,
+        "item_num_1": 0,
+        "rank_level": 1,
+        "required_point": 0
+    },
+    {
+        "id": 2,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 2,
+        "required_point": 22000
+    },
+    {
+        "id": 3,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 3,
+        "required_point": 30000
+    },
+    {
+        "id": 4,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 4,
+        "required_point": 40000
+    },
+    {
+        "id": 5,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 5,
+        "required_point": 50000
+    },
+    {
+        "id": 6,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 6,
+        "required_point": 60000
+    },
+    {
+        "id": 7,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 7,
+        "required_point": 72000
+    },
+    {
+        "id": 8,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 8,
+        "required_point": 84000
+    },
+    {
+        "id": 9,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 9,
+        "required_point": 96000
+    },
+    {
+        "id": 10,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 10,
+        "required_point": 108000
+    },
+    {
+        "id": 11,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 11,
+        "required_point": 120000
+    },
+    {
+        "id": 12,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 12,
+        "required_point": 136000
+    },
+    {
+        "id": 13,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 13,
+        "required_point": 152000
+    },
+    {
+        "id": 14,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 14,
+        "required_point": 168000
+    },
+    {
+        "id": 15,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 15,
+        "required_point": 184000
+    },
+    {
+        "id": 16,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 16,
+        "required_point": 200000
+    },
+    {
+        "id": 17,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 17,
+        "required_point": 216000
+    },
+    {
+        "id": 18,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 18,
+        "required_point": 232000
+    },
+    {
+        "id": 19,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 19,
+        "required_point": 248000
+    },
+    {
+        "id": 20,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 20,
+        "required_point": 264000
+    },
+    {
+        "id": 21,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 21,
+        "required_point": 284000
+    },
+    {
+        "id": 22,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 22,
+        "required_point": 304000
+    },
+    {
+        "id": 23,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 23,
+        "required_point": 324000
+    },
+    {
+        "id": 24,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 24,
+        "required_point": 344000
+    },
+    {
+        "id": 25,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 25,
+        "required_point": 364000
+    },
+    {
+        "id": 26,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 26,
+        "required_point": 384000
+    },
+    {
+        "id": 27,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 27,
+        "required_point": 404000
+    },
+    {
+        "id": 28,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 28,
+        "required_point": 424000
+    },
+    {
+        "id": 29,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 29,
+        "required_point": 444000
+    },
+    {
+        "id": 30,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 30,
+        "required_point": 464000
+    },
+    {
+        "id": 31,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 31,
+        "required_point": 484000
+    },
+    {
+        "id": 32,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 32,
+        "required_point": 512000
+    },
+    {
+        "id": 33,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 33,
+        "required_point": 540000
+    },
+    {
+        "id": 34,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 34,
+        "required_point": 568000
+    },
+    {
+        "id": 35,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 35,
+        "required_point": 596000
+    },
+    {
+        "id": 36,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 36,
+        "required_point": 624000
+    },
+    {
+        "id": 37,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 37,
+        "required_point": 652000
+    },
+    {
+        "id": 38,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 38,
+        "required_point": 680000
+    },
+    {
+        "id": 39,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 39,
+        "required_point": 708000
+    },
+    {
+        "id": 40,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 40,
+        "required_point": 736000
+    },
+    {
+        "id": 41,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 41,
+        "required_point": 764000
+    },
+    {
+        "id": 42,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 42,
+        "required_point": 800000
+    },
+    {
+        "id": 43,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 43,
+        "required_point": 836000
+    },
+    {
+        "id": 44,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 44,
+        "required_point": 872000
+    },
+    {
+        "id": 45,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 45,
+        "required_point": 908000
+    },
+    {
+        "id": 46,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 46,
+        "required_point": 944000
+    },
+    {
+        "id": 47,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 47,
+        "required_point": 980000
+    },
+    {
+        "id": 48,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 48,
+        "required_point": 1016000
+    },
+    {
+        "id": 49,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 49,
+        "required_point": 1052000
+    },
+    {
+        "id": 50,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 50,
+        "required_point": 1088000
+    },
+    {
+        "id": 51,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 51,
+        "required_point": 1124000
+    },
+    {
+        "id": 52,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 52,
+        "required_point": 1170000
+    },
+    {
+        "id": 53,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 53,
+        "required_point": 1216000
+    },
+    {
+        "id": 54,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 54,
+        "required_point": 1262000
+    },
+    {
+        "id": 55,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 55,
+        "required_point": 1308000
+    },
+    {
+        "id": 56,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 56,
+        "required_point": 1354000
+    },
+    {
+        "id": 57,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 57,
+        "required_point": 1400000
+    },
+    {
+        "id": 58,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 58,
+        "required_point": 1446000
+    },
+    {
+        "id": 59,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 59,
+        "required_point": 1492000
+    },
+    {
+        "id": 60,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 60,
+        "required_point": 1538000
+    },
+    {
+        "id": 61,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 61,
+        "required_point": 1584000
+    },
+    {
+        "id": 62,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 62,
+        "required_point": 1640000
+    },
+    {
+        "id": 63,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 63,
+        "required_point": 1696000
+    },
+    {
+        "id": 64,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 64,
+        "required_point": 1752000
+    },
+    {
+        "id": 65,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 65,
+        "required_point": 1808000
+    },
+    {
+        "id": 66,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 66,
+        "required_point": 1864000
+    },
+    {
+        "id": 67,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 67,
+        "required_point": 1920000
+    },
+    {
+        "id": 68,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 68,
+        "required_point": 1976000
+    },
+    {
+        "id": 69,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 69,
+        "required_point": 2032000
+    },
+    {
+        "id": 70,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 70,
+        "required_point": 2088000
+    },
+    {
+        "id": 71,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 71,
+        "required_point": 2144000
+    },
+    {
+        "id": 72,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 72,
+        "required_point": 2212000
+    },
+    {
+        "id": 73,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 73,
+        "required_point": 2280000
+    },
+    {
+        "id": 74,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 74,
+        "required_point": 2348000
+    },
+    {
+        "id": 75,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 75,
+        "required_point": 2416000
+    },
+    {
+        "id": 76,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 76,
+        "required_point": 2484000
+    },
+    {
+        "id": 77,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 77,
+        "required_point": 2552000
+    },
+    {
+        "id": 78,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 78,
+        "required_point": 2620000
+    },
+    {
+        "id": 79,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 79,
+        "required_point": 2688000
+    },
+    {
+        "id": 80,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 80,
+        "required_point": 2756000
+    },
+    {
+        "id": 81,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 81,
+        "required_point": 2824000
+    },
+    {
+        "id": 82,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 82,
+        "required_point": 2904000
+    },
+    {
+        "id": 83,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 83,
+        "required_point": 2984000
+    },
+    {
+        "id": 84,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 84,
+        "required_point": 3064000
+    },
+    {
+        "id": 85,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 85,
+        "required_point": 3144000
+    },
+    {
+        "id": 86,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 86,
+        "required_point": 3224000
+    },
+    {
+        "id": 87,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 87,
+        "required_point": 3304000
+    },
+    {
+        "id": 88,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 88,
+        "required_point": 3384000
+    },
+    {
+        "id": 89,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 89,
+        "required_point": 3464000
+    },
+    {
+        "id": 90,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 90,
+        "required_point": 3544000
+    },
+    {
+        "id": 91,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 91,
+        "required_point": 3624000
+    },
+    {
+        "id": 92,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 92,
+        "required_point": 3716000
+    },
+    {
+        "id": 93,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 93,
+        "required_point": 3808000
+    },
+    {
+        "id": 94,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 94,
+        "required_point": 3900000
+    },
+    {
+        "id": 95,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 95,
+        "required_point": 3992000
+    },
+    {
+        "id": 96,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 96,
+        "required_point": 4084000
+    },
+    {
+        "id": 97,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 97,
+        "required_point": 4176000
+    },
+    {
+        "id": 98,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 98,
+        "required_point": 4268000
+    },
+    {
+        "id": 99,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 50,
+        "rank_level": 99,
+        "required_point": 4360000
+    },
+    {
+        "id": 100,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 500,
+        "rank_level": 100,
+        "required_point": 4452000
+    },
+    {
+        "id": 101,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 101,
+        "required_point": 4544000
+    },
+    {
+        "id": 102,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 102,
+        "required_point": 4640000
+    },
+    {
+        "id": 103,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 103,
+        "required_point": 4736000
+    },
+    {
+        "id": 104,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 104,
+        "required_point": 4832000
+    },
+    {
+        "id": 105,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 105,
+        "required_point": 4928000
+    },
+    {
+        "id": 106,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 106,
+        "required_point": 5024000
+    },
+    {
+        "id": 107,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 107,
+        "required_point": 5120000
+    },
+    {
+        "id": 108,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 108,
+        "required_point": 5216000
+    },
+    {
+        "id": 109,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 109,
+        "required_point": 5312000
+    },
+    {
+        "id": 110,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 110,
+        "required_point": 5408000
+    },
+    {
+        "id": 111,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 111,
+        "required_point": 5504000
+    },
+    {
+        "id": 112,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 112,
+        "required_point": 5604000
+    },
+    {
+        "id": 113,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 113,
+        "required_point": 5704000
+    },
+    {
+        "id": 114,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 114,
+        "required_point": 5804000
+    },
+    {
+        "id": 115,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 115,
+        "required_point": 5904000
+    },
+    {
+        "id": 116,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 116,
+        "required_point": 6004000
+    },
+    {
+        "id": 117,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 117,
+        "required_point": 6104000
+    },
+    {
+        "id": 118,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 118,
+        "required_point": 6204000
+    },
+    {
+        "id": 119,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 119,
+        "required_point": 6304000
+    },
+    {
+        "id": 120,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 120,
+        "required_point": 6404000
+    },
+    {
+        "id": 121,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 121,
+        "required_point": 6504000
+    },
+    {
+        "id": 122,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 122,
+        "required_point": 6612000
+    },
+    {
+        "id": 123,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 123,
+        "required_point": 6720000
+    },
+    {
+        "id": 124,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 124,
+        "required_point": 6828000
+    },
+    {
+        "id": 125,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 125,
+        "required_point": 6936000
+    },
+    {
+        "id": 126,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 126,
+        "required_point": 7044000
+    },
+    {
+        "id": 127,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 127,
+        "required_point": 7152000
+    },
+    {
+        "id": 128,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 128,
+        "required_point": 7260000
+    },
+    {
+        "id": 129,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 129,
+        "required_point": 7368000
+    },
+    {
+        "id": 130,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 130,
+        "required_point": 7476000
+    },
+    {
+        "id": 131,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 131,
+        "required_point": 7584000
+    },
+    {
+        "id": 132,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 132,
+        "required_point": 7700000
+    },
+    {
+        "id": 133,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 133,
+        "required_point": 7816000
+    },
+    {
+        "id": 134,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 134,
+        "required_point": 7932000
+    },
+    {
+        "id": 135,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 135,
+        "required_point": 8048000
+    },
+    {
+        "id": 136,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 136,
+        "required_point": 8164000
+    },
+    {
+        "id": 137,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 137,
+        "required_point": 8280000
+    },
+    {
+        "id": 138,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 138,
+        "required_point": 8396000
+    },
+    {
+        "id": 139,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 139,
+        "required_point": 8512000
+    },
+    {
+        "id": 140,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 140,
+        "required_point": 8628000
+    },
+    {
+        "id": 141,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 141,
+        "required_point": 8744000
+    },
+    {
+        "id": 142,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 142,
+        "required_point": 8868000
+    },
+    {
+        "id": 143,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 143,
+        "required_point": 8992000
+    },
+    {
+        "id": 144,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 144,
+        "required_point": 9116000
+    },
+    {
+        "id": 145,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 145,
+        "required_point": 9240000
+    },
+    {
+        "id": 146,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 146,
+        "required_point": 9364000
+    },
+    {
+        "id": 147,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 147,
+        "required_point": 9488000
+    },
+    {
+        "id": 148,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 148,
+        "required_point": 9612000
+    },
+    {
+        "id": 149,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 149,
+        "required_point": 9736000
+    },
+    {
+        "id": 150,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 150,
+        "required_point": 9860000
+    },
+    {
+        "id": 151,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 151,
+        "required_point": 9984000
+    },
+    {
+        "id": 152,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 152,
+        "required_point": 10118000
+    },
+    {
+        "id": 153,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 153,
+        "required_point": 10252000
+    },
+    {
+        "id": 154,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 154,
+        "required_point": 10386000
+    },
+    {
+        "id": 155,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 155,
+        "required_point": 10520000
+    },
+    {
+        "id": 156,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 156,
+        "required_point": 10654000
+    },
+    {
+        "id": 157,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 157,
+        "required_point": 10788000
+    },
+    {
+        "id": 158,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 158,
+        "required_point": 10922000
+    },
+    {
+        "id": 159,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 159,
+        "required_point": 11056000
+    },
+    {
+        "id": 160,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 160,
+        "required_point": 11190000
+    },
+    {
+        "id": 161,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 161,
+        "required_point": 11324000
+    },
+    {
+        "id": 162,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 162,
+        "required_point": 11468000
+    },
+    {
+        "id": 163,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 163,
+        "required_point": 11612000
+    },
+    {
+        "id": 164,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 164,
+        "required_point": 11756000
+    },
+    {
+        "id": 165,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 165,
+        "required_point": 11900000
+    },
+    {
+        "id": 166,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 166,
+        "required_point": 12044000
+    },
+    {
+        "id": 167,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 167,
+        "required_point": 12188000
+    },
+    {
+        "id": 168,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 168,
+        "required_point": 12332000
+    },
+    {
+        "id": 169,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 169,
+        "required_point": 12476000
+    },
+    {
+        "id": 170,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 170,
+        "required_point": 12620000
+    },
+    {
+        "id": 171,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 171,
+        "required_point": 12764000
+    },
+    {
+        "id": 172,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 172,
+        "required_point": 12918000
+    },
+    {
+        "id": 173,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 173,
+        "required_point": 13072000
+    },
+    {
+        "id": 174,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 174,
+        "required_point": 13226000
+    },
+    {
+        "id": 175,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 175,
+        "required_point": 13380000
+    },
+    {
+        "id": 176,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 176,
+        "required_point": 13534000
+    },
+    {
+        "id": 177,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 177,
+        "required_point": 13688000
+    },
+    {
+        "id": 178,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 178,
+        "required_point": 13842000
+    },
+    {
+        "id": 179,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 179,
+        "required_point": 13996000
+    },
+    {
+        "id": 180,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 180,
+        "required_point": 14150000
+    },
+    {
+        "id": 181,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 181,
+        "required_point": 14304000
+    },
+    {
+        "id": 182,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 182,
+        "required_point": 14468000
+    },
+    {
+        "id": 183,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 183,
+        "required_point": 14632000
+    },
+    {
+        "id": 184,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 184,
+        "required_point": 14796000
+    },
+    {
+        "id": 185,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 185,
+        "required_point": 14960000
+    },
+    {
+        "id": 186,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 186,
+        "required_point": 15124000
+    },
+    {
+        "id": 187,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 187,
+        "required_point": 15288000
+    },
+    {
+        "id": 188,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 188,
+        "required_point": 15452000
+    },
+    {
+        "id": 189,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 189,
+        "required_point": 15616000
+    },
+    {
+        "id": 190,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 190,
+        "required_point": 15780000
+    },
+    {
+        "id": 191,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 191,
+        "required_point": 15944000
+    },
+    {
+        "id": 192,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 192,
+        "required_point": 16118000
+    },
+    {
+        "id": 193,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 193,
+        "required_point": 16292000
+    },
+    {
+        "id": 194,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 194,
+        "required_point": 16466000
+    },
+    {
+        "id": 195,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 195,
+        "required_point": 16640000
+    },
+    {
+        "id": 196,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 196,
+        "required_point": 16814000
+    },
+    {
+        "id": 197,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 197,
+        "required_point": 16988000
+    },
+    {
+        "id": 198,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 198,
+        "required_point": 17162000
+    },
+    {
+        "id": 199,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 75,
+        "rank_level": 199,
+        "required_point": 17336000
+    },
+    {
+        "id": 200,
+        "item_category_1": 90,
+        "item_id_1": 43,
+        "item_num_1": 500,
+        "rank_level": 200,
+        "required_point": 17510000
+    }
+]

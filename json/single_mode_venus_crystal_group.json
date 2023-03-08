@@ -1,0 +1,122 @@
+[
+    {
+        "active_effect_group_id": 401,
+        "active_effect_turn": 1,
+        "chara_id": 9040,
+        "id": 1,
+        "passive_effect_group_id": 4001,
+        "venus_level": 1
+    },
+    {
+        "active_effect_group_id": 401,
+        "active_effect_turn": 1,
+        "chara_id": 9040,
+        "id": 2,
+        "passive_effect_group_id": 4002,
+        "venus_level": 2
+    },
+    {
+        "active_effect_group_id": 401,
+        "active_effect_turn": 1,
+        "chara_id": 9040,
+        "id": 3,
+        "passive_effect_group_id": 4003,
+        "venus_level": 3
+    },
+    {
+        "active_effect_group_id": 401,
+        "active_effect_turn": 1,
+        "chara_id": 9040,
+        "id": 4,
+        "passive_effect_group_id": 4004,
+        "venus_level": 4
+    },
+    {
+        "active_effect_group_id": 401,
+        "active_effect_turn": 1,
+        "chara_id": 9040,
+        "id": 5,
+        "passive_effect_group_id": 4005,
+        "venus_level": 5
+    },
+    {
+        "active_effect_group_id": 411,
+        "active_effect_turn": 1,
+        "chara_id": 9041,
+        "id": 10,
+        "passive_effect_group_id": 4101,
+        "venus_level": 1
+    },
+    {
+        "active_effect_group_id": 411,
+        "active_effect_turn": 1,
+        "chara_id": 9041,
+        "id": 11,
+        "passive_effect_group_id": 4102,
+        "venus_level": 2
+    },
+    {
+        "active_effect_group_id": 411,
+        "active_effect_turn": 1,
+        "chara_id": 9041,
+        "id": 12,
+        "passive_effect_group_id": 4103,
+        "venus_level": 3
+    },
+    {
+        "active_effect_group_id": 411,
+        "active_effect_turn": 1,
+        "chara_id": 9041,
+        "id": 13,
+        "passive_effect_group_id": 4104,
+        "venus_level": 4
+    },
+    {
+        "active_effect_group_id": 411,
+        "active_effect_turn": 1,
+        "chara_id": 9041,
+        "id": 14,
+        "passive_effect_group_id": 4105,
+        "venus_level": 5
+    },
+    {
+        "active_effect_group_id": 421,
+        "active_effect_turn": 1,
+        "chara_id": 9042,
+        "id": 19,
+        "passive_effect_group_id": 4201,
+        "venus_level": 1
+    },
+    {
+        "active_effect_group_id": 421,
+        "active_effect_turn": 1,
+        "chara_id": 9042,
+        "id": 20,
+        "passive_effect_group_id": 4202,
+        "venus_level": 2
+    },
+    {
+        "active_effect_group_id": 421,
+        "active_effect_turn": 1,
+        "chara_id": 9042,
+        "id": 21,
+        "passive_effect_group_id": 4203,
+        "venus_level": 3
+    },
+    {
+        "active_effect_group_id": 421,
+        "active_effect_turn": 1,
+        "chara_id": 9042,
+        "id": 22,
+        "passive_effect_group_id": 4204,
+        "venus_level": 4
+    },
+    {
+        "active_effect_group_id": 421,
+        "active_effect_turn": 1,
+        "chara_id": 9042,
+        "id": 23,
+        "passive_effect_group_id": 4205,
+        "venus_level": 5
+    }
+]

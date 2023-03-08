@@ -1,0 +1,3269 @@
+[
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1001,
+        "transfer_reward_id": 10010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1001,
+        "transfer_reward_id": 10010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1001,
+        "transfer_reward_id": 10010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1002,
+        "transfer_reward_id": 10020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1002,
+        "transfer_reward_id": 10020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1002,
+        "transfer_reward_id": 10020103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1003,
+        "transfer_reward_id": 10030101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1003,
+        "transfer_reward_id": 10030102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1003,
+        "transfer_reward_id": 10030103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1004,
+        "transfer_reward_id": 10040101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1004,
+        "transfer_reward_id": 10040102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1004,
+        "transfer_reward_id": 10040103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1005,
+        "transfer_reward_id": 10050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1005,
+        "transfer_reward_id": 10050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1006,
+        "transfer_reward_id": 10060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1006,
+        "transfer_reward_id": 10060102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1007,
+        "transfer_reward_id": 10070101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1007,
+        "transfer_reward_id": 10070102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1008,
+        "transfer_reward_id": 10080101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1008,
+        "transfer_reward_id": 10080102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1009,
+        "transfer_reward_id": 10090101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1009,
+        "transfer_reward_id": 10090102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1010,
+        "transfer_reward_id": 10100101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1010,
+        "transfer_reward_id": 10100102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1011,
+        "transfer_reward_id": 10110101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1011,
+        "transfer_reward_id": 10110102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1012,
+        "transfer_reward_id": 10120101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 1012,
+        "transfer_reward_id": 10120102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2001,
+        "transfer_reward_id": 20010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2001,
+        "transfer_reward_id": 20010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2001,
+        "transfer_reward_id": 20010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2002,
+        "transfer_reward_id": 20020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2002,
+        "transfer_reward_id": 20020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2002,
+        "transfer_reward_id": 20020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2003,
+        "transfer_reward_id": 20030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2003,
+        "transfer_reward_id": 20030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2004,
+        "transfer_reward_id": 20040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2004,
+        "transfer_reward_id": 20040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2005,
+        "transfer_reward_id": 20050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2005,
+        "transfer_reward_id": 20050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2006,
+        "transfer_reward_id": 20060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 2006,
+        "transfer_reward_id": 20060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3001,
+        "transfer_reward_id": 30010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3001,
+        "transfer_reward_id": 30010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3001,
+        "transfer_reward_id": 30010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3002,
+        "transfer_reward_id": 30020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3002,
+        "transfer_reward_id": 30020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3002,
+        "transfer_reward_id": 30020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3003,
+        "transfer_reward_id": 30030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3003,
+        "transfer_reward_id": 30030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3004,
+        "transfer_reward_id": 30040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3004,
+        "transfer_reward_id": 30040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3005,
+        "transfer_reward_id": 30050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3005,
+        "transfer_reward_id": 30050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3006,
+        "transfer_reward_id": 30060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 3006,
+        "transfer_reward_id": 30060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4001,
+        "transfer_reward_id": 40010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4001,
+        "transfer_reward_id": 40010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4001,
+        "transfer_reward_id": 40010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4002,
+        "transfer_reward_id": 40020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4002,
+        "transfer_reward_id": 40020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4002,
+        "transfer_reward_id": 40020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4003,
+        "transfer_reward_id": 40030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4003,
+        "transfer_reward_id": 40030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4004,
+        "transfer_reward_id": 40040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4004,
+        "transfer_reward_id": 40040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4005,
+        "transfer_reward_id": 40050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4005,
+        "transfer_reward_id": 40050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4006,
+        "transfer_reward_id": 40060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 4006,
+        "transfer_reward_id": 40060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5001,
+        "transfer_reward_id": 50010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5001,
+        "transfer_reward_id": 50010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5001,
+        "transfer_reward_id": 50010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5002,
+        "transfer_reward_id": 50020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5002,
+        "transfer_reward_id": 50020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5002,
+        "transfer_reward_id": 50020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5003,
+        "transfer_reward_id": 50030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5003,
+        "transfer_reward_id": 50030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5004,
+        "transfer_reward_id": 50040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5004,
+        "transfer_reward_id": 50040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5005,
+        "transfer_reward_id": 50050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5005,
+        "transfer_reward_id": 50050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5006,
+        "transfer_reward_id": 50060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 5006,
+        "transfer_reward_id": 50060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6001,
+        "transfer_reward_id": 60010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6001,
+        "transfer_reward_id": 60010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6001,
+        "transfer_reward_id": 60010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6002,
+        "transfer_reward_id": 60020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6002,
+        "transfer_reward_id": 60020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6002,
+        "transfer_reward_id": 60020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6003,
+        "transfer_reward_id": 60030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6003,
+        "transfer_reward_id": 60030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6004,
+        "transfer_reward_id": 60040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6004,
+        "transfer_reward_id": 60040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6005,
+        "transfer_reward_id": 60050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6005,
+        "transfer_reward_id": 60050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6006,
+        "transfer_reward_id": 60060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 6006,
+        "transfer_reward_id": 60060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7001,
+        "transfer_reward_id": 70010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7001,
+        "transfer_reward_id": 70010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7001,
+        "transfer_reward_id": 70010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7002,
+        "transfer_reward_id": 70020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7002,
+        "transfer_reward_id": 70020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7002,
+        "transfer_reward_id": 70020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7003,
+        "transfer_reward_id": 70030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7003,
+        "transfer_reward_id": 70030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7004,
+        "transfer_reward_id": 70040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7004,
+        "transfer_reward_id": 70040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7005,
+        "transfer_reward_id": 70050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7005,
+        "transfer_reward_id": 70050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7006,
+        "transfer_reward_id": 70060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 7006,
+        "transfer_reward_id": 70060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8001,
+        "transfer_reward_id": 80010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8001,
+        "transfer_reward_id": 80010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8001,
+        "transfer_reward_id": 80010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8002,
+        "transfer_reward_id": 80020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8002,
+        "transfer_reward_id": 80020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8002,
+        "transfer_reward_id": 80020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8003,
+        "transfer_reward_id": 80030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8003,
+        "transfer_reward_id": 80030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8004,
+        "transfer_reward_id": 80040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8004,
+        "transfer_reward_id": 80040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8005,
+        "transfer_reward_id": 80050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8005,
+        "transfer_reward_id": 80050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8006,
+        "transfer_reward_id": 80060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 8006,
+        "transfer_reward_id": 80060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9001,
+        "transfer_reward_id": 90010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9001,
+        "transfer_reward_id": 90010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9001,
+        "transfer_reward_id": 90010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9002,
+        "transfer_reward_id": 90020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9002,
+        "transfer_reward_id": 90020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9002,
+        "transfer_reward_id": 90020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9003,
+        "transfer_reward_id": 90030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9003,
+        "transfer_reward_id": 90030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9004,
+        "transfer_reward_id": 90040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9004,
+        "transfer_reward_id": 90040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9005,
+        "transfer_reward_id": 90050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9005,
+        "transfer_reward_id": 90050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9006,
+        "transfer_reward_id": 90060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 9006,
+        "transfer_reward_id": 90060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10001,
+        "transfer_reward_id": 100010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10001,
+        "transfer_reward_id": 100010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10001,
+        "transfer_reward_id": 100010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10002,
+        "transfer_reward_id": 100020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10002,
+        "transfer_reward_id": 100020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10002,
+        "transfer_reward_id": 100020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10003,
+        "transfer_reward_id": 100030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10003,
+        "transfer_reward_id": 100030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10004,
+        "transfer_reward_id": 100040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10004,
+        "transfer_reward_id": 100040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10005,
+        "transfer_reward_id": 100050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10005,
+        "transfer_reward_id": 100050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10006,
+        "transfer_reward_id": 100060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 10006,
+        "transfer_reward_id": 100060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11001,
+        "transfer_reward_id": 110010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11001,
+        "transfer_reward_id": 110010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11001,
+        "transfer_reward_id": 110010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11002,
+        "transfer_reward_id": 110020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11002,
+        "transfer_reward_id": 110020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11002,
+        "transfer_reward_id": 110020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11003,
+        "transfer_reward_id": 110030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11003,
+        "transfer_reward_id": 110030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11004,
+        "transfer_reward_id": 110040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11004,
+        "transfer_reward_id": 110040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11005,
+        "transfer_reward_id": 110050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11005,
+        "transfer_reward_id": 110050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11006,
+        "transfer_reward_id": 110060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 11006,
+        "transfer_reward_id": 110060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12001,
+        "transfer_reward_id": 120010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12001,
+        "transfer_reward_id": 120010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12001,
+        "transfer_reward_id": 120010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12002,
+        "transfer_reward_id": 120020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12002,
+        "transfer_reward_id": 120020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12002,
+        "transfer_reward_id": 120020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12003,
+        "transfer_reward_id": 120030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12003,
+        "transfer_reward_id": 120030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12004,
+        "transfer_reward_id": 120040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12004,
+        "transfer_reward_id": 120040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12005,
+        "transfer_reward_id": 120050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12005,
+        "transfer_reward_id": 120050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12006,
+        "transfer_reward_id": 120060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 12006,
+        "transfer_reward_id": 120060102
+    },
+    {
+        "item_category": 11,
+        "item_id": 163,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13001,
+        "transfer_reward_id": 130010101
+    },
+    {
+        "item_category": 11,
+        "item_id": 160,
+        "item_num": 2,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13001,
+        "transfer_reward_id": 130010102
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13001,
+        "transfer_reward_id": 130010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13002,
+        "transfer_reward_id": 130020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13002,
+        "transfer_reward_id": 130020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13002,
+        "transfer_reward_id": 130020103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13002,
+        "transfer_reward_id": 130020104
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13003,
+        "transfer_reward_id": 130030101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13003,
+        "transfer_reward_id": 130030102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13003,
+        "transfer_reward_id": 130030103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13003,
+        "transfer_reward_id": 130030104
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13004,
+        "transfer_reward_id": 130040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13004,
+        "transfer_reward_id": 130040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13005,
+        "transfer_reward_id": 130050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13005,
+        "transfer_reward_id": 130050102
+    },
+    {
+        "item_category": 11,
+        "item_id": 162,
+        "item_num": 2,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13006,
+        "transfer_reward_id": 130060101
+    },
+    {
+        "item_category": 11,
+        "item_id": 161,
+        "item_num": 2,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13006,
+        "transfer_reward_id": 130060102
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13006,
+        "transfer_reward_id": 130060103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13007,
+        "transfer_reward_id": 130070101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13007,
+        "transfer_reward_id": 130070102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13007,
+        "transfer_reward_id": 130070103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13007,
+        "transfer_reward_id": 130070104
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13008,
+        "transfer_reward_id": 130080101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13008,
+        "transfer_reward_id": 130080102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13008,
+        "transfer_reward_id": 130080103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13008,
+        "transfer_reward_id": 130080104
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13009,
+        "transfer_reward_id": 130090101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13009,
+        "transfer_reward_id": 130090102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13010,
+        "transfer_reward_id": 130100101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13010,
+        "transfer_reward_id": 130100102
+    },
+    {
+        "item_category": 11,
+        "item_id": 163,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13011,
+        "transfer_reward_id": 130110101
+    },
+    {
+        "item_category": 11,
+        "item_id": 160,
+        "item_num": 2,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13011,
+        "transfer_reward_id": 130110102
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13011,
+        "transfer_reward_id": 130110103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13012,
+        "transfer_reward_id": 130120101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13012,
+        "transfer_reward_id": 130120102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13012,
+        "transfer_reward_id": 130120103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13012,
+        "transfer_reward_id": 130120104
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13013,
+        "transfer_reward_id": 130130101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13013,
+        "transfer_reward_id": 130130102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13013,
+        "transfer_reward_id": 130130103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13013,
+        "transfer_reward_id": 130130104
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13014,
+        "transfer_reward_id": 130140101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13014,
+        "transfer_reward_id": 130140102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13015,
+        "transfer_reward_id": 130150101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 13015,
+        "transfer_reward_id": 130150102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14001,
+        "transfer_reward_id": 140010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14001,
+        "transfer_reward_id": 140010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14001,
+        "transfer_reward_id": 140010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14002,
+        "transfer_reward_id": 140020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14002,
+        "transfer_reward_id": 140020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14002,
+        "transfer_reward_id": 140020103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14003,
+        "transfer_reward_id": 140030101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14003,
+        "transfer_reward_id": 140030102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14003,
+        "transfer_reward_id": 140030103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14004,
+        "transfer_reward_id": 140040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14004,
+        "transfer_reward_id": 140040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14005,
+        "transfer_reward_id": 140050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14005,
+        "transfer_reward_id": 140050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14006,
+        "transfer_reward_id": 140060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14006,
+        "transfer_reward_id": 140060102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14007,
+        "transfer_reward_id": 140070101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14007,
+        "transfer_reward_id": 140070102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14008,
+        "transfer_reward_id": 140080101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14008,
+        "transfer_reward_id": 140080102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14009,
+        "transfer_reward_id": 140090101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 14009,
+        "transfer_reward_id": 140090102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15001,
+        "transfer_reward_id": 150010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15001,
+        "transfer_reward_id": 150010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15001,
+        "transfer_reward_id": 150010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15002,
+        "transfer_reward_id": 150020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15002,
+        "transfer_reward_id": 150020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15002,
+        "transfer_reward_id": 150020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15003,
+        "transfer_reward_id": 150030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15003,
+        "transfer_reward_id": 150030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15004,
+        "transfer_reward_id": 150040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15004,
+        "transfer_reward_id": 150040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15005,
+        "transfer_reward_id": 150050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15005,
+        "transfer_reward_id": 150050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15006,
+        "transfer_reward_id": 150060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 15006,
+        "transfer_reward_id": 150060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16001,
+        "transfer_reward_id": 160010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16001,
+        "transfer_reward_id": 160010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16001,
+        "transfer_reward_id": 160010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16002,
+        "transfer_reward_id": 160020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16002,
+        "transfer_reward_id": 160020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16002,
+        "transfer_reward_id": 160020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16003,
+        "transfer_reward_id": 160030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16003,
+        "transfer_reward_id": 160030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16004,
+        "transfer_reward_id": 160040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16004,
+        "transfer_reward_id": 160040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16005,
+        "transfer_reward_id": 160050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16005,
+        "transfer_reward_id": 160050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16006,
+        "transfer_reward_id": 160060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 16006,
+        "transfer_reward_id": 160060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17001,
+        "transfer_reward_id": 170010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17001,
+        "transfer_reward_id": 170010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17001,
+        "transfer_reward_id": 170010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17002,
+        "transfer_reward_id": 170020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17002,
+        "transfer_reward_id": 170020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17002,
+        "transfer_reward_id": 170020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17003,
+        "transfer_reward_id": 170030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17003,
+        "transfer_reward_id": 170030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17004,
+        "transfer_reward_id": 170040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17004,
+        "transfer_reward_id": 170040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17005,
+        "transfer_reward_id": 170050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17005,
+        "transfer_reward_id": 170050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17006,
+        "transfer_reward_id": 170060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 17006,
+        "transfer_reward_id": 170060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18001,
+        "transfer_reward_id": 180010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18001,
+        "transfer_reward_id": 180010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18001,
+        "transfer_reward_id": 180010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18002,
+        "transfer_reward_id": 180020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18002,
+        "transfer_reward_id": 180020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18002,
+        "transfer_reward_id": 180020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18003,
+        "transfer_reward_id": 180030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18003,
+        "transfer_reward_id": 180030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18004,
+        "transfer_reward_id": 180040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18004,
+        "transfer_reward_id": 180040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18005,
+        "transfer_reward_id": 180050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18005,
+        "transfer_reward_id": 180050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18006,
+        "transfer_reward_id": 180060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 18006,
+        "transfer_reward_id": 180060102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19001,
+        "transfer_reward_id": 190010101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19001,
+        "transfer_reward_id": 190010102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19001,
+        "transfer_reward_id": 190010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19002,
+        "transfer_reward_id": 190020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19002,
+        "transfer_reward_id": 190020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19002,
+        "transfer_reward_id": 190020103
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19003,
+        "transfer_reward_id": 190030101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19003,
+        "transfer_reward_id": 190030102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19004,
+        "transfer_reward_id": 190040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19004,
+        "transfer_reward_id": 190040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19005,
+        "transfer_reward_id": 190050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19005,
+        "transfer_reward_id": 190050102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 300,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19006,
+        "transfer_reward_id": 190060101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 1500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 19006,
+        "transfer_reward_id": 190060102
+    },
+    {
+        "item_category": 11,
+        "item_id": 163,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20001,
+        "transfer_reward_id": 200010101
+    },
+    {
+        "item_category": 11,
+        "item_id": 160,
+        "item_num": 2,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20001,
+        "transfer_reward_id": 200010102
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20001,
+        "transfer_reward_id": 200010103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20002,
+        "transfer_reward_id": 200020101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20002,
+        "transfer_reward_id": 200020102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20002,
+        "transfer_reward_id": 200020103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20002,
+        "transfer_reward_id": 200020104
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20003,
+        "transfer_reward_id": 200030101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20003,
+        "transfer_reward_id": 200030102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20003,
+        "transfer_reward_id": 200030103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20003,
+        "transfer_reward_id": 200030104
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20004,
+        "transfer_reward_id": 200040101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20004,
+        "transfer_reward_id": 200040102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20005,
+        "transfer_reward_id": 200050101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20005,
+        "transfer_reward_id": 200050102
+    },
+    {
+        "item_category": 11,
+        "item_id": 162,
+        "item_num": 2,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20006,
+        "transfer_reward_id": 200060101
+    },
+    {
+        "item_category": 11,
+        "item_id": 161,
+        "item_num": 2,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20006,
+        "transfer_reward_id": 200060102
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20006,
+        "transfer_reward_id": 200060103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20007,
+        "transfer_reward_id": 200070101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20007,
+        "transfer_reward_id": 200070102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20007,
+        "transfer_reward_id": 200070103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20007,
+        "transfer_reward_id": 200070104
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20008,
+        "transfer_reward_id": 200080101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20008,
+        "transfer_reward_id": 200080102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20008,
+        "transfer_reward_id": 200080103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20008,
+        "transfer_reward_id": 200080104
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20009,
+        "transfer_reward_id": 200090101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20009,
+        "transfer_reward_id": 200090102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20010,
+        "transfer_reward_id": 200100101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20010,
+        "transfer_reward_id": 200100102
+    },
+    {
+        "item_category": 11,
+        "item_id": 163,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20011,
+        "transfer_reward_id": 200110101
+    },
+    {
+        "item_category": 11,
+        "item_id": 160,
+        "item_num": 2,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20011,
+        "transfer_reward_id": 200110102
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20011,
+        "transfer_reward_id": 200110103
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20012,
+        "transfer_reward_id": 200120101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20012,
+        "transfer_reward_id": 200120102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20012,
+        "transfer_reward_id": 200120103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20012,
+        "transfer_reward_id": 200120104
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20014,
+        "transfer_reward_id": 200140101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20014,
+        "transfer_reward_id": 200140102
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 500,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20015,
+        "transfer_reward_id": 200150101
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 3000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20015,
+        "transfer_reward_id": 200150102
+    },
+    {
+        "item_category": 102,
+        "item_id": 0,
+        "item_num": 5,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20013,
+        "transfer_reward_id": 200200101
+    },
+    {
+        "item_category": 30,
+        "item_id": 110,
+        "item_num": 1000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20013,
+        "transfer_reward_id": 200200102
+    },
+    {
+        "item_category": 91,
+        "item_id": 59,
+        "item_num": 5000,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20013,
+        "transfer_reward_id": 200200103
+    },
+    {
+        "item_category": 20,
+        "item_id": 174,
+        "item_num": 1,
+        "odds": 1000000,
+        "reward_rank": 1,
+        "transfer_detail_id": 20013,
+        "transfer_reward_id": 200200104
+    }
+]

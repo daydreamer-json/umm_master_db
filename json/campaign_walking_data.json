@@ -1,0 +1,24 @@
+[
+    {
+        "campaign_id": 226,
+        "gauge_max": 10,
+        "gauge_up_dailylegendrace": 2,
+        "gauge_up_dailyrace": 2,
+        "gauge_up_login": 10,
+        "gauge_up_singlemode": 10,
+        "gauge_up_teamstadium": 2,
+        "id": 1,
+        "walking_limit": 2
+    },
+    {
+        "campaign_id": 279,
+        "gauge_max": 10,
+        "gauge_up_dailylegendrace": 2,
+        "gauge_up_dailyrace": 2,
+        "gauge_up_login": 10,
+        "gauge_up_singlemode": 10,
+        "gauge_up_teamstadium": 2,
+        "id": 2,
+        "walking_limit": 2
+    }
+]

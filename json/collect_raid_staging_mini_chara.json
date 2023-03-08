@@ -1,0 +1,42 @@
+[
+    {
+        "chara_id": 1098,
+        "dress_id": 109801,
+        "id": 1,
+        "mini_motion_id": 19,
+        "staging_mini_chara_group_id": 1,
+        "staging_type": 1
+    },
+    {
+        "chara_id": 1098,
+        "dress_id": 109801,
+        "id": 2,
+        "mini_motion_id": 139,
+        "staging_mini_chara_group_id": 1,
+        "staging_type": 2
+    },
+    {
+        "chara_id": 1098,
+        "dress_id": 109801,
+        "id": 3,
+        "mini_motion_id": 600011,
+        "staging_mini_chara_group_id": 1,
+        "staging_type": 3
+    },
+    {
+        "chara_id": 1098,
+        "dress_id": 109801,
+        "id": 4,
+        "mini_motion_id": 144,
+        "staging_mini_chara_group_id": 1,
+        "staging_type": 4
+    },
+    {
+        "chara_id": 1098,
+        "dress_id": 109801,
+        "id": 5,
+        "mini_motion_id": 400005,
+        "staging_mini_chara_group_id": 1,
+        "staging_type": 5
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "bg_id": 217,
+        "bg_sub_id": 130,
+        "chara_id": 1098,
+        "dress_id": 109801,
+        "ending_flag": 0,
+        "id": 1,
+        "mission_top_chara_group_id": 1
+    },
+    {
+        "bg_id": 217,
+        "bg_sub_id": 130,
+        "chara_id": 1099,
+        "dress_id": 109901,
+        "ending_flag": 0,
+        "id": 2,
+        "mission_top_chara_group_id": 1
+    },
+    {
+        "bg_id": 217,
+        "bg_sub_id": 130,
+        "chara_id": 1100,
+        "dress_id": 110001,
+        "ending_flag": 0,
+        "id": 3,
+        "mission_top_chara_group_id": 1
+    },
+    {
+        "bg_id": 217,
+        "bg_sub_id": 130,
+        "chara_id": 1098,
+        "dress_id": 109801,
+        "ending_flag": 1,
+        "id": 4,
+        "mission_top_chara_group_id": 1
+    }
+]

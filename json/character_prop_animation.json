@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100300,
+        "scene_type": 0,
+        "use_state_name": "S"
+    },
+    {
+        "id": 2,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100300,
+        "scene_type": 0,
+        "use_state_name": "loop"
+    },
+    {
+        "id": 3,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100300,
+        "scene_type": 0,
+        "use_state_name": "E"
+    },
+    {
+        "id": 4,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100300,
+        "scene_type": 0,
+        "use_state_name": "act01"
+    },
+    {
+        "id": 5,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100300,
+        "scene_type": 0,
+        "use_state_name": "act02"
+    },
+    {
+        "id": 6,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100301,
+        "scene_type": 0,
+        "use_state_name": ""
+    },
+    {
+        "id": 7,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100302,
+        "scene_type": 0,
+        "use_state_name": ""
+    },
+    {
+        "id": 8,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100303,
+        "scene_type": 0,
+        "use_state_name": ""
+    },
+    {
+        "id": 9,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100306,
+        "scene_type": 0,
+        "use_state_name": ""
+    },
+    {
+        "id": 10,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100300,
+        "scene_type": 1,
+        "use_state_name": "type00_bookA_S"
+    },
+    {
+        "id": 11,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100300,
+        "scene_type": 1,
+        "use_state_name": "type00_bookA_loop"
+    },
+    {
+        "id": 12,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100300,
+        "scene_type": 1,
+        "use_state_name": "type00_bookA_E"
+    },
+    {
+        "id": 13,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100300,
+        "scene_type": 1,
+        "use_state_name": "type00_bookB_S"
+    },
+    {
+        "id": 14,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100300,
+        "scene_type": 1,
+        "use_state_name": "type00_bookB_loop"
+    },
+    {
+        "id": 15,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100300,
+        "scene_type": 1,
+        "use_state_name": "type00_bookB_E"
+    },
+    {
+        "id": 16,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100301,
+        "scene_type": 1,
+        "use_state_name": ""
+    },
+    {
+        "id": 17,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100302,
+        "scene_type": 1,
+        "use_state_name": ""
+    },
+    {
+        "id": 18,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100303,
+        "scene_type": 1,
+        "use_state_name": ""
+    },
+    {
+        "id": 19,
+        "layer_index": 0,
+        "prop_anim_id": 100300,
+        "prop_id": 100306,
+        "scene_type": 1,
+        "use_state_name": ""
+    }
+]

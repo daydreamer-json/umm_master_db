@@ -1,0 +1,2522 @@
+[
+    {
+        "command_id": 101,
+        "effect_value": 11,
+        "id": 1,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 101,
+        "effect_value": 6,
+        "id": 2,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 101,
+        "effect_value": 4,
+        "id": 3,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 101,
+        "effect_value": -21,
+        "id": 4,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 105,
+        "effect_value": 10,
+        "id": 5,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 105,
+        "effect_value": 6,
+        "id": 6,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 105,
+        "effect_value": 4,
+        "id": 7,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 105,
+        "effect_value": -19,
+        "id": 8,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 102,
+        "effect_value": 6,
+        "id": 9,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 102,
+        "effect_value": 9,
+        "id": 10,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 102,
+        "effect_value": 4,
+        "id": 11,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 102,
+        "effect_value": -20,
+        "id": 12,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 103,
+        "effect_value": 5,
+        "id": 13,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 103,
+        "effect_value": 5,
+        "id": 14,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 103,
+        "effect_value": 8,
+        "id": 15,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 103,
+        "effect_value": 4,
+        "id": 16,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 103,
+        "effect_value": -22,
+        "id": 17,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 18,
+        "result_state": 1,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 106,
+        "effect_value": 2,
+        "id": 19,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 106,
+        "effect_value": 10,
+        "id": 20,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 5
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 21,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 22,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 301,
+        "effect_value": 10,
+        "id": 23,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 301,
+        "effect_value": 1,
+        "id": 24,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 302,
+        "effect_value": 2,
+        "id": 25,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 30,
+        "id": 26,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 27,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 20,
+        "id": 28,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 2,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 29,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 2,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 10,
+        "id": 30,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 3,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 31,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 3,
+        "target_type": 20
+    },
+    {
+        "command_id": 601,
+        "effect_value": 15,
+        "id": 32,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 601,
+        "effect_value": 8,
+        "id": 33,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 601,
+        "effect_value": 4,
+        "id": 34,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 601,
+        "effect_value": -27,
+        "id": 35,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 602,
+        "effect_value": 14,
+        "id": 36,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 602,
+        "effect_value": 8,
+        "id": 37,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 602,
+        "effect_value": 4,
+        "id": 38,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 602,
+        "effect_value": -25,
+        "id": 39,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 603,
+        "effect_value": 8,
+        "id": 40,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 603,
+        "effect_value": 13,
+        "id": 41,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 603,
+        "effect_value": 4,
+        "id": 42,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 603,
+        "effect_value": -26,
+        "id": 43,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 604,
+        "effect_value": 6,
+        "id": 44,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 604,
+        "effect_value": 5,
+        "id": 45,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 604,
+        "effect_value": 13,
+        "id": 46,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 604,
+        "effect_value": 4,
+        "id": 47,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 604,
+        "effect_value": -28,
+        "id": 48,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 49,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 605,
+        "effect_value": 4,
+        "id": 50,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 605,
+        "effect_value": 14,
+        "id": 51,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 5
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 52,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 54,
+        "result_state": 1,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 304,
+        "effect_value": 40,
+        "id": 55,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 304,
+        "effect_value": 1,
+        "id": 56,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 101,
+        "effect_value": 8,
+        "id": 57,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 101,
+        "effect_value": 4,
+        "id": 58,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 101,
+        "effect_value": 4,
+        "id": 59,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 101,
+        "effect_value": -19,
+        "id": 60,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 105,
+        "effect_value": 8,
+        "id": 61,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 105,
+        "effect_value": 6,
+        "id": 62,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 105,
+        "effect_value": 4,
+        "id": 63,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 105,
+        "effect_value": -20,
+        "id": 64,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 102,
+        "effect_value": 4,
+        "id": 65,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 102,
+        "effect_value": 9,
+        "id": 66,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 102,
+        "effect_value": 4,
+        "id": 67,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 102,
+        "effect_value": -20,
+        "id": 68,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 103,
+        "effect_value": 3,
+        "id": 69,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 103,
+        "effect_value": 3,
+        "id": 70,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 103,
+        "effect_value": 6,
+        "id": 71,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 103,
+        "effect_value": 4,
+        "id": 72,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 103,
+        "effect_value": -20,
+        "id": 73,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 74,
+        "result_state": 1,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 106,
+        "effect_value": 2,
+        "id": 75,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 106,
+        "effect_value": 6,
+        "id": 76,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 5
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 77,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 78,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 301,
+        "effect_value": 10,
+        "id": 79,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 301,
+        "effect_value": 1,
+        "id": 80,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 302,
+        "effect_value": 2,
+        "id": 81,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 30,
+        "id": 82,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 83,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 20,
+        "id": 84,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 2,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 85,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 2,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 10,
+        "id": 86,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 3,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 87,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 3,
+        "target_type": 20
+    },
+    {
+        "command_id": 601,
+        "effect_value": 12,
+        "id": 88,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 601,
+        "effect_value": 6,
+        "id": 89,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 601,
+        "effect_value": 4,
+        "id": 90,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 601,
+        "effect_value": -25,
+        "id": 91,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 602,
+        "effect_value": 12,
+        "id": 92,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 602,
+        "effect_value": 8,
+        "id": 93,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 602,
+        "effect_value": 4,
+        "id": 94,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 602,
+        "effect_value": -26,
+        "id": 95,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 603,
+        "effect_value": 6,
+        "id": 96,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 603,
+        "effect_value": 13,
+        "id": 97,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 603,
+        "effect_value": 4,
+        "id": 98,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 603,
+        "effect_value": -26,
+        "id": 99,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 604,
+        "effect_value": 4,
+        "id": 100,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 604,
+        "effect_value": 4,
+        "id": 101,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 604,
+        "effect_value": 10,
+        "id": 102,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 604,
+        "effect_value": 4,
+        "id": 103,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 604,
+        "effect_value": -26,
+        "id": 104,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 105,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 605,
+        "effect_value": 4,
+        "id": 106,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 605,
+        "effect_value": 10,
+        "id": 107,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 5
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 108,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 109,
+        "result_state": 1,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 304,
+        "effect_value": 40,
+        "id": 110,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 304,
+        "effect_value": 1,
+        "id": 111,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 304,
+        "effect_value": 0,
+        "id": 112,
+        "result_state": 2,
+        "scenario_id": 1,
+        "sub_id": 1,
+        "target_type": 101
+    },
+    {
+        "command_id": 304,
+        "effect_value": 0,
+        "id": 113,
+        "result_state": 2,
+        "scenario_id": 2,
+        "sub_id": 1,
+        "target_type": 101
+    },
+    {
+        "command_id": 101,
+        "effect_value": 8,
+        "id": 3001,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 101,
+        "effect_value": 4,
+        "id": 3002,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 101,
+        "effect_value": 4,
+        "id": 3003,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 101,
+        "effect_value": -19,
+        "id": 3004,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 105,
+        "effect_value": 8,
+        "id": 3005,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 105,
+        "effect_value": 6,
+        "id": 3006,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 105,
+        "effect_value": 4,
+        "id": 3007,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 105,
+        "effect_value": -20,
+        "id": 3008,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 102,
+        "effect_value": 4,
+        "id": 3009,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 102,
+        "effect_value": 9,
+        "id": 3010,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 102,
+        "effect_value": 4,
+        "id": 3011,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 102,
+        "effect_value": -20,
+        "id": 3012,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 103,
+        "effect_value": 2,
+        "id": 3013,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 103,
+        "effect_value": 2,
+        "id": 3014,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 103,
+        "effect_value": 7,
+        "id": 3015,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 103,
+        "effect_value": 4,
+        "id": 3016,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 103,
+        "effect_value": -20,
+        "id": 3017,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 3018,
+        "result_state": 1,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 106,
+        "effect_value": 2,
+        "id": 3019,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 106,
+        "effect_value": 6,
+        "id": 3020,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 5
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 3021,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 3022,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 301,
+        "effect_value": 10,
+        "id": 3023,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 301,
+        "effect_value": 1,
+        "id": 3024,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 302,
+        "effect_value": 2,
+        "id": 3025,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 30,
+        "id": 3026,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 3027,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 20,
+        "id": 3028,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 2,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 3029,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 2,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 10,
+        "id": 3030,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 3,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 3031,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 3,
+        "target_type": 20
+    },
+    {
+        "command_id": 601,
+        "effect_value": 12,
+        "id": 3032,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 601,
+        "effect_value": 6,
+        "id": 3033,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 601,
+        "effect_value": 4,
+        "id": 3034,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 601,
+        "effect_value": -25,
+        "id": 3035,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 602,
+        "effect_value": 12,
+        "id": 3036,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 602,
+        "effect_value": 8,
+        "id": 3037,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 602,
+        "effect_value": 4,
+        "id": 3038,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 602,
+        "effect_value": -26,
+        "id": 3039,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 603,
+        "effect_value": 6,
+        "id": 3040,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 603,
+        "effect_value": 13,
+        "id": 3041,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 603,
+        "effect_value": 4,
+        "id": 3042,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 603,
+        "effect_value": -26,
+        "id": 3043,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 604,
+        "effect_value": 3,
+        "id": 3044,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 604,
+        "effect_value": 3,
+        "id": 3045,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 604,
+        "effect_value": 11,
+        "id": 3046,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 604,
+        "effect_value": 4,
+        "id": 3047,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 604,
+        "effect_value": -26,
+        "id": 3048,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 3049,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 605,
+        "effect_value": 4,
+        "id": 3050,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 605,
+        "effect_value": 10,
+        "id": 3051,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 5
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 3052,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 3053,
+        "result_state": 1,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 304,
+        "effect_value": 40,
+        "id": 3054,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 304,
+        "effect_value": 1,
+        "id": 3055,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 304,
+        "effect_value": 0,
+        "id": 3056,
+        "result_state": 2,
+        "scenario_id": 3,
+        "sub_id": 1,
+        "target_type": 101
+    },
+    {
+        "command_id": 101,
+        "effect_value": 8,
+        "id": 4001,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 101,
+        "effect_value": 4,
+        "id": 4002,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 101,
+        "effect_value": 2,
+        "id": 4003,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 101,
+        "effect_value": -19,
+        "id": 4004,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 105,
+        "effect_value": 7,
+        "id": 4005,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 105,
+        "effect_value": 3,
+        "id": 4006,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 105,
+        "effect_value": 2,
+        "id": 4007,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 105,
+        "effect_value": -17,
+        "id": 4008,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 102,
+        "effect_value": 4,
+        "id": 4009,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 102,
+        "effect_value": 6,
+        "id": 4010,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 102,
+        "effect_value": 2,
+        "id": 4011,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 102,
+        "effect_value": -18,
+        "id": 4012,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 103,
+        "effect_value": 3,
+        "id": 4013,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 103,
+        "effect_value": 3,
+        "id": 4014,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 103,
+        "effect_value": 6,
+        "id": 4015,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 103,
+        "effect_value": 2,
+        "id": 4016,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 103,
+        "effect_value": -20,
+        "id": 4017,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 4018,
+        "result_state": 1,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 106,
+        "effect_value": 2,
+        "id": 4019,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 106,
+        "effect_value": 6,
+        "id": 4020,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 5
+    },
+    {
+        "command_id": 106,
+        "effect_value": 3,
+        "id": 4021,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 4022,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 301,
+        "effect_value": 10,
+        "id": 4023,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 301,
+        "effect_value": 1,
+        "id": 4024,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 302,
+        "effect_value": 2,
+        "id": 4025,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 30,
+        "id": 4026,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 4027,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 20,
+        "id": 4028,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 2,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 4029,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 2,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 10,
+        "id": 4030,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 3,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 4031,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 3,
+        "target_type": 20
+    },
+    {
+        "command_id": 601,
+        "effect_value": 12,
+        "id": 4032,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 601,
+        "effect_value": 6,
+        "id": 4033,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 601,
+        "effect_value": 2,
+        "id": 4034,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 601,
+        "effect_value": -25,
+        "id": 4035,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 602,
+        "effect_value": 11,
+        "id": 4036,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 602,
+        "effect_value": 5,
+        "id": 4037,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 602,
+        "effect_value": 2,
+        "id": 4038,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 602,
+        "effect_value": -23,
+        "id": 4039,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 603,
+        "effect_value": 6,
+        "id": 4040,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 603,
+        "effect_value": 10,
+        "id": 4041,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 603,
+        "effect_value": 2,
+        "id": 4042,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 603,
+        "effect_value": -24,
+        "id": 4043,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 604,
+        "effect_value": 4,
+        "id": 4044,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 604,
+        "effect_value": 4,
+        "id": 4045,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 604,
+        "effect_value": 10,
+        "id": 4046,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 604,
+        "effect_value": 2,
+        "id": 4047,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 604,
+        "effect_value": -26,
+        "id": 4048,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 4049,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 605,
+        "effect_value": 4,
+        "id": 4050,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 605,
+        "effect_value": 10,
+        "id": 4051,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 5
+    },
+    {
+        "command_id": 605,
+        "effect_value": 3,
+        "id": 4052,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 4053,
+        "result_state": 1,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 304,
+        "effect_value": 40,
+        "id": 4054,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 304,
+        "effect_value": 1,
+        "id": 4055,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 304,
+        "effect_value": 0,
+        "id": 4056,
+        "result_state": 2,
+        "scenario_id": 4,
+        "sub_id": 1,
+        "target_type": 101
+    },
+    {
+        "command_id": 101,
+        "effect_value": 10,
+        "id": 5001,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 101,
+        "effect_value": 3,
+        "id": 5002,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 101,
+        "effect_value": 5,
+        "id": 5003,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 101,
+        "effect_value": -19,
+        "id": 5004,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 105,
+        "effect_value": 8,
+        "id": 5005,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 105,
+        "effect_value": 6,
+        "id": 5006,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 105,
+        "effect_value": 5,
+        "id": 5007,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 105,
+        "effect_value": -20,
+        "id": 5008,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 102,
+        "effect_value": 4,
+        "id": 5009,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 102,
+        "effect_value": 9,
+        "id": 5010,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 102,
+        "effect_value": 5,
+        "id": 5011,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 102,
+        "effect_value": -20,
+        "id": 5012,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 103,
+        "effect_value": 2,
+        "id": 5013,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 103,
+        "effect_value": 3,
+        "id": 5014,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 103,
+        "effect_value": 9,
+        "id": 5015,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 103,
+        "effect_value": 5,
+        "id": 5016,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 103,
+        "effect_value": -20,
+        "id": 5017,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 5018,
+        "result_state": 1,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 106,
+        "effect_value": 2,
+        "id": 5019,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 106,
+        "effect_value": 8,
+        "id": 5020,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 5
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 5021,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 106,
+        "effect_value": 5,
+        "id": 5022,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 301,
+        "effect_value": 10,
+        "id": 5023,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 301,
+        "effect_value": 1,
+        "id": 5024,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 302,
+        "effect_value": 2,
+        "id": 5025,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 30,
+        "id": 5026,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 5027,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 20,
+        "id": 5028,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 2,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 5029,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 2,
+        "target_type": 20
+    },
+    {
+        "command_id": 303,
+        "effect_value": 10,
+        "id": 5030,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 3,
+        "target_type": 10
+    },
+    {
+        "command_id": 303,
+        "effect_value": 1,
+        "id": 5031,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 3,
+        "target_type": 20
+    },
+    {
+        "command_id": 601,
+        "effect_value": 14,
+        "id": 5032,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 601,
+        "effect_value": 5,
+        "id": 5033,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 601,
+        "effect_value": 5,
+        "id": 5034,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 601,
+        "effect_value": -25,
+        "id": 5035,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 602,
+        "effect_value": 12,
+        "id": 5036,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 602,
+        "effect_value": 8,
+        "id": 5037,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 602,
+        "effect_value": 5,
+        "id": 5038,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 602,
+        "effect_value": -26,
+        "id": 5039,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 603,
+        "effect_value": 6,
+        "id": 5040,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 2
+    },
+    {
+        "command_id": 603,
+        "effect_value": 13,
+        "id": 5041,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 603,
+        "effect_value": 5,
+        "id": 5042,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 603,
+        "effect_value": -26,
+        "id": 5043,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 604,
+        "effect_value": 3,
+        "id": 5044,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 604,
+        "effect_value": 4,
+        "id": 5045,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 3
+    },
+    {
+        "command_id": 604,
+        "effect_value": 13,
+        "id": 5046,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 4
+    },
+    {
+        "command_id": 604,
+        "effect_value": 5,
+        "id": 5047,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 604,
+        "effect_value": -26,
+        "id": 5048,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 5049,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 605,
+        "effect_value": 4,
+        "id": 5050,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 1
+    },
+    {
+        "command_id": 605,
+        "effect_value": 12,
+        "id": 5051,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 5
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 5052,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 30
+    },
+    {
+        "command_id": 605,
+        "effect_value": 5,
+        "id": 5053,
+        "result_state": 1,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 304,
+        "effect_value": 40,
+        "id": 5054,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 10
+    },
+    {
+        "command_id": 304,
+        "effect_value": 1,
+        "id": 5055,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 20
+    },
+    {
+        "command_id": 304,
+        "effect_value": 0,
+        "id": 5056,
+        "result_state": 2,
+        "scenario_id": 5,
+        "sub_id": 1,
+        "target_type": 101
+    }
+]

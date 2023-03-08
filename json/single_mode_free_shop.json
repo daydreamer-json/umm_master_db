@@ -1,0 +1,79 @@
+[
+    {
+        "end_turn": 18,
+        "id": 1,
+        "lineup_group_id": 1,
+        "max_lineup_num": 99,
+        "start_turn": 13
+    },
+    {
+        "end_turn": 24,
+        "id": 2,
+        "lineup_group_id": 2,
+        "max_lineup_num": 99,
+        "start_turn": 19
+    },
+    {
+        "end_turn": 30,
+        "id": 3,
+        "lineup_group_id": 3,
+        "max_lineup_num": 99,
+        "start_turn": 25
+    },
+    {
+        "end_turn": 36,
+        "id": 4,
+        "lineup_group_id": 4,
+        "max_lineup_num": 99,
+        "start_turn": 31
+    },
+    {
+        "end_turn": 42,
+        "id": 5,
+        "lineup_group_id": 4,
+        "max_lineup_num": 99,
+        "start_turn": 37
+    },
+    {
+        "end_turn": 48,
+        "id": 6,
+        "lineup_group_id": 4,
+        "max_lineup_num": 99,
+        "start_turn": 43
+    },
+    {
+        "end_turn": 54,
+        "id": 7,
+        "lineup_group_id": 5,
+        "max_lineup_num": 99,
+        "start_turn": 49
+    },
+    {
+        "end_turn": 60,
+        "id": 8,
+        "lineup_group_id": 5,
+        "max_lineup_num": 99,
+        "start_turn": 55
+    },
+    {
+        "end_turn": 66,
+        "id": 9,
+        "lineup_group_id": 5,
+        "max_lineup_num": 99,
+        "start_turn": 61
+    },
+    {
+        "end_turn": 72,
+        "id": 10,
+        "lineup_group_id": 5,
+        "max_lineup_num": 99,
+        "start_turn": 67
+    },
+    {
+        "end_turn": 78,
+        "id": 11,
+        "lineup_group_id": 6,
+        "max_lineup_num": 99,
+        "start_turn": 73
+    }
+]

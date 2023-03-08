@@ -1,0 +1,93 @@
+[
+    {
+        "chara_id": 1030,
+        "end_date": 1654829999,
+        "id": 1,
+        "limit_0": 10,
+        "limit_1": 13,
+        "limit_2": 16,
+        "limit_3": 20,
+        "limit_4": 25,
+        "start_date": 1653879600,
+        "story_event_id": 1014,
+        "support_card_id": 30081
+    },
+    {
+        "chara_id": 1013,
+        "end_date": 1660100399,
+        "id": 2,
+        "limit_0": 10,
+        "limit_1": 13,
+        "limit_2": 16,
+        "limit_3": 20,
+        "limit_4": 25,
+        "start_date": 1659063600,
+        "story_event_id": 1016,
+        "support_card_id": 30081
+    },
+    {
+        "chara_id": 1003,
+        "end_date": 1662951599,
+        "id": 3,
+        "limit_0": 10,
+        "limit_1": 13,
+        "limit_2": 16,
+        "limit_3": 20,
+        "limit_4": 25,
+        "start_date": 1661742000,
+        "story_event_id": 1017,
+        "support_card_id": 30067
+    },
+    {
+        "chara_id": 1035,
+        "end_date": 1662951599,
+        "id": 4,
+        "limit_0": 10,
+        "limit_1": 13,
+        "limit_2": 16,
+        "limit_3": 20,
+        "limit_4": 25,
+        "start_date": 1661742000,
+        "story_event_id": 1017,
+        "support_card_id": 30081
+    },
+    {
+        "chara_id": 1016,
+        "end_date": 1670813999,
+        "id": 5,
+        "limit_0": 10,
+        "limit_1": 13,
+        "limit_2": 16,
+        "limit_3": 20,
+        "limit_4": 25,
+        "start_date": 1669604400,
+        "story_event_id": 1020,
+        "support_card_id": 30081
+    },
+    {
+        "chara_id": 1001,
+        "end_date": 1673319599,
+        "id": 6,
+        "limit_0": 10,
+        "limit_1": 13,
+        "limit_2": 16,
+        "limit_3": 20,
+        "limit_4": 25,
+        "start_date": 1672282800,
+        "story_event_id": 1021,
+        "support_card_id": 30081
+    },
+    {
+        "chara_id": 1017,
+        "end_date": 1678417199,
+        "id": 7,
+        "limit_0": 10,
+        "limit_1": 13,
+        "limit_2": 16,
+        "limit_3": 20,
+        "limit_4": 25,
+        "start_date": 1677207600,
+        "story_event_id": 1023,
+        "support_card_id": 30067
+    }
+]

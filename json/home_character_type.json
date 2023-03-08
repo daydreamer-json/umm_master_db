@@ -1,0 +1,117 @@
+[
+    {
+        "change_personality": 1,
+        "original_personality": 1,
+        "pos_id": 1
+    },
+    {
+        "change_personality": 2,
+        "original_personality": 2,
+        "pos_id": 1
+    },
+    {
+        "change_personality": 3,
+        "original_personality": 3,
+        "pos_id": 1
+    },
+    {
+        "change_personality": 1,
+        "original_personality": 4,
+        "pos_id": 1
+    },
+    {
+        "change_personality": 5,
+        "original_personality": 5,
+        "pos_id": 1
+    },
+    {
+        "change_personality": 5,
+        "original_personality": 6,
+        "pos_id": 1
+    },
+    {
+        "change_personality": 1,
+        "original_personality": 1,
+        "pos_id": 2
+    },
+    {
+        "change_personality": 2,
+        "original_personality": 2,
+        "pos_id": 2
+    },
+    {
+        "change_personality": 3,
+        "original_personality": 3,
+        "pos_id": 2
+    },
+    {
+        "change_personality": 1,
+        "original_personality": 4,
+        "pos_id": 2
+    },
+    {
+        "change_personality": 2,
+        "original_personality": 5,
+        "pos_id": 2
+    },
+    {
+        "change_personality": 2,
+        "original_personality": 6,
+        "pos_id": 2
+    },
+    {
+        "change_personality": 1,
+        "original_personality": 1,
+        "pos_id": 3
+    },
+    {
+        "change_personality": 2,
+        "original_personality": 2,
+        "pos_id": 3
+    },
+    {
+        "change_personality": 3,
+        "original_personality": 3,
+        "pos_id": 3
+    },
+    {
+        "change_personality": 1,
+        "original_personality": 4,
+        "pos_id": 3
+    },
+    {
+        "change_personality": 5,
+        "original_personality": 5,
+        "pos_id": 3
+    },
+    {
+        "change_personality": 5,
+        "original_personality": 6,
+        "pos_id": 3
+    },
+    {
+        "change_personality": 1,
+        "original_personality": 1,
+        "pos_id": 4
+    },
+    {
+        "change_personality": 2,
+        "original_personality": 2,
+        "pos_id": 4
+    },
+    {
+        "change_personality": 3,
+        "original_personality": 3,
+        "pos_id": 4
+    },
+    {
+        "change_personality": 1,
+        "original_personality": 4,
+        "pos_id": 4
+    },
+    {
+        "change_personality": 2,
+        "original_personality": 5,
+        "pos_id": 4
+    }
+]

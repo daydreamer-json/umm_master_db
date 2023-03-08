@@ -1,0 +1,492 @@
+[
+    {
+        "chara_rank": 1,
+        "id": 1,
+        "scout_value": 0
+    },
+    {
+        "chara_rank": 2,
+        "id": 2,
+        "scout_value": 5
+    },
+    {
+        "chara_rank": 3,
+        "id": 3,
+        "scout_value": 10
+    },
+    {
+        "chara_rank": 4,
+        "id": 4,
+        "scout_value": 15
+    },
+    {
+        "chara_rank": 5,
+        "id": 5,
+        "scout_value": 20
+    },
+    {
+        "chara_rank": 6,
+        "id": 6,
+        "scout_value": 25
+    },
+    {
+        "chara_rank": 7,
+        "id": 7,
+        "scout_value": 50
+    },
+    {
+        "chara_rank": 8,
+        "id": 8,
+        "scout_value": 100
+    },
+    {
+        "chara_rank": 9,
+        "id": 9,
+        "scout_value": 150
+    },
+    {
+        "chara_rank": 10,
+        "id": 10,
+        "scout_value": 200
+    },
+    {
+        "chara_rank": 11,
+        "id": 11,
+        "scout_value": 300
+    },
+    {
+        "chara_rank": 12,
+        "id": 12,
+        "scout_value": 400
+    },
+    {
+        "chara_rank": 13,
+        "id": 13,
+        "scout_value": 500
+    },
+    {
+        "chara_rank": 14,
+        "id": 14,
+        "scout_value": 600
+    },
+    {
+        "chara_rank": 15,
+        "id": 15,
+        "scout_value": 800
+    },
+    {
+        "chara_rank": 16,
+        "id": 16,
+        "scout_value": 1000
+    },
+    {
+        "chara_rank": 17,
+        "id": 17,
+        "scout_value": 1200
+    },
+    {
+        "chara_rank": 18,
+        "id": 18,
+        "scout_value": 1400
+    },
+    {
+        "chara_rank": 19,
+        "id": 19,
+        "scout_value": 1600
+    },
+    {
+        "chara_rank": 20,
+        "id": 20,
+        "scout_value": 1800
+    },
+    {
+        "chara_rank": 21,
+        "id": 21,
+        "scout_value": 2000
+    },
+    {
+        "chara_rank": 22,
+        "id": 22,
+        "scout_value": 2100
+    },
+    {
+        "chara_rank": 23,
+        "id": 23,
+        "scout_value": 2200
+    },
+    {
+        "chara_rank": 24,
+        "id": 24,
+        "scout_value": 2300
+    },
+    {
+        "chara_rank": 25,
+        "id": 25,
+        "scout_value": 2400
+    },
+    {
+        "chara_rank": 26,
+        "id": 26,
+        "scout_value": 2500
+    },
+    {
+        "chara_rank": 27,
+        "id": 27,
+        "scout_value": 2600
+    },
+    {
+        "chara_rank": 28,
+        "id": 28,
+        "scout_value": 2700
+    },
+    {
+        "chara_rank": 29,
+        "id": 29,
+        "scout_value": 3000
+    },
+    {
+        "chara_rank": 30,
+        "id": 30,
+        "scout_value": 3200
+    },
+    {
+        "chara_rank": 31,
+        "id": 31,
+        "scout_value": 3200
+    },
+    {
+        "chara_rank": 32,
+        "id": 32,
+        "scout_value": 3400
+    },
+    {
+        "chara_rank": 33,
+        "id": 33,
+        "scout_value": 3400
+    },
+    {
+        "chara_rank": 34,
+        "id": 34,
+        "scout_value": 3600
+    },
+    {
+        "chara_rank": 35,
+        "id": 35,
+        "scout_value": 3600
+    },
+    {
+        "chara_rank": 36,
+        "id": 36,
+        "scout_value": 3800
+    },
+    {
+        "chara_rank": 37,
+        "id": 37,
+        "scout_value": 3800
+    },
+    {
+        "chara_rank": 38,
+        "id": 38,
+        "scout_value": 4000
+    },
+    {
+        "chara_rank": 39,
+        "id": 39,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 40,
+        "id": 40,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 41,
+        "id": 41,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 42,
+        "id": 42,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 43,
+        "id": 43,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 44,
+        "id": 44,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 45,
+        "id": 45,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 46,
+        "id": 46,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 47,
+        "id": 47,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 48,
+        "id": 48,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 49,
+        "id": 49,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 50,
+        "id": 50,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 51,
+        "id": 51,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 52,
+        "id": 52,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 53,
+        "id": 53,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 54,
+        "id": 54,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 55,
+        "id": 55,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 56,
+        "id": 56,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 57,
+        "id": 57,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 58,
+        "id": 58,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 59,
+        "id": 59,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 60,
+        "id": 60,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 61,
+        "id": 61,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 62,
+        "id": 62,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 63,
+        "id": 63,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 64,
+        "id": 64,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 65,
+        "id": 65,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 66,
+        "id": 66,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 67,
+        "id": 67,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 68,
+        "id": 68,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 69,
+        "id": 69,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 70,
+        "id": 70,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 71,
+        "id": 71,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 72,
+        "id": 72,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 73,
+        "id": 73,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 74,
+        "id": 74,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 75,
+        "id": 75,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 76,
+        "id": 76,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 77,
+        "id": 77,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 78,
+        "id": 78,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 79,
+        "id": 79,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 80,
+        "id": 80,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 81,
+        "id": 81,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 82,
+        "id": 82,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 83,
+        "id": 83,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 84,
+        "id": 84,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 85,
+        "id": 85,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 86,
+        "id": 86,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 87,
+        "id": 87,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 88,
+        "id": 88,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 89,
+        "id": 89,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 90,
+        "id": 90,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 91,
+        "id": 91,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 92,
+        "id": 92,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 93,
+        "id": 93,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 94,
+        "id": 94,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 95,
+        "id": 95,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 96,
+        "id": 96,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 97,
+        "id": 97,
+        "scout_value": 4500
+    },
+    {
+        "chara_rank": 98,
+        "id": 98,
+        "scout_value": 4500
+    }
+]

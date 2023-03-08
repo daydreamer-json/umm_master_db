@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "piece_num": 25,
+        "rarity": 1
+    },
+    {
+        "id": 2,
+        "piece_num": 50,
+        "rarity": 2
+    },
+    {
+        "id": 3,
+        "piece_num": 150,
+        "rarity": 3
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "id": 4001,
+        "route_race_id": 40001,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 10,
+        "turn": 6
+    },
+    {
+        "id": 4002,
+        "route_race_id": 40002,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 13,
+        "turn": 16
+    },
+    {
+        "id": 4003,
+        "route_race_id": 40003,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 19,
+        "turn": 16
+    },
+    {
+        "id": 4004,
+        "route_race_id": 40008,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 10,
+        "turn": 6
+    },
+    {
+        "id": 4005,
+        "route_race_id": 40009,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 19,
+        "turn": 16
+    },
+    {
+        "id": 4006,
+        "route_race_id": 40010,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 19,
+        "turn": 16
+    },
+    {
+        "id": 4007,
+        "route_race_id": 40015,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 10,
+        "turn": 6
+    },
+    {
+        "id": 4008,
+        "route_race_id": 40016,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 19,
+        "turn": 16
+    },
+    {
+        "id": 4009,
+        "route_race_id": 40017,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 19,
+        "turn": 16
+    },
+    {
+        "id": 4010,
+        "route_race_id": 40022,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 10,
+        "turn": 6
+    },
+    {
+        "id": 4011,
+        "route_race_id": 40023,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 19,
+        "turn": 16
+    },
+    {
+        "id": 4012,
+        "route_race_id": 40024,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 19,
+        "turn": 16
+    },
+    {
+        "id": 4016,
+        "route_race_id": 40036,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 5,
+        "turn": 6
+    },
+    {
+        "id": 4017,
+        "route_race_id": 40037,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 13,
+        "turn": 16
+    },
+    {
+        "id": 4018,
+        "route_race_id": 40038,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 19,
+        "turn": 16
+    },
+    {
+        "id": 4019,
+        "route_race_id": 40043,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 5,
+        "turn": 6
+    },
+    {
+        "id": 4020,
+        "route_race_id": 40044,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 13,
+        "turn": 16
+    },
+    {
+        "id": 4021,
+        "route_race_id": 40045,
+        "route_race_type": 7,
+        "target_type": 1,
+        "target_value": 19,
+        "turn": 16
+    }
+]

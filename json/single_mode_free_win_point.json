@@ -1,0 +1,530 @@
+[
+    {
+        "grade": 100,
+        "id": 1,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 100,
+        "race_group_id": 0
+    },
+    {
+        "grade": 100,
+        "id": 2,
+        "order_max": 2,
+        "order_min": 2,
+        "point_num": 60,
+        "race_group_id": 0
+    },
+    {
+        "grade": 100,
+        "id": 3,
+        "order_max": 3,
+        "order_min": 3,
+        "point_num": 40,
+        "race_group_id": 0
+    },
+    {
+        "grade": 100,
+        "id": 4,
+        "order_max": 5,
+        "order_min": 4,
+        "point_num": 20,
+        "race_group_id": 0
+    },
+    {
+        "grade": 100,
+        "id": 5,
+        "order_max": 18,
+        "order_min": 6,
+        "point_num": 10,
+        "race_group_id": 0
+    },
+    {
+        "grade": 200,
+        "id": 6,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 80,
+        "race_group_id": 0
+    },
+    {
+        "grade": 200,
+        "id": 7,
+        "order_max": 2,
+        "order_min": 2,
+        "point_num": 48,
+        "race_group_id": 0
+    },
+    {
+        "grade": 200,
+        "id": 8,
+        "order_max": 3,
+        "order_min": 3,
+        "point_num": 32,
+        "race_group_id": 0
+    },
+    {
+        "grade": 200,
+        "id": 9,
+        "order_max": 5,
+        "order_min": 4,
+        "point_num": 16,
+        "race_group_id": 0
+    },
+    {
+        "grade": 200,
+        "id": 10,
+        "order_max": 18,
+        "order_min": 6,
+        "point_num": 8,
+        "race_group_id": 0
+    },
+    {
+        "grade": 300,
+        "id": 11,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 60,
+        "race_group_id": 0
+    },
+    {
+        "grade": 300,
+        "id": 12,
+        "order_max": 2,
+        "order_min": 2,
+        "point_num": 36,
+        "race_group_id": 0
+    },
+    {
+        "grade": 300,
+        "id": 13,
+        "order_max": 3,
+        "order_min": 3,
+        "point_num": 24,
+        "race_group_id": 0
+    },
+    {
+        "grade": 300,
+        "id": 14,
+        "order_max": 5,
+        "order_min": 4,
+        "point_num": 12,
+        "race_group_id": 0
+    },
+    {
+        "grade": 300,
+        "id": 15,
+        "order_max": 18,
+        "order_min": 6,
+        "point_num": 6,
+        "race_group_id": 0
+    },
+    {
+        "grade": 400,
+        "id": 16,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 40,
+        "race_group_id": 0
+    },
+    {
+        "grade": 400,
+        "id": 17,
+        "order_max": 2,
+        "order_min": 2,
+        "point_num": 24,
+        "race_group_id": 0
+    },
+    {
+        "grade": 400,
+        "id": 18,
+        "order_max": 3,
+        "order_min": 3,
+        "point_num": 16,
+        "race_group_id": 0
+    },
+    {
+        "grade": 400,
+        "id": 19,
+        "order_max": 5,
+        "order_min": 4,
+        "point_num": 8,
+        "race_group_id": 0
+    },
+    {
+        "grade": 400,
+        "id": 20,
+        "order_max": 18,
+        "order_min": 6,
+        "point_num": 4,
+        "race_group_id": 0
+    },
+    {
+        "grade": 500,
+        "id": 21,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 20,
+        "race_group_id": 0
+    },
+    {
+        "grade": 500,
+        "id": 22,
+        "order_max": 2,
+        "order_min": 2,
+        "point_num": 12,
+        "race_group_id": 0
+    },
+    {
+        "grade": 500,
+        "id": 23,
+        "order_max": 3,
+        "order_min": 3,
+        "point_num": 8,
+        "race_group_id": 0
+    },
+    {
+        "grade": 500,
+        "id": 24,
+        "order_max": 5,
+        "order_min": 4,
+        "point_num": 4,
+        "race_group_id": 0
+    },
+    {
+        "grade": 500,
+        "id": 25,
+        "order_max": 18,
+        "order_min": 6,
+        "point_num": 2,
+        "race_group_id": 0
+    },
+    {
+        "grade": 600,
+        "id": 26,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 20,
+        "race_group_id": 0
+    },
+    {
+        "grade": 600,
+        "id": 27,
+        "order_max": 2,
+        "order_min": 2,
+        "point_num": 12,
+        "race_group_id": 0
+    },
+    {
+        "grade": 600,
+        "id": 28,
+        "order_max": 3,
+        "order_min": 3,
+        "point_num": 8,
+        "race_group_id": 0
+    },
+    {
+        "grade": 600,
+        "id": 29,
+        "order_max": 5,
+        "order_min": 4,
+        "point_num": 4,
+        "race_group_id": 0
+    },
+    {
+        "grade": 600,
+        "id": 30,
+        "order_max": 18,
+        "order_min": 6,
+        "point_num": 2,
+        "race_group_id": 0
+    },
+    {
+        "grade": 700,
+        "id": 31,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 20,
+        "race_group_id": 0
+    },
+    {
+        "grade": 700,
+        "id": 32,
+        "order_max": 2,
+        "order_min": 2,
+        "point_num": 12,
+        "race_group_id": 0
+    },
+    {
+        "grade": 700,
+        "id": 33,
+        "order_max": 3,
+        "order_min": 3,
+        "point_num": 8,
+        "race_group_id": 0
+    },
+    {
+        "grade": 700,
+        "id": 34,
+        "order_max": 5,
+        "order_min": 4,
+        "point_num": 4,
+        "race_group_id": 0
+    },
+    {
+        "grade": 700,
+        "id": 35,
+        "order_max": 18,
+        "order_min": 6,
+        "point_num": 2,
+        "race_group_id": 0
+    },
+    {
+        "grade": 800,
+        "id": 36,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 10,
+        "race_group_id": 0
+    },
+    {
+        "grade": 800,
+        "id": 37,
+        "order_max": 18,
+        "order_min": 2,
+        "point_num": 0,
+        "race_group_id": 0
+    },
+    {
+        "grade": 900,
+        "id": 41,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 10,
+        "race_group_id": 0
+    },
+    {
+        "grade": 900,
+        "id": 42,
+        "order_max": 2,
+        "order_min": 2,
+        "point_num": 6,
+        "race_group_id": 0
+    },
+    {
+        "grade": 900,
+        "id": 43,
+        "order_max": 3,
+        "order_min": 3,
+        "point_num": 4,
+        "race_group_id": 0
+    },
+    {
+        "grade": 900,
+        "id": 44,
+        "order_max": 5,
+        "order_min": 4,
+        "point_num": 2,
+        "race_group_id": 0
+    },
+    {
+        "grade": 900,
+        "id": 45,
+        "order_max": 18,
+        "order_min": 6,
+        "point_num": 1,
+        "race_group_id": 0
+    },
+    {
+        "grade": 0,
+        "id": 46,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 10,
+        "race_group_id": 40001
+    },
+    {
+        "grade": 0,
+        "id": 47,
+        "order_max": 2,
+        "order_min": 2,
+        "point_num": 8,
+        "race_group_id": 40001
+    },
+    {
+        "grade": 0,
+        "id": 48,
+        "order_max": 3,
+        "order_min": 3,
+        "point_num": 6,
+        "race_group_id": 40001
+    },
+    {
+        "grade": 0,
+        "id": 49,
+        "order_max": 4,
+        "order_min": 4,
+        "point_num": 4,
+        "race_group_id": 40001
+    },
+    {
+        "grade": 0,
+        "id": 50,
+        "order_max": 6,
+        "order_min": 5,
+        "point_num": 3,
+        "race_group_id": 40001
+    },
+    {
+        "grade": 0,
+        "id": 51,
+        "order_max": 9,
+        "order_min": 7,
+        "point_num": 2,
+        "race_group_id": 40001
+    },
+    {
+        "grade": 0,
+        "id": 52,
+        "order_max": 13,
+        "order_min": 10,
+        "point_num": 1,
+        "race_group_id": 40001
+    },
+    {
+        "grade": 0,
+        "id": 53,
+        "order_max": 18,
+        "order_min": 14,
+        "point_num": 0,
+        "race_group_id": 40001
+    },
+    {
+        "grade": 0,
+        "id": 54,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 10,
+        "race_group_id": 40002
+    },
+    {
+        "grade": 0,
+        "id": 55,
+        "order_max": 2,
+        "order_min": 2,
+        "point_num": 8,
+        "race_group_id": 40002
+    },
+    {
+        "grade": 0,
+        "id": 56,
+        "order_max": 3,
+        "order_min": 3,
+        "point_num": 6,
+        "race_group_id": 40002
+    },
+    {
+        "grade": 0,
+        "id": 57,
+        "order_max": 4,
+        "order_min": 4,
+        "point_num": 4,
+        "race_group_id": 40002
+    },
+    {
+        "grade": 0,
+        "id": 58,
+        "order_max": 6,
+        "order_min": 5,
+        "point_num": 3,
+        "race_group_id": 40002
+    },
+    {
+        "grade": 0,
+        "id": 59,
+        "order_max": 9,
+        "order_min": 7,
+        "point_num": 2,
+        "race_group_id": 40002
+    },
+    {
+        "grade": 0,
+        "id": 60,
+        "order_max": 13,
+        "order_min": 10,
+        "point_num": 1,
+        "race_group_id": 40002
+    },
+    {
+        "grade": 0,
+        "id": 61,
+        "order_max": 18,
+        "order_min": 14,
+        "point_num": 0,
+        "race_group_id": 40002
+    },
+    {
+        "grade": 0,
+        "id": 62,
+        "order_max": 1,
+        "order_min": 1,
+        "point_num": 10,
+        "race_group_id": 40003
+    },
+    {
+        "grade": 0,
+        "id": 63,
+        "order_max": 2,
+        "order_min": 2,
+        "point_num": 8,
+        "race_group_id": 40003
+    },
+    {
+        "grade": 0,
+        "id": 64,
+        "order_max": 3,
+        "order_min": 3,
+        "point_num": 6,
+        "race_group_id": 40003
+    },
+    {
+        "grade": 0,
+        "id": 65,
+        "order_max": 4,
+        "order_min": 4,
+        "point_num": 4,
+        "race_group_id": 40003
+    },
+    {
+        "grade": 0,
+        "id": 66,
+        "order_max": 6,
+        "order_min": 5,
+        "point_num": 3,
+        "race_group_id": 40003
+    },
+    {
+        "grade": 0,
+        "id": 67,
+        "order_max": 9,
+        "order_min": 7,
+        "point_num": 2,
+        "race_group_id": 40003
+    },
+    {
+        "grade": 0,
+        "id": 68,
+        "order_max": 13,
+        "order_min": 10,
+        "point_num": 1,
+        "race_group_id": 40003
+    },
+    {
+        "grade": 0,
+        "id": 69,
+        "order_max": 18,
+        "order_min": 14,
+        "point_num": 0,
+        "race_group_id": 40003
+    }
+]

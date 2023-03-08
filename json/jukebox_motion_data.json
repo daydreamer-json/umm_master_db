@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "motion_id": 500001,
+        "song_type": 1
+    },
+    {
+        "id": 2,
+        "motion_id": 500003,
+        "song_type": 1
+    },
+    {
+        "id": 3,
+        "motion_id": 500015,
+        "song_type": 1
+    },
+    {
+        "id": 4,
+        "motion_id": 500002,
+        "song_type": 2
+    },
+    {
+        "id": 5,
+        "motion_id": 500004,
+        "song_type": 2
+    },
+    {
+        "id": 6,
+        "motion_id": 500009,
+        "song_type": 2
+    },
+    {
+        "id": 7,
+        "motion_id": 500010,
+        "song_type": 3
+    },
+    {
+        "id": 8,
+        "motion_id": 500011,
+        "song_type": 3
+    },
+    {
+        "id": 9,
+        "motion_id": 500014,
+        "song_type": 3
+    },
+    {
+        "id": 10,
+        "motion_id": 500006,
+        "song_type": 4
+    },
+    {
+        "id": 11,
+        "motion_id": 500007,
+        "song_type": 4
+    },
+    {
+        "id": 12,
+        "motion_id": 500008,
+        "song_type": 5
+    },
+    {
+        "id": 13,
+        "motion_id": 500012,
+        "song_type": 5
+    },
+    {
+        "id": 14,
+        "motion_id": 500016,
+        "song_type": 5
+    },
+    {
+        "id": 15,
+        "motion_id": 500005,
+        "song_type": 6
+    },
+    {
+        "id": 16,
+        "motion_id": 500013,
+        "song_type": 6
+    }
+]

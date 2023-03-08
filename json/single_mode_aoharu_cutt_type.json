@@ -1,0 +1,146 @@
+[
+    {
+        "chara_type": 0,
+        "cutt_id": 2,
+        "cutt_type": 2,
+        "id": 1
+    },
+    {
+        "chara_type": 1,
+        "cutt_id": 1,
+        "cutt_type": 2,
+        "id": 2
+    },
+    {
+        "chara_type": 3,
+        "cutt_id": 3,
+        "cutt_type": 2,
+        "id": 3
+    },
+    {
+        "chara_type": 5,
+        "cutt_id": 4,
+        "cutt_type": 2,
+        "id": 4
+    },
+    {
+        "chara_type": 4,
+        "cutt_id": 5,
+        "cutt_type": 2,
+        "id": 5
+    },
+    {
+        "chara_type": 0,
+        "cutt_id": 12,
+        "cutt_type": 3,
+        "id": 6
+    },
+    {
+        "chara_type": 0,
+        "cutt_id": 16,
+        "cutt_type": 3,
+        "id": 7
+    },
+    {
+        "chara_type": 0,
+        "cutt_id": 18,
+        "cutt_type": 3,
+        "id": 8
+    },
+    {
+        "chara_type": 0,
+        "cutt_id": 22,
+        "cutt_type": 3,
+        "id": 9
+    },
+    {
+        "chara_type": 0,
+        "cutt_id": 32,
+        "cutt_type": 3,
+        "id": 10
+    },
+    {
+        "chara_type": 1,
+        "cutt_id": 2,
+        "cutt_type": 3,
+        "id": 11
+    },
+    {
+        "chara_type": 1,
+        "cutt_id": 6,
+        "cutt_type": 3,
+        "id": 12
+    },
+    {
+        "chara_type": 1,
+        "cutt_id": 7,
+        "cutt_type": 3,
+        "id": 13
+    },
+    {
+        "chara_type": 5,
+        "cutt_id": 3,
+        "cutt_type": 3,
+        "id": 14
+    },
+    {
+        "chara_type": 5,
+        "cutt_id": 15,
+        "cutt_type": 3,
+        "id": 15
+    },
+    {
+        "chara_type": 4,
+        "cutt_id": 5,
+        "cutt_type": 3,
+        "id": 16
+    },
+    {
+        "chara_type": 4,
+        "cutt_id": 30,
+        "cutt_type": 3,
+        "id": 17
+    },
+    {
+        "chara_type": 2,
+        "cutt_id": 9,
+        "cutt_type": 3,
+        "id": 18
+    },
+    {
+        "chara_type": 2,
+        "cutt_id": 35,
+        "cutt_type": 3,
+        "id": 19
+    },
+    {
+        "chara_type": 3,
+        "cutt_id": 23,
+        "cutt_type": 3,
+        "id": 20
+    },
+    {
+        "chara_type": 0,
+        "cutt_id": 6,
+        "cutt_type": 2,
+        "id": 21
+    },
+    {
+        "chara_type": 0,
+        "cutt_id": 7,
+        "cutt_type": 2,
+        "id": 22
+    },
+    {
+        "chara_type": 2,
+        "cutt_id": 8,
+        "cutt_type": 2,
+        "id": 23
+    },
+    {
+        "chara_type": 3,
+        "cutt_id": 36,
+        "cutt_type": 3,
+        "id": 24
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "cheek": 1,
+        "eye_l": 0,
+        "eye_r": 0,
+        "eyebrow_l": 0,
+        "eyebrow_r": 0,
+        "label": "WaraiA",
+        "mouth": 1
+    },
+    {
+        "cheek": 1,
+        "eye_l": 12,
+        "eye_r": 12,
+        "eyebrow_l": 0,
+        "eyebrow_r": 0,
+        "label": "PrizeA",
+        "mouth": 2
+    },
+    {
+        "cheek": 1,
+        "eye_l": 0,
+        "eye_r": 0,
+        "eyebrow_l": 0,
+        "eyebrow_r": 0,
+        "label": "WaraiB",
+        "mouth": 2
+    },
+    {
+        "cheek": 1,
+        "eye_l": 9,
+        "eye_r": 9,
+        "eyebrow_l": 0,
+        "eyebrow_r": 0,
+        "label": "WaraiC",
+        "mouth": 1
+    },
+    {
+        "cheek": 1,
+        "eye_l": 9,
+        "eye_r": 9,
+        "eyebrow_l": 0,
+        "eyebrow_r": 0,
+        "label": "WaraiD",
+        "mouth": 2
+    },
+    {
+        "cheek": 1,
+        "eye_l": 9,
+        "eye_r": 9,
+        "eyebrow_l": 0,
+        "eyebrow_r": 0,
+        "label": "WaraiE",
+        "mouth": 17
+    },
+    {
+        "cheek": 1,
+        "eye_l": 1,
+        "eye_r": 1,
+        "eyebrow_l": 7,
+        "eyebrow_r": 7,
+        "label": "OdorokiA",
+        "mouth": 0
+    },
+    {
+        "cheek": 1,
+        "eye_l": 1,
+        "eye_r": 1,
+        "eyebrow_l": 7,
+        "eyebrow_r": 7,
+        "label": "OdorokiB",
+        "mouth": 5
+    },
+    {
+        "cheek": 1,
+        "eye_l": 9,
+        "eye_r": 9,
+        "eyebrow_l": 2,
+        "eyebrow_r": 2,
+        "label": "KusyoA",
+        "mouth": 1
+    },
+    {
+        "cheek": 1,
+        "eye_l": 9,
+        "eye_r": 9,
+        "eyebrow_l": 2,
+        "eyebrow_r": 2,
+        "label": "KusyoB",
+        "mouth": 2
+    },
+    {
+        "cheek": 1,
+        "eye_l": 14,
+        "eye_r": 14,
+        "eyebrow_l": 3,
+        "eyebrow_r": 3,
+        "label": "GuruguruA",
+        "mouth": 11
+    },
+    {
+        "cheek": 1,
+        "eye_l": 14,
+        "eye_r": 14,
+        "eyebrow_l": 8,
+        "eyebrow_r": 8,
+        "label": "GuruguruB",
+        "mouth": 17
+    },
+    {
+        "cheek": 1,
+        "eye_l": 14,
+        "eye_r": 14,
+        "eyebrow_l": 8,
+        "eyebrow_r": 8,
+        "label": "GuruguruC",
+        "mouth": 9
+    },
+    {
+        "cheek": 1,
+        "eye_l": 13,
+        "eye_r": 13,
+        "eyebrow_l": 0,
+        "eyebrow_r": 0,
+        "label": "HarapekoA",
+        "mouth": 12
+    },
+    {
+        "cheek": 1,
+        "eye_l": 11,
+        "eye_r": 11,
+        "eyebrow_l": 5,
+        "eyebrow_r": 5,
+        "label": "BoobooA",
+        "mouth": 10
+    },
+    {
+        "cheek": 1,
+        "eye_l": 10,
+        "eye_r": 10,
+        "eyebrow_l": 1,
+        "eyebrow_r": 1,
+        "label": "SleepA",
+        "mouth": 12
+    },
+    {
+        "cheek": 1,
+        "eye_l": 2,
+        "eye_r": 2,
+        "eyebrow_l": 5,
+        "eyebrow_r": 5,
+        "label": "IkariA",
+        "mouth": 3
+    },
+    {
+        "cheek": 1,
+        "eye_l": 2,
+        "eye_r": 2,
+        "eyebrow_l": 5,
+        "eyebrow_r": 5,
+        "label": "IkariB",
+        "mouth": 5
+    },
+    {
+        "cheek": 1,
+        "eye_l": 2,
+        "eye_r": 2,
+        "eyebrow_l": 5,
+        "eyebrow_r": 5,
+        "label": "IkariC",
+        "mouth": 8
+    },
+    {
+        "cheek": 1,
+        "eye_l": 6,
+        "eye_r": 6,
+        "eyebrow_l": 5,
+        "eyebrow_r": 5,
+        "label": "IkariD",
+        "mouth": 3
+    },
+    {
+        "cheek": 1,
+        "eye_l": 6,
+        "eye_r": 6,
+        "eyebrow_l": 5,
+        "eyebrow_r": 5,
+        "label": "IkariE",
+        "mouth": 4
+    },
+    {
+        "cheek": 1,
+        "eye_l": 2,
+        "eye_r": 2,
+        "eyebrow_l": 2,
+        "eyebrow_r": 2,
+        "label": "KomariA",
+        "mouth": 3
+    },
+    {
+        "cheek": 1,
+        "eye_l": 2,
+        "eye_r": 2,
+        "eyebrow_l": 2,
+        "eyebrow_r": 2,
+        "label": "KomariB",
+        "mouth": 4
+    },
+    {
+        "cheek": 1,
+        "eye_l": 7,
+        "eye_r": 7,
+        "eyebrow_l": 2,
+        "eyebrow_r": 2,
+        "label": "KomariC",
+        "mouth": 3
+    },
+    {
+        "cheek": 1,
+        "eye_l": 12,
+        "eye_r": 12,
+        "eyebrow_l": 2,
+        "eyebrow_r": 2,
+        "label": "HawawaA",
+        "mouth": 11
+    },
+    {
+        "cheek": 1,
+        "eye_l": 6,
+        "eye_r": 6,
+        "eyebrow_l": 4,
+        "eyebrow_r": 4,
+        "label": "KiriA",
+        "mouth": 1
+    },
+    {
+        "cheek": 1,
+        "eye_l": 6,
+        "eye_r": 6,
+        "eyebrow_l": 5,
+        "eyebrow_r": 5,
+        "label": "KiriB",
+        "mouth": 1
+    },
+    {
+        "cheek": 1,
+        "eye_l": 0,
+        "eye_r": 0,
+        "eyebrow_l": 5,
+        "eyebrow_r": 5,
+        "label": "KiriC",
+        "mouth": 1
+    },
+    {
+        "cheek": 1,
+        "eye_l": 2,
+        "eye_r": 2,
+        "eyebrow_l": 3,
+        "eyebrow_r": 3,
+        "label": "KanasiA",
+        "mouth": 3
+    },
+    {
+        "cheek": 1,
+        "eye_l": 2,
+        "eye_r": 2,
+        "eyebrow_l": 3,
+        "eyebrow_r": 3,
+        "label": "KanasiB",
+        "mouth": 13
+    },
+    {
+        "cheek": 1,
+        "eye_l": 6,
+        "eye_r": 6,
+        "eyebrow_l": 2,
+        "eyebrow_r": 2,
+        "label": "KanasiC",
+        "mouth": 3
+    },
+    {
+        "cheek": 1,
+        "eye_l": 6,
+        "eye_r": 6,
+        "eyebrow_l": 2,
+        "eyebrow_r": 2,
+        "label": "KanasiD",
+        "mouth": 13
+    },
+    {
+        "cheek": 1,
+        "eye_l": 3,
+        "eye_r": 3,
+        "eyebrow_l": 2,
+        "eyebrow_r": 2,
+        "label": "KanasiE",
+        "mouth": 4
+    },
+    {
+        "cheek": 1,
+        "eye_l": 3,
+        "eye_r": 3,
+        "eyebrow_l": 2,
+        "eyebrow_r": 2,
+        "label": "KanasiF",
+        "mouth": 13
+    },
+    {
+        "cheek": 1,
+        "eye_l": 7,
+        "eye_r": 7,
+        "eyebrow_l": 5,
+        "eyebrow_r": 5,
+        "label": "FightA",
+        "mouth": 7
+    }
+]

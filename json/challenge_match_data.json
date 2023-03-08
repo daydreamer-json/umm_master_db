@@ -1,0 +1,41 @@
+[
+    {
+        "announce_id": 0,
+        "bonus_factor_id": 4000101,
+        "bonus_skill_id": 1000011,
+        "challenge_match_id": 1,
+        "challenge_match_top_bg_id": 77,
+        "challenge_match_top_bg_sub_id": 111,
+        "end_date": 1642733999,
+        "ending_date": 1642474799,
+        "item_exchange_top_id": 20001,
+        "notice_date": 1641524400,
+        "start_date": 1641870000
+    },
+    {
+        "announce_id": 0,
+        "bonus_factor_id": 4000102,
+        "bonus_skill_id": 1000012,
+        "challenge_match_id": 2,
+        "challenge_match_top_bg_id": 77,
+        "challenge_match_top_bg_sub_id": 111,
+        "end_date": 1650855599,
+        "ending_date": 1650596399,
+        "item_exchange_top_id": 20002,
+        "notice_date": 1649905200,
+        "start_date": 1649991600
+    },
+    {
+        "announce_id": 0,
+        "bonus_factor_id": 4000103,
+        "bonus_skill_id": 1000013,
+        "challenge_match_id": 3,
+        "challenge_match_top_bg_id": 88,
+        "challenge_match_top_bg_sub_id": 111,
+        "end_date": 1675306799,
+        "ending_date": 1675047599,
+        "item_exchange_top_id": 20003,
+        "notice_date": 1674356400,
+        "start_date": 1674442800
+    }
+]

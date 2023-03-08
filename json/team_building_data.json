@@ -1,0 +1,30 @@
+[
+    {
+        "bg_id": 56,
+        "bg_sub_id": 111,
+        "end_date": 1659322799,
+        "ending_date": 1659063599,
+        "notice_date": 1658286000,
+        "stamina_add": 5,
+        "stamina_add_time": "12:00:00",
+        "stamina_default": 5,
+        "stamina_max": 10,
+        "start_add_scout_point": 2000,
+        "start_date": 1658372400,
+        "team_building_event_id": 1001
+    },
+    {
+        "bg_id": 56,
+        "bg_sub_id": 111,
+        "end_date": 1669863599,
+        "ending_date": 1669604399,
+        "notice_date": 1668913200,
+        "stamina_add": 5,
+        "stamina_add_time": "12:00:00",
+        "stamina_default": 5,
+        "stamina_max": 10,
+        "start_add_scout_point": 2000,
+        "start_date": 1668999600,
+        "team_building_event_id": 1002
+    }
+]

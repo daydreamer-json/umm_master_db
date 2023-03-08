@@ -1,0 +1,740 @@
+[
+    {
+        "chara_num": 2,
+        "command_id": 101045,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 1
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101045,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 2
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101045,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 3
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101045,
+        "cutt_index": 4,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 4
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101045,
+        "cutt_index": 5,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 5
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101045,
+        "cutt_index": 6,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 6
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103010,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103010,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103010,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103010,
+        "cutt_index": 4,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 4
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103010,
+        "cutt_index": 5,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 5
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103010,
+        "cutt_index": 6,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 6
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103020,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103020,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103020,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103020,
+        "cutt_index": 4,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 4
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103020,
+        "cutt_index": 5,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 5
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103020,
+        "cutt_index": 6,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 6
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103020,
+        "cutt_index": 7,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 7
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 4,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 4
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 5,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 5
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 1,
+        "sub_id": 2,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 2,
+        "sub_id": 2,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 3,
+        "sub_id": 2,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 4,
+        "sub_id": 2,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 4
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 5,
+        "sub_id": 2,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 5
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 1,
+        "sub_id": 3,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 2,
+        "sub_id": 3,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 3,
+        "sub_id": 3,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 4,
+        "sub_id": 3,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 4
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103030,
+        "cutt_index": 5,
+        "sub_id": 3,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 5
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103040,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103040,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103040,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103040,
+        "cutt_index": 4,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 4
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103040,
+        "cutt_index": 5,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 5
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103040,
+        "cutt_index": 6,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 6
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103050,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103050,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103050,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103050,
+        "cutt_index": 4,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 4
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103050,
+        "cutt_index": 5,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 5
+    },
+    {
+        "chara_num": 1,
+        "command_id": 103050,
+        "cutt_index": 6,
+        "sub_id": 1,
+        "success_flg": 2,
+        "target_chara_index": 0,
+        "target_value": 6
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101031,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101031,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101031,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101031,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101031,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101031,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101032,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101032,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101032,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101032,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101032,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101032,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101033,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101033,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101033,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101033,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101033,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101033,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101034,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101034,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 101034,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101034,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101034,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 2,
+        "command_id": 101034,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 1,
+        "command_id": 102030,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 1,
+        "command_id": 102030,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 1,
+        "command_id": 102030,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 2,
+        "command_id": 102030,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 1
+    },
+    {
+        "chara_num": 2,
+        "command_id": 102030,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 2
+    },
+    {
+        "chara_num": 2,
+        "command_id": 102030,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 0,
+        "target_value": 3
+    },
+    {
+        "chara_num": 2,
+        "command_id": 102040,
+        "cutt_index": 1,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 1
+    },
+    {
+        "chara_num": 2,
+        "command_id": 102040,
+        "cutt_index": 2,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 2
+    },
+    {
+        "chara_num": 2,
+        "command_id": 102040,
+        "cutt_index": 3,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 3
+    },
+    {
+        "chara_num": 2,
+        "command_id": 102040,
+        "cutt_index": 4,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 4
+    },
+    {
+        "chara_num": 2,
+        "command_id": 102040,
+        "cutt_index": 5,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 5
+    },
+    {
+        "chara_num": 2,
+        "command_id": 102040,
+        "cutt_index": 6,
+        "sub_id": 1,
+        "success_flg": 0,
+        "target_chara_index": 1,
+        "target_value": 6
+    }
+]

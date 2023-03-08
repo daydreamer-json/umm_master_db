@@ -1,0 +1,62 @@
+[
+    {
+        "attribute": 1,
+        "cue_sheet": "snd_sfx_common",
+        "id": 1
+    },
+    {
+        "attribute": 1,
+        "cue_sheet": "snd_sfx_home_000",
+        "id": 2
+    },
+    {
+        "attribute": 2,
+        "cue_sheet": "snd_sfx_common",
+        "id": 3
+    },
+    {
+        "attribute": 2,
+        "cue_sheet": "snd_bgm_title",
+        "id": 4
+    },
+    {
+        "attribute": 2,
+        "cue_sheet": "snd_voi_title",
+        "id": 5
+    },
+    {
+        "attribute": 108,
+        "cue_sheet": "snd_sfx_story_000",
+        "id": 6
+    },
+    {
+        "attribute": 103,
+        "cue_sheet": "snd_sfx_training_000",
+        "id": 7
+    },
+    {
+        "attribute": 104,
+        "cue_sheet": "snd_sfx_room_000",
+        "id": 8
+    },
+    {
+        "attribute": 105,
+        "cue_sheet": "snd_sfx_gacha_000",
+        "id": 9
+    },
+    {
+        "attribute": 106,
+        "cue_sheet": "snd_sfx_race_000",
+        "id": 10
+    },
+    {
+        "attribute": 1,
+        "cue_sheet": "snd_sfx_preinstall",
+        "id": 11
+    },
+    {
+        "attribute": 1,
+        "cue_sheet": "snd_sfx_atmos_common",
+        "id": 12
+    }
+]

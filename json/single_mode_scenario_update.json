@@ -1,0 +1,20 @@
+[
+    {
+        "end_date": 1669604399,
+        "id": 1,
+        "page_index_from": 6,
+        "page_index_to": 8,
+        "scenario_id": 1,
+        "start_date": 1668654000,
+        "tips_group_id": 10005
+    },
+    {
+        "end_date": 1675047599,
+        "id": 2,
+        "page_index_from": 7,
+        "page_index_to": 8,
+        "scenario_id": 2,
+        "start_date": 1674183600,
+        "tips_group_id": 10205
+    }
+]

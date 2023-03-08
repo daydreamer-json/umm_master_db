@@ -1,0 +1,212 @@
+[
+    {
+        "end_date": 1614653999,
+        "gacha_id": 30002,
+        "id": 1,
+        "start_date": 1614110400,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1615258799,
+        "gacha_id": 30005,
+        "id": 2,
+        "start_date": 1614654000,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1620269999,
+        "gacha_id": 30015,
+        "id": 3,
+        "start_date": 1619751600,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1621022399,
+        "gacha_id": 30016,
+        "id": 4,
+        "start_date": 1620270000,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1629428399,
+        "gacha_id": 30034,
+        "id": 5,
+        "start_date": 1629082800,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1629748799,
+        "gacha_id": 30036,
+        "id": 6,
+        "start_date": 1629428400,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1630292399,
+        "gacha_id": 30037,
+        "id": 7,
+        "start_date": 1629748800,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1630612799,
+        "gacha_id": 30039,
+        "id": 8,
+        "start_date": 1630292400,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1640919599,
+        "gacha_id": 30060,
+        "id": 9,
+        "start_date": 1640574000,
+        "target_draw_type": 10
+    },
+    {
+        "end_date": 1641412799,
+        "gacha_id": 30063,
+        "id": 10,
+        "start_date": 1640919600,
+        "target_draw_type": 10
+    },
+    {
+        "end_date": 1644980399,
+        "gacha_id": 30070,
+        "id": 11,
+        "start_date": 1644807600,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1645214399,
+        "gacha_id": 30072,
+        "id": 12,
+        "start_date": 1644980400,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1645671599,
+        "gacha_id": 30073,
+        "id": 13,
+        "start_date": 1645214400,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1646164799,
+        "gacha_id": 30074,
+        "id": 14,
+        "start_date": 1645671600,
+        "target_draw_type": 10
+    },
+    {
+        "end_date": 1646621999,
+        "gacha_id": 30075,
+        "id": 15,
+        "start_date": 1646164800,
+        "target_draw_type": 10
+    },
+    {
+        "end_date": 1646683199,
+        "gacha_id": 30077,
+        "id": 16,
+        "start_date": 1646622000,
+        "target_draw_type": 10
+    },
+    {
+        "end_date": 1647572399,
+        "gacha_id": 30076,
+        "id": 17,
+        "start_date": 1646622000,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1648522799,
+        "gacha_id": 30079,
+        "id": 18,
+        "start_date": 1647572400,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1651953599,
+        "gacha_id": 30087,
+        "id": 19,
+        "start_date": 1651114800,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1652151599,
+        "gacha_id": 30086,
+        "id": 20,
+        "start_date": 1651953600,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1652817599,
+        "gacha_id": 30088,
+        "id": 21,
+        "start_date": 1652151600,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1660877999,
+        "gacha_id": 30106,
+        "id": 22,
+        "start_date": 1660618800,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1661309999,
+        "gacha_id": 30108,
+        "id": 23,
+        "start_date": 1660878000,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1661741999,
+        "gacha_id": 30111,
+        "id": 24,
+        "start_date": 1661310000,
+        "target_draw_type": 10
+    },
+    {
+        "end_date": 1662148799,
+        "gacha_id": 30113,
+        "id": 25,
+        "start_date": 1661742000,
+        "target_draw_type": 10
+    },
+    {
+        "end_date": 1672628399,
+        "gacha_id": 30139,
+        "id": 26,
+        "start_date": 1672282800,
+        "target_draw_type": 10
+    },
+    {
+        "end_date": 1673121599,
+        "gacha_id": 30138,
+        "id": 27,
+        "start_date": 1672628400,
+        "target_draw_type": 10
+    },
+    {
+        "end_date": 1676750399,
+        "gacha_id": 30148,
+        "id": 28,
+        "start_date": 1676343600,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1677207599,
+        "gacha_id": 30149,
+        "id": 29,
+        "start_date": 1676750400,
+        "target_draw_type": 1
+    },
+    {
+        "end_date": 1678219199,
+        "gacha_id": 30151,
+        "id": 30,
+        "start_date": 1677207600,
+        "target_draw_type": 10
+    }
+]

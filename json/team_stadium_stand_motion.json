@@ -1,0 +1,128 @@
+[
+    {
+        "character_id": 1010,
+        "motion_set": 1001,
+        "position": 1,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 135,
+        "type": 2
+    },
+    {
+        "character_id": 1010,
+        "motion_set": 1001,
+        "position": 2,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 135,
+        "type": 2
+    },
+    {
+        "character_id": 1010,
+        "motion_set": 1001,
+        "position": 3,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 135,
+        "type": 2
+    },
+    {
+        "character_id": 1010,
+        "motion_set": 1001,
+        "position": 4,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 225,
+        "type": 2
+    },
+    {
+        "character_id": 1010,
+        "motion_set": 1001,
+        "position": 5,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 225,
+        "type": 2
+    },
+    {
+        "character_id": 1010,
+        "motion_set": 1001,
+        "position": 6,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 225,
+        "type": 2
+    },
+    {
+        "character_id": 1020,
+        "motion_set": 1001,
+        "position": 1,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 135,
+        "type": 2
+    },
+    {
+        "character_id": 1020,
+        "motion_set": 1001,
+        "position": 2,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 135,
+        "type": 2
+    },
+    {
+        "character_id": 1020,
+        "motion_set": 1001,
+        "position": 3,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 135,
+        "type": 2
+    },
+    {
+        "character_id": 1020,
+        "motion_set": 1001,
+        "position": 4,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 225,
+        "type": 2
+    },
+    {
+        "character_id": 1020,
+        "motion_set": 1001,
+        "position": 5,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 225,
+        "type": 2
+    },
+    {
+        "character_id": 1020,
+        "motion_set": 1001,
+        "position": 6,
+        "position_x": 0,
+        "race_dress_id": 0,
+        "rotation": 225,
+        "type": 2
+    },
+    {
+        "character_id": 1041,
+        "motion_set": 1,
+        "position": 3,
+        "position_x": -200,
+        "race_dress_id": 0,
+        "rotation": 135,
+        "type": 2
+    },
+    {
+        "character_id": 1041,
+        "motion_set": 1,
+        "position": 6,
+        "position_x": 200,
+        "race_dress_id": 0,
+        "rotation": 225,
+        "type": 2
+    }
+]

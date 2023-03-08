@@ -1,0 +1,552 @@
+[
+    {
+        "cue_name": "snd_bgm_GM002_paddock_01",
+        "cuesheet_name": "snd_bgm_GM002",
+        "first_bgm_pattern": 1,
+        "id": 1,
+        "race_number": 1,
+        "round_id": 1,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_GM002_paddock_01",
+        "cuesheet_name": "snd_bgm_GM002",
+        "first_bgm_pattern": 1,
+        "id": 2,
+        "race_number": 2,
+        "round_id": 1,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_GM002_paddock_01",
+        "cuesheet_name": "snd_bgm_GM002",
+        "first_bgm_pattern": 1,
+        "id": 3,
+        "race_number": 3,
+        "round_id": 1,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_GM002_paddock_01",
+        "cuesheet_name": "snd_bgm_GM002",
+        "first_bgm_pattern": 1,
+        "id": 4,
+        "race_number": 4,
+        "round_id": 1,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_GM002_paddock_01",
+        "cuesheet_name": "snd_bgm_GM002",
+        "first_bgm_pattern": 1,
+        "id": 5,
+        "race_number": 5,
+        "round_id": 1,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM019_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM019",
+        "first_bgm_pattern": 1,
+        "id": 6,
+        "race_number": 1,
+        "round_id": 1,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM019_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM019",
+        "first_bgm_pattern": 1,
+        "id": 7,
+        "race_number": 2,
+        "round_id": 1,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM019_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM019",
+        "first_bgm_pattern": 1,
+        "id": 8,
+        "race_number": 3,
+        "round_id": 1,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM019_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM019",
+        "first_bgm_pattern": 1,
+        "id": 9,
+        "race_number": 4,
+        "round_id": 1,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM019_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM019",
+        "first_bgm_pattern": 1,
+        "id": 10,
+        "race_number": 5,
+        "round_id": 1,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 12,
+        "id": 11,
+        "race_number": 1,
+        "round_id": 1,
+        "scene_type": 3,
+        "second_bgm_pattern": 13
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 12,
+        "id": 12,
+        "race_number": 2,
+        "round_id": 1,
+        "scene_type": 3,
+        "second_bgm_pattern": 13
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 10,
+        "id": 13,
+        "race_number": 3,
+        "round_id": 1,
+        "scene_type": 3,
+        "second_bgm_pattern": 11
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 10,
+        "id": 14,
+        "race_number": 4,
+        "round_id": 1,
+        "scene_type": 3,
+        "second_bgm_pattern": 11
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 10,
+        "id": 15,
+        "race_number": 5,
+        "round_id": 1,
+        "scene_type": 3,
+        "second_bgm_pattern": 11
+    },
+    {
+        "cue_name": "snd_bgm_SM012_paddock_02",
+        "cuesheet_name": "snd_bgm_SM012",
+        "first_bgm_pattern": 1,
+        "id": 16,
+        "race_number": 1,
+        "round_id": 2,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_SM012_paddock_02",
+        "cuesheet_name": "snd_bgm_SM012",
+        "first_bgm_pattern": 1,
+        "id": 17,
+        "race_number": 2,
+        "round_id": 2,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_SM012_paddock_02",
+        "cuesheet_name": "snd_bgm_SM012",
+        "first_bgm_pattern": 1,
+        "id": 18,
+        "race_number": 3,
+        "round_id": 2,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_SM012_paddock_02",
+        "cuesheet_name": "snd_bgm_SM012",
+        "first_bgm_pattern": 1,
+        "id": 19,
+        "race_number": 4,
+        "round_id": 2,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_SM012_paddock_02",
+        "cuesheet_name": "snd_bgm_SM012",
+        "first_bgm_pattern": 1,
+        "id": 20,
+        "race_number": 5,
+        "round_id": 2,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM003_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM003",
+        "first_bgm_pattern": 1,
+        "id": 21,
+        "race_number": 1,
+        "round_id": 2,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM003_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM003",
+        "first_bgm_pattern": 1,
+        "id": 22,
+        "race_number": 2,
+        "round_id": 2,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM003_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM003",
+        "first_bgm_pattern": 1,
+        "id": 23,
+        "race_number": 3,
+        "round_id": 2,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM003_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM003",
+        "first_bgm_pattern": 1,
+        "id": 24,
+        "race_number": 4,
+        "round_id": 2,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM003_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM003",
+        "first_bgm_pattern": 1,
+        "id": 25,
+        "race_number": 5,
+        "round_id": 2,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 8,
+        "id": 26,
+        "race_number": 1,
+        "round_id": 2,
+        "scene_type": 3,
+        "second_bgm_pattern": 9
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 8,
+        "id": 27,
+        "race_number": 2,
+        "round_id": 2,
+        "scene_type": 3,
+        "second_bgm_pattern": 9
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 20,
+        "id": 28,
+        "race_number": 3,
+        "round_id": 2,
+        "scene_type": 3,
+        "second_bgm_pattern": 21
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 20,
+        "id": 29,
+        "race_number": 4,
+        "round_id": 2,
+        "scene_type": 3,
+        "second_bgm_pattern": 21
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 20,
+        "id": 30,
+        "race_number": 5,
+        "round_id": 2,
+        "scene_type": 3,
+        "second_bgm_pattern": 21
+    },
+    {
+        "cue_name": "snd_bgm_SM012_paddock_02",
+        "cuesheet_name": "snd_bgm_SM012",
+        "first_bgm_pattern": 1,
+        "id": 31,
+        "race_number": 1,
+        "round_id": 3,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_SM012_paddock_02",
+        "cuesheet_name": "snd_bgm_SM012",
+        "first_bgm_pattern": 1,
+        "id": 32,
+        "race_number": 2,
+        "round_id": 3,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_SM012_paddock_02",
+        "cuesheet_name": "snd_bgm_SM012",
+        "first_bgm_pattern": 1,
+        "id": 33,
+        "race_number": 3,
+        "round_id": 3,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_SM012_paddock_02",
+        "cuesheet_name": "snd_bgm_SM012",
+        "first_bgm_pattern": 1,
+        "id": 34,
+        "race_number": 4,
+        "round_id": 3,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_SM012_paddock_02",
+        "cuesheet_name": "snd_bgm_SM012",
+        "first_bgm_pattern": 1,
+        "id": 35,
+        "race_number": 5,
+        "round_id": 3,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM003_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM003",
+        "first_bgm_pattern": 1,
+        "id": 36,
+        "race_number": 1,
+        "round_id": 3,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM003_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM003",
+        "first_bgm_pattern": 1,
+        "id": 37,
+        "race_number": 2,
+        "round_id": 3,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM003_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM003",
+        "first_bgm_pattern": 1,
+        "id": 38,
+        "race_number": 3,
+        "round_id": 3,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM003_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM003",
+        "first_bgm_pattern": 1,
+        "id": 39,
+        "race_number": 4,
+        "round_id": 3,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM003_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM003",
+        "first_bgm_pattern": 1,
+        "id": 40,
+        "race_number": 5,
+        "round_id": 3,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 8,
+        "id": 41,
+        "race_number": 1,
+        "round_id": 3,
+        "scene_type": 3,
+        "second_bgm_pattern": 9
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 8,
+        "id": 42,
+        "race_number": 2,
+        "round_id": 3,
+        "scene_type": 3,
+        "second_bgm_pattern": 9
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 20,
+        "id": 43,
+        "race_number": 3,
+        "round_id": 3,
+        "scene_type": 3,
+        "second_bgm_pattern": 21
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 20,
+        "id": 44,
+        "race_number": 4,
+        "round_id": 3,
+        "scene_type": 3,
+        "second_bgm_pattern": 21
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 20,
+        "id": 45,
+        "race_number": 5,
+        "round_id": 3,
+        "scene_type": 3,
+        "second_bgm_pattern": 21
+    },
+    {
+        "cue_name": "snd_bgm_GM022_paddock_02",
+        "cuesheet_name": "snd_bgm_GM022",
+        "first_bgm_pattern": 1,
+        "id": 46,
+        "race_number": 1,
+        "round_id": 4,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM025_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM025",
+        "first_bgm_pattern": 1,
+        "id": 47,
+        "race_number": 1,
+        "round_id": 4,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 18,
+        "id": 48,
+        "race_number": 1,
+        "round_id": 4,
+        "scene_type": 3,
+        "second_bgm_pattern": 19
+    },
+    {
+        "cue_name": "snd_bgm_GM022_paddock_02",
+        "cuesheet_name": "snd_bgm_GM022",
+        "first_bgm_pattern": 1,
+        "id": 49,
+        "race_number": 1,
+        "round_id": 5,
+        "scene_type": 1,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM025_entrytable_01",
+        "cuesheet_name": "snd_bgm_AM025",
+        "first_bgm_pattern": 1,
+        "id": 50,
+        "race_number": 1,
+        "round_id": 5,
+        "scene_type": 2,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "0",
+        "cuesheet_name": "0",
+        "first_bgm_pattern": 18,
+        "id": 51,
+        "race_number": 1,
+        "round_id": 5,
+        "scene_type": 3,
+        "second_bgm_pattern": 19
+    },
+    {
+        "cue_name": "snd_bgm_GM037_loop",
+        "cuesheet_name": "snd_bgm_GM037",
+        "first_bgm_pattern": 1,
+        "id": 52,
+        "race_number": 0,
+        "round_id": 0,
+        "scene_type": 11,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_GM036_loop",
+        "cuesheet_name": "snd_bgm_GM036",
+        "first_bgm_pattern": 1,
+        "id": 53,
+        "race_number": 0,
+        "round_id": 0,
+        "scene_type": 12,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_GM012_champions",
+        "cuesheet_name": "snd_bgm_GM012",
+        "first_bgm_pattern": 1,
+        "id": 54,
+        "race_number": 0,
+        "round_id": 0,
+        "scene_type": 13,
+        "second_bgm_pattern": 1
+    },
+    {
+        "cue_name": "snd_bgm_AM049_champions",
+        "cuesheet_name": "snd_bgm_AM049",
+        "first_bgm_pattern": 1,
+        "id": 55,
+        "race_number": 0,
+        "round_id": 0,
+        "scene_type": 14,
+        "second_bgm_pattern": 1
+    }
+]

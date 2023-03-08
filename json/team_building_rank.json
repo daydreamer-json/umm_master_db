@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "reward_group_id": 0,
+        "team_max_value": 39999,
+        "team_min_value": 1,
+        "team_rank": 1
+    },
+    {
+        "id": 2,
+        "reward_group_id": 2,
+        "team_max_value": 42999,
+        "team_min_value": 40000,
+        "team_rank": 2
+    },
+    {
+        "id": 3,
+        "reward_group_id": 3,
+        "team_max_value": 45999,
+        "team_min_value": 43000,
+        "team_rank": 3
+    },
+    {
+        "id": 4,
+        "reward_group_id": 4,
+        "team_max_value": 48999,
+        "team_min_value": 46000,
+        "team_rank": 4
+    },
+    {
+        "id": 5,
+        "reward_group_id": 5,
+        "team_max_value": 51999,
+        "team_min_value": 49000,
+        "team_rank": 5
+    },
+    {
+        "id": 6,
+        "reward_group_id": 6,
+        "team_max_value": 55499,
+        "team_min_value": 52000,
+        "team_rank": 6
+    },
+    {
+        "id": 7,
+        "reward_group_id": 7,
+        "team_max_value": 58999,
+        "team_min_value": 55500,
+        "team_rank": 7
+    },
+    {
+        "id": 8,
+        "reward_group_id": 8,
+        "team_max_value": 62499,
+        "team_min_value": 59000,
+        "team_rank": 8
+    },
+    {
+        "id": 9,
+        "reward_group_id": 9,
+        "team_max_value": 65999,
+        "team_min_value": 62500,
+        "team_rank": 9
+    },
+    {
+        "id": 10,
+        "reward_group_id": 10,
+        "team_max_value": 69999,
+        "team_min_value": 66000,
+        "team_rank": 10
+    },
+    {
+        "id": 11,
+        "reward_group_id": 11,
+        "team_max_value": 73999,
+        "team_min_value": 70000,
+        "team_rank": 11
+    },
+    {
+        "id": 12,
+        "reward_group_id": 12,
+        "team_max_value": 77999,
+        "team_min_value": 74000,
+        "team_rank": 12
+    },
+    {
+        "id": 13,
+        "reward_group_id": 13,
+        "team_max_value": 81999,
+        "team_min_value": 78000,
+        "team_rank": 13
+    },
+    {
+        "id": 14,
+        "reward_group_id": 14,
+        "team_max_value": 86499,
+        "team_min_value": 82000,
+        "team_rank": 14
+    },
+    {
+        "id": 15,
+        "reward_group_id": 15,
+        "team_max_value": 90999,
+        "team_min_value": 86500,
+        "team_rank": 15
+    },
+    {
+        "id": 16,
+        "reward_group_id": 16,
+        "team_max_value": 95499,
+        "team_min_value": 91000,
+        "team_rank": 16
+    },
+    {
+        "id": 17,
+        "reward_group_id": 17,
+        "team_max_value": 99999,
+        "team_min_value": 95500,
+        "team_rank": 17
+    },
+    {
+        "id": 18,
+        "reward_group_id": 18,
+        "team_max_value": 104999,
+        "team_min_value": 100000,
+        "team_rank": 18
+    },
+    {
+        "id": 19,
+        "reward_group_id": 19,
+        "team_max_value": 109999,
+        "team_min_value": 105000,
+        "team_rank": 19
+    },
+    {
+        "id": 20,
+        "reward_group_id": 20,
+        "team_max_value": 114999,
+        "team_min_value": 110000,
+        "team_rank": 20
+    },
+    {
+        "id": 21,
+        "reward_group_id": 21,
+        "team_max_value": 119999,
+        "team_min_value": 115000,
+        "team_rank": 21
+    },
+    {
+        "id": 22,
+        "reward_group_id": 22,
+        "team_max_value": 124999,
+        "team_min_value": 120000,
+        "team_rank": 22
+    },
+    {
+        "id": 23,
+        "reward_group_id": 23,
+        "team_max_value": 129999,
+        "team_min_value": 125000,
+        "team_rank": 23
+    },
+    {
+        "id": 24,
+        "reward_group_id": 24,
+        "team_max_value": 134999,
+        "team_min_value": 130000,
+        "team_rank": 24
+    },
+    {
+        "id": 25,
+        "reward_group_id": 25,
+        "team_max_value": 139999,
+        "team_min_value": 135000,
+        "team_rank": 25
+    },
+    {
+        "id": 26,
+        "reward_group_id": 26,
+        "team_max_value": 144999,
+        "team_min_value": 140000,
+        "team_rank": 26
+    },
+    {
+        "id": 27,
+        "reward_group_id": 27,
+        "team_max_value": 149999,
+        "team_min_value": 145000,
+        "team_rank": 27
+    },
+    {
+        "id": 28,
+        "reward_group_id": 28,
+        "team_max_value": 159999,
+        "team_min_value": 150000,
+        "team_rank": 28
+    },
+    {
+        "id": 29,
+        "reward_group_id": 29,
+        "team_max_value": 169999,
+        "team_min_value": 160000,
+        "team_rank": 29
+    },
+    {
+        "id": 30,
+        "reward_group_id": 30,
+        "team_max_value": 99999999,
+        "team_min_value": 170000,
+        "team_rank": 30
+    }
+]

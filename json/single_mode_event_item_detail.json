@@ -1,0 +1,122 @@
+[
+    {
+        "event_category_id": 177,
+        "id": 1,
+        "item_id": 1,
+        "name_index": 180001
+    },
+    {
+        "event_category_id": 177,
+        "id": 2,
+        "item_id": 2,
+        "name_index": 180002
+    },
+    {
+        "event_category_id": 177,
+        "id": 3,
+        "item_id": 3,
+        "name_index": 180003
+    },
+    {
+        "event_category_id": 177,
+        "id": 4,
+        "item_id": 4,
+        "name_index": 180004
+    },
+    {
+        "event_category_id": 177,
+        "id": 5,
+        "item_id": 5,
+        "name_index": 180005
+    },
+    {
+        "event_category_id": 178,
+        "id": 6,
+        "item_id": 1,
+        "name_index": 180006
+    },
+    {
+        "event_category_id": 178,
+        "id": 7,
+        "item_id": 2,
+        "name_index": 180007
+    },
+    {
+        "event_category_id": 179,
+        "id": 8,
+        "item_id": 2,
+        "name_index": 180008
+    },
+    {
+        "event_category_id": 180,
+        "id": 9,
+        "item_id": 1,
+        "name_index": 180009
+    },
+    {
+        "event_category_id": 181,
+        "id": 10,
+        "item_id": 1,
+        "name_index": 180010
+    },
+    {
+        "event_category_id": 182,
+        "id": 11,
+        "item_id": 1,
+        "name_index": 180011
+    },
+    {
+        "event_category_id": 183,
+        "id": 12,
+        "item_id": 1,
+        "name_index": 180012
+    },
+    {
+        "event_category_id": 184,
+        "id": 13,
+        "item_id": 1,
+        "name_index": 180013
+    },
+    {
+        "event_category_id": 185,
+        "id": 14,
+        "item_id": 1,
+        "name_index": 180014
+    },
+    {
+        "event_category_id": 186,
+        "id": 15,
+        "item_id": 1,
+        "name_index": 180015
+    },
+    {
+        "event_category_id": 187,
+        "id": 16,
+        "item_id": 1,
+        "name_index": 180016
+    },
+    {
+        "event_category_id": 188,
+        "id": 17,
+        "item_id": 1,
+        "name_index": 180021
+    },
+    {
+        "event_category_id": 189,
+        "id": 18,
+        "item_id": 1,
+        "name_index": 180022
+    },
+    {
+        "event_category_id": 189,
+        "id": 19,
+        "item_id": 2,
+        "name_index": 180023
+    },
+    {
+        "event_category_id": 189,
+        "id": 20,
+        "item_id": 3,
+        "name_index": 180024
+    }
+]

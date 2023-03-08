@@ -1,0 +1,93 @@
+[
+    {
+        "add_point": 5,
+        "factor_type": 1,
+        "id": 1,
+        "value_1": 1,
+        "value_2": 0
+    },
+    {
+        "add_point": 12,
+        "factor_type": 1,
+        "id": 2,
+        "value_1": 2,
+        "value_2": 0
+    },
+    {
+        "add_point": 21,
+        "factor_type": 1,
+        "id": 3,
+        "value_1": 3,
+        "value_2": 0
+    },
+    {
+        "add_point": 1,
+        "factor_type": 2,
+        "id": 4,
+        "value_1": 1,
+        "value_2": 3
+    },
+    {
+        "add_point": 2,
+        "factor_type": 2,
+        "id": 5,
+        "value_1": 4,
+        "value_2": 6
+    },
+    {
+        "add_point": 3,
+        "factor_type": 2,
+        "id": 6,
+        "value_1": 7,
+        "value_2": 9
+    },
+    {
+        "add_point": 4,
+        "factor_type": 2,
+        "id": 7,
+        "value_1": 10,
+        "value_2": 999
+    },
+    {
+        "add_point": 4,
+        "factor_type": 1,
+        "id": 8,
+        "value_1": 1,
+        "value_2": 1
+    },
+    {
+        "add_point": 9,
+        "factor_type": 1,
+        "id": 9,
+        "value_1": 2,
+        "value_2": 1
+    },
+    {
+        "add_point": 16,
+        "factor_type": 1,
+        "id": 10,
+        "value_1": 3,
+        "value_2": 1
+    },
+    {
+        "add_point": 0,
+        "factor_type": 3,
+        "id": 11,
+        "value_1": 1,
+        "value_2": 1
+    },
+    {
+        "add_point": 0,
+        "factor_type": 3,
+        "id": 12,
+        "value_1": 2,
+        "value_2": 2
+    },
+    {
+        "add_point": 0,
+        "factor_type": 3,
+        "id": 13,
+        "value_1": 3,
+        "value_2": 4
+    }
+]

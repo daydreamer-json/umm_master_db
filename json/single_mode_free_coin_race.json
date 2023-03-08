@@ -1,0 +1,254 @@
+[
+    {
+        "coin_num": 100,
+        "grade": 100,
+        "id": 1,
+        "order_max": 1,
+        "order_min": 1
+    },
+    {
+        "coin_num": 60,
+        "grade": 100,
+        "id": 2,
+        "order_max": 3,
+        "order_min": 2
+    },
+    {
+        "coin_num": 30,
+        "grade": 100,
+        "id": 3,
+        "order_max": 5,
+        "order_min": 4
+    },
+    {
+        "coin_num": 0,
+        "grade": 100,
+        "id": 4,
+        "order_max": 18,
+        "order_min": 6
+    },
+    {
+        "coin_num": 100,
+        "grade": 200,
+        "id": 5,
+        "order_max": 1,
+        "order_min": 1
+    },
+    {
+        "coin_num": 60,
+        "grade": 200,
+        "id": 6,
+        "order_max": 3,
+        "order_min": 2
+    },
+    {
+        "coin_num": 30,
+        "grade": 200,
+        "id": 7,
+        "order_max": 5,
+        "order_min": 4
+    },
+    {
+        "coin_num": 0,
+        "grade": 200,
+        "id": 8,
+        "order_max": 18,
+        "order_min": 6
+    },
+    {
+        "coin_num": 100,
+        "grade": 300,
+        "id": 9,
+        "order_max": 1,
+        "order_min": 1
+    },
+    {
+        "coin_num": 60,
+        "grade": 300,
+        "id": 10,
+        "order_max": 3,
+        "order_min": 2
+    },
+    {
+        "coin_num": 30,
+        "grade": 300,
+        "id": 11,
+        "order_max": 5,
+        "order_min": 4
+    },
+    {
+        "coin_num": 0,
+        "grade": 300,
+        "id": 12,
+        "order_max": 18,
+        "order_min": 6
+    },
+    {
+        "coin_num": 100,
+        "grade": 400,
+        "id": 13,
+        "order_max": 1,
+        "order_min": 1
+    },
+    {
+        "coin_num": 60,
+        "grade": 400,
+        "id": 14,
+        "order_max": 3,
+        "order_min": 2
+    },
+    {
+        "coin_num": 30,
+        "grade": 400,
+        "id": 15,
+        "order_max": 5,
+        "order_min": 4
+    },
+    {
+        "coin_num": 0,
+        "grade": 400,
+        "id": 16,
+        "order_max": 18,
+        "order_min": 6
+    },
+    {
+        "coin_num": 100,
+        "grade": 500,
+        "id": 17,
+        "order_max": 1,
+        "order_min": 1
+    },
+    {
+        "coin_num": 60,
+        "grade": 500,
+        "id": 18,
+        "order_max": 3,
+        "order_min": 2
+    },
+    {
+        "coin_num": 30,
+        "grade": 500,
+        "id": 19,
+        "order_max": 5,
+        "order_min": 4
+    },
+    {
+        "coin_num": 0,
+        "grade": 500,
+        "id": 20,
+        "order_max": 18,
+        "order_min": 6
+    },
+    {
+        "coin_num": 100,
+        "grade": 600,
+        "id": 21,
+        "order_max": 1,
+        "order_min": 1
+    },
+    {
+        "coin_num": 60,
+        "grade": 600,
+        "id": 22,
+        "order_max": 3,
+        "order_min": 2
+    },
+    {
+        "coin_num": 30,
+        "grade": 600,
+        "id": 23,
+        "order_max": 5,
+        "order_min": 4
+    },
+    {
+        "coin_num": 0,
+        "grade": 600,
+        "id": 24,
+        "order_max": 18,
+        "order_min": 6
+    },
+    {
+        "coin_num": 100,
+        "grade": 700,
+        "id": 25,
+        "order_max": 1,
+        "order_min": 1
+    },
+    {
+        "coin_num": 60,
+        "grade": 700,
+        "id": 26,
+        "order_max": 3,
+        "order_min": 2
+    },
+    {
+        "coin_num": 30,
+        "grade": 700,
+        "id": 27,
+        "order_max": 5,
+        "order_min": 4
+    },
+    {
+        "coin_num": 0,
+        "grade": 700,
+        "id": 28,
+        "order_max": 18,
+        "order_min": 6
+    },
+    {
+        "coin_num": 100,
+        "grade": 800,
+        "id": 29,
+        "order_max": 1,
+        "order_min": 1
+    },
+    {
+        "coin_num": 60,
+        "grade": 800,
+        "id": 30,
+        "order_max": 3,
+        "order_min": 2
+    },
+    {
+        "coin_num": 30,
+        "grade": 800,
+        "id": 31,
+        "order_max": 5,
+        "order_min": 4
+    },
+    {
+        "coin_num": 0,
+        "grade": 800,
+        "id": 32,
+        "order_max": 18,
+        "order_min": 6
+    },
+    {
+        "coin_num": 100,
+        "grade": 900,
+        "id": 33,
+        "order_max": 1,
+        "order_min": 1
+    },
+    {
+        "coin_num": 60,
+        "grade": 900,
+        "id": 34,
+        "order_max": 3,
+        "order_min": 2
+    },
+    {
+        "coin_num": 30,
+        "grade": 900,
+        "id": 35,
+        "order_max": 5,
+        "order_min": 4
+    },
+    {
+        "coin_num": 0,
+        "grade": 900,
+        "id": 36,
+        "order_max": 18,
+        "order_min": 6
+    }
+]

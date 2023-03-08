@@ -1,0 +1,1322 @@
+[
+    {
+        "champions_id": 1,
+        "end_date": 1620961199,
+        "id": 1,
+        "interval_end_time": 1620961199,
+        "interval_start_time": 1620961199,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1620615600
+    },
+    {
+        "champions_id": 1,
+        "end_date": 1621133999,
+        "id": 2,
+        "interval_end_time": 1621134899,
+        "interval_start_time": 1621134000,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1620961200
+    },
+    {
+        "champions_id": 1,
+        "end_date": 1621306799,
+        "id": 3,
+        "interval_end_time": 1621307699,
+        "interval_start_time": 1621306800,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1621134000
+    },
+    {
+        "champions_id": 1,
+        "end_date": 1621349999,
+        "id": 4,
+        "interval_end_time": 1621349999,
+        "interval_start_time": 1621349999,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1621306800
+    },
+    {
+        "champions_id": 1,
+        "end_date": 1621393199,
+        "id": 5,
+        "interval_end_time": 1621393199,
+        "interval_start_time": 1621393199,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1621350000
+    },
+    {
+        "champions_id": 1,
+        "end_date": 1621479599,
+        "id": 6,
+        "interval_end_time": 1621479599,
+        "interval_start_time": 1621479599,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1621393200
+    },
+    {
+        "champions_id": 2,
+        "end_date": 1623639599,
+        "id": 7,
+        "interval_end_time": 1623639599,
+        "interval_start_time": 1623639599,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1623294000
+    },
+    {
+        "champions_id": 2,
+        "end_date": 1623812399,
+        "id": 8,
+        "interval_end_time": 1623813299,
+        "interval_start_time": 1623812400,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1623639600
+    },
+    {
+        "champions_id": 2,
+        "end_date": 1623985199,
+        "id": 9,
+        "interval_end_time": 1623986099,
+        "interval_start_time": 1623985200,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1623812400
+    },
+    {
+        "champions_id": 2,
+        "end_date": 1624028399,
+        "id": 10,
+        "interval_end_time": 1624028399,
+        "interval_start_time": 1624028399,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1623985200
+    },
+    {
+        "champions_id": 2,
+        "end_date": 1624071599,
+        "id": 11,
+        "interval_end_time": 1624071599,
+        "interval_start_time": 1624071599,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1624028400
+    },
+    {
+        "champions_id": 2,
+        "end_date": 1624157999,
+        "id": 12,
+        "interval_end_time": 1624157999,
+        "interval_start_time": 1624157999,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1624071600
+    },
+    {
+        "champions_id": 3,
+        "end_date": 1627009199,
+        "id": 13,
+        "interval_end_time": 1627009199,
+        "interval_start_time": 1627009199,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1626750000
+    },
+    {
+        "champions_id": 3,
+        "end_date": 1627181999,
+        "id": 14,
+        "interval_end_time": 1627182899,
+        "interval_start_time": 1627182000,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1627009200
+    },
+    {
+        "champions_id": 3,
+        "end_date": 1627354799,
+        "id": 15,
+        "interval_end_time": 1627355699,
+        "interval_start_time": 1627354800,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1627182000
+    },
+    {
+        "champions_id": 3,
+        "end_date": 1627397999,
+        "id": 16,
+        "interval_end_time": 1627397999,
+        "interval_start_time": 1627397999,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1627354800
+    },
+    {
+        "champions_id": 3,
+        "end_date": 1627441199,
+        "id": 17,
+        "interval_end_time": 1627441199,
+        "interval_start_time": 1627441199,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1627398000
+    },
+    {
+        "champions_id": 3,
+        "end_date": 1627527599,
+        "id": 18,
+        "interval_end_time": 1627527599,
+        "interval_start_time": 1627527599,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1627441200
+    },
+    {
+        "champions_id": 4,
+        "end_date": 1629773999,
+        "id": 19,
+        "interval_end_time": 1629773999,
+        "interval_start_time": 1629773999,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1629428400
+    },
+    {
+        "champions_id": 4,
+        "end_date": 1629946799,
+        "id": 20,
+        "interval_end_time": 1629947699,
+        "interval_start_time": 1629946800,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1629774000
+    },
+    {
+        "champions_id": 4,
+        "end_date": 1630119599,
+        "id": 21,
+        "interval_end_time": 1630120499,
+        "interval_start_time": 1630119600,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1629946800
+    },
+    {
+        "champions_id": 4,
+        "end_date": 1630162799,
+        "id": 22,
+        "interval_end_time": 1630162799,
+        "interval_start_time": 1630162799,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1630119600
+    },
+    {
+        "champions_id": 4,
+        "end_date": 1630205999,
+        "id": 23,
+        "interval_end_time": 1630205999,
+        "interval_start_time": 1630205999,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1630162800
+    },
+    {
+        "champions_id": 4,
+        "end_date": 1630292399,
+        "id": 24,
+        "interval_end_time": 1630292399,
+        "interval_start_time": 1630292399,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1630206000
+    },
+    {
+        "champions_id": 5,
+        "end_date": 1632193199,
+        "id": 25,
+        "interval_end_time": 1632193199,
+        "interval_start_time": 1632193199,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1631847600
+    },
+    {
+        "champions_id": 5,
+        "end_date": 1632365999,
+        "id": 26,
+        "interval_end_time": 1632366899,
+        "interval_start_time": 1632366000,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1632193200
+    },
+    {
+        "champions_id": 5,
+        "end_date": 1632538799,
+        "id": 27,
+        "interval_end_time": 1632539699,
+        "interval_start_time": 1632538800,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1632366000
+    },
+    {
+        "champions_id": 5,
+        "end_date": 1632581999,
+        "id": 28,
+        "interval_end_time": 1632581999,
+        "interval_start_time": 1632581999,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1632538800
+    },
+    {
+        "champions_id": 5,
+        "end_date": 1632625199,
+        "id": 29,
+        "interval_end_time": 1632625199,
+        "interval_start_time": 1632625199,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1632582000
+    },
+    {
+        "champions_id": 5,
+        "end_date": 1632711599,
+        "id": 30,
+        "interval_end_time": 1632711599,
+        "interval_start_time": 1632711599,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1632625200
+    },
+    {
+        "champions_id": 6,
+        "end_date": 1634871599,
+        "id": 31,
+        "interval_end_time": 1634871599,
+        "interval_start_time": 1634871599,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1634526000
+    },
+    {
+        "champions_id": 6,
+        "end_date": 1635044399,
+        "id": 32,
+        "interval_end_time": 1635045299,
+        "interval_start_time": 1635044400,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1634871600
+    },
+    {
+        "champions_id": 6,
+        "end_date": 1635217199,
+        "id": 33,
+        "interval_end_time": 1635218099,
+        "interval_start_time": 1635217200,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1635044400
+    },
+    {
+        "champions_id": 6,
+        "end_date": 1635260399,
+        "id": 34,
+        "interval_end_time": 1635260399,
+        "interval_start_time": 1635260399,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1635217200
+    },
+    {
+        "champions_id": 6,
+        "end_date": 1635303599,
+        "id": 35,
+        "interval_end_time": 1635303599,
+        "interval_start_time": 1635303599,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1635260400
+    },
+    {
+        "champions_id": 6,
+        "end_date": 1635389999,
+        "id": 36,
+        "interval_end_time": 1635389999,
+        "interval_start_time": 1635389999,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1635303600
+    },
+    {
+        "champions_id": 7,
+        "end_date": 1637636399,
+        "id": 37,
+        "interval_end_time": 1637636399,
+        "interval_start_time": 1637636399,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1637290800
+    },
+    {
+        "champions_id": 7,
+        "end_date": 1637809199,
+        "id": 38,
+        "interval_end_time": 1637810099,
+        "interval_start_time": 1637809200,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1637636400
+    },
+    {
+        "champions_id": 7,
+        "end_date": 1637981999,
+        "id": 39,
+        "interval_end_time": 1637982899,
+        "interval_start_time": 1637982000,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1637809200
+    },
+    {
+        "champions_id": 7,
+        "end_date": 1638025199,
+        "id": 40,
+        "interval_end_time": 1638025199,
+        "interval_start_time": 1638025199,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1637982000
+    },
+    {
+        "champions_id": 7,
+        "end_date": 1638068399,
+        "id": 41,
+        "interval_end_time": 1638068399,
+        "interval_start_time": 1638068399,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1638025200
+    },
+    {
+        "champions_id": 7,
+        "end_date": 1638154799,
+        "id": 42,
+        "interval_end_time": 1638154799,
+        "interval_start_time": 1638154799,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1638068400
+    },
+    {
+        "champions_id": 8,
+        "end_date": 1640055599,
+        "id": 43,
+        "interval_end_time": 1640055599,
+        "interval_start_time": 1640055599,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1639710000
+    },
+    {
+        "champions_id": 8,
+        "end_date": 1640228399,
+        "id": 44,
+        "interval_end_time": 1640229299,
+        "interval_start_time": 1640228400,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1640055600
+    },
+    {
+        "champions_id": 8,
+        "end_date": 1640401199,
+        "id": 45,
+        "interval_end_time": 1640402099,
+        "interval_start_time": 1640401200,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1640228400
+    },
+    {
+        "champions_id": 8,
+        "end_date": 1640444399,
+        "id": 46,
+        "interval_end_time": 1640444399,
+        "interval_start_time": 1640444399,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1640401200
+    },
+    {
+        "champions_id": 8,
+        "end_date": 1640487599,
+        "id": 47,
+        "interval_end_time": 1640487599,
+        "interval_start_time": 1640487599,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1640444400
+    },
+    {
+        "champions_id": 8,
+        "end_date": 1640573999,
+        "id": 48,
+        "interval_end_time": 1640573999,
+        "interval_start_time": 1640573999,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1640487600
+    },
+    {
+        "champions_id": 9,
+        "end_date": 1642820399,
+        "id": 49,
+        "interval_end_time": 1642820399,
+        "interval_start_time": 1642820399,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1642474800
+    },
+    {
+        "champions_id": 9,
+        "end_date": 1642993199,
+        "id": 50,
+        "interval_end_time": 1642994099,
+        "interval_start_time": 1642993200,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1642820400
+    },
+    {
+        "champions_id": 9,
+        "end_date": 1643165999,
+        "id": 51,
+        "interval_end_time": 1643166899,
+        "interval_start_time": 1643166000,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1642993200
+    },
+    {
+        "champions_id": 9,
+        "end_date": 1643209199,
+        "id": 52,
+        "interval_end_time": 1643209199,
+        "interval_start_time": 1643209199,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1643166000
+    },
+    {
+        "champions_id": 9,
+        "end_date": 1643252399,
+        "id": 53,
+        "interval_end_time": 1643252399,
+        "interval_start_time": 1643252399,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1643209200
+    },
+    {
+        "champions_id": 9,
+        "end_date": 1643338799,
+        "id": 54,
+        "interval_end_time": 1643338799,
+        "interval_start_time": 1643338799,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1643252400
+    },
+    {
+        "champions_id": 10,
+        "end_date": 1645153199,
+        "id": 55,
+        "interval_end_time": 1645153199,
+        "interval_start_time": 1645153199,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1644807600
+    },
+    {
+        "champions_id": 10,
+        "end_date": 1645325999,
+        "id": 56,
+        "interval_end_time": 1645326899,
+        "interval_start_time": 1645326000,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1645153200
+    },
+    {
+        "champions_id": 10,
+        "end_date": 1645498799,
+        "id": 57,
+        "interval_end_time": 1645499699,
+        "interval_start_time": 1645498800,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1645326000
+    },
+    {
+        "champions_id": 10,
+        "end_date": 1645541999,
+        "id": 58,
+        "interval_end_time": 1645541999,
+        "interval_start_time": 1645541999,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1645498800
+    },
+    {
+        "champions_id": 10,
+        "end_date": 1645585199,
+        "id": 59,
+        "interval_end_time": 1645585199,
+        "interval_start_time": 1645585199,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1645542000
+    },
+    {
+        "champions_id": 10,
+        "end_date": 1645671599,
+        "id": 60,
+        "interval_end_time": 1645671599,
+        "interval_start_time": 1645671599,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1645585200
+    },
+    {
+        "champions_id": 11,
+        "end_date": 1647917999,
+        "id": 61,
+        "interval_end_time": 1647917999,
+        "interval_start_time": 1647917999,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1647572400
+    },
+    {
+        "champions_id": 11,
+        "end_date": 1648090799,
+        "id": 62,
+        "interval_end_time": 1648091699,
+        "interval_start_time": 1648090800,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1647918000
+    },
+    {
+        "champions_id": 11,
+        "end_date": 1648263599,
+        "id": 63,
+        "interval_end_time": 1648264499,
+        "interval_start_time": 1648263600,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1648090800
+    },
+    {
+        "champions_id": 11,
+        "end_date": 1648306799,
+        "id": 64,
+        "interval_end_time": 1648306799,
+        "interval_start_time": 1648306799,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1648263600
+    },
+    {
+        "champions_id": 11,
+        "end_date": 1648349999,
+        "id": 65,
+        "interval_end_time": 1648349999,
+        "interval_start_time": 1648349999,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1648306800
+    },
+    {
+        "champions_id": 11,
+        "end_date": 1648436399,
+        "id": 66,
+        "interval_end_time": 1648436399,
+        "interval_start_time": 1648436399,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1648350000
+    },
+    {
+        "champions_id": 12,
+        "end_date": 1650596399,
+        "id": 67,
+        "interval_end_time": 1650596399,
+        "interval_start_time": 1650596399,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1650337200
+    },
+    {
+        "champions_id": 12,
+        "end_date": 1650769199,
+        "id": 68,
+        "interval_end_time": 1650770099,
+        "interval_start_time": 1650769200,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1650596400
+    },
+    {
+        "champions_id": 12,
+        "end_date": 1650941999,
+        "id": 69,
+        "interval_end_time": 1650942899,
+        "interval_start_time": 1650942000,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1650769200
+    },
+    {
+        "champions_id": 12,
+        "end_date": 1650985199,
+        "id": 70,
+        "interval_end_time": 1650985199,
+        "interval_start_time": 1650985199,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1650942000
+    },
+    {
+        "champions_id": 12,
+        "end_date": 1651028399,
+        "id": 71,
+        "interval_end_time": 1651028399,
+        "interval_start_time": 1651028399,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1650985200
+    },
+    {
+        "champions_id": 12,
+        "end_date": 1651114799,
+        "id": 72,
+        "interval_end_time": 1651114799,
+        "interval_start_time": 1651114799,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1651028400
+    },
+    {
+        "champions_id": 13,
+        "end_date": 1653361199,
+        "id": 73,
+        "interval_end_time": 1653361199,
+        "interval_start_time": 1653361199,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1653015600
+    },
+    {
+        "champions_id": 13,
+        "end_date": 1653533999,
+        "id": 74,
+        "interval_end_time": 1653534899,
+        "interval_start_time": 1653534000,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1653361200
+    },
+    {
+        "champions_id": 13,
+        "end_date": 1653706799,
+        "id": 75,
+        "interval_end_time": 1653707699,
+        "interval_start_time": 1653706800,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1653534000
+    },
+    {
+        "champions_id": 13,
+        "end_date": 1653749999,
+        "id": 76,
+        "interval_end_time": 1653749999,
+        "interval_start_time": 1653749999,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1653706800
+    },
+    {
+        "champions_id": 13,
+        "end_date": 1653793199,
+        "id": 77,
+        "interval_end_time": 1653793199,
+        "interval_start_time": 1653793199,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1653750000
+    },
+    {
+        "champions_id": 13,
+        "end_date": 1653879599,
+        "id": 78,
+        "interval_end_time": 1653879599,
+        "interval_start_time": 1653879599,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1653793200
+    },
+    {
+        "champions_id": 14,
+        "end_date": 1655175599,
+        "id": 79,
+        "interval_end_time": 1655175599,
+        "interval_start_time": 1655175599,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1654830000
+    },
+    {
+        "champions_id": 14,
+        "end_date": 1655348399,
+        "id": 80,
+        "interval_end_time": 1655349299,
+        "interval_start_time": 1655348400,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1655175600
+    },
+    {
+        "champions_id": 14,
+        "end_date": 1655521199,
+        "id": 81,
+        "interval_end_time": 1655522099,
+        "interval_start_time": 1655521200,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1655348400
+    },
+    {
+        "champions_id": 14,
+        "end_date": 1655564399,
+        "id": 82,
+        "interval_end_time": 1655564399,
+        "interval_start_time": 1655564399,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1655521200
+    },
+    {
+        "champions_id": 14,
+        "end_date": 1655607599,
+        "id": 83,
+        "interval_end_time": 1655607599,
+        "interval_start_time": 1655607599,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1655564400
+    },
+    {
+        "champions_id": 14,
+        "end_date": 1655693999,
+        "id": 84,
+        "interval_end_time": 1655693999,
+        "interval_start_time": 1655693999,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1655607600
+    },
+    {
+        "champions_id": 15,
+        "end_date": 1657767599,
+        "id": 85,
+        "interval_end_time": 1657767599,
+        "interval_start_time": 1657767599,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1657508400
+    },
+    {
+        "champions_id": 15,
+        "end_date": 1657940399,
+        "id": 86,
+        "interval_end_time": 1657941299,
+        "interval_start_time": 1657940400,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1657767600
+    },
+    {
+        "champions_id": 15,
+        "end_date": 1658113199,
+        "id": 87,
+        "interval_end_time": 1658114099,
+        "interval_start_time": 1658113200,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1657940400
+    },
+    {
+        "champions_id": 15,
+        "end_date": 1658156399,
+        "id": 88,
+        "interval_end_time": 1658156399,
+        "interval_start_time": 1658156399,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1658113200
+    },
+    {
+        "champions_id": 15,
+        "end_date": 1658199599,
+        "id": 89,
+        "interval_end_time": 1658199599,
+        "interval_start_time": 1658199599,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1658156400
+    },
+    {
+        "champions_id": 15,
+        "end_date": 1658285999,
+        "id": 90,
+        "interval_end_time": 1658285999,
+        "interval_start_time": 1658285999,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1658199600
+    },
+    {
+        "champions_id": 16,
+        "end_date": 1660359599,
+        "id": 91,
+        "interval_end_time": 1660359599,
+        "interval_start_time": 1660359599,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1660100400
+    },
+    {
+        "champions_id": 16,
+        "end_date": 1660532399,
+        "id": 92,
+        "interval_end_time": 1660533299,
+        "interval_start_time": 1660532400,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1660359600
+    },
+    {
+        "champions_id": 16,
+        "end_date": 1660705199,
+        "id": 93,
+        "interval_end_time": 1660706099,
+        "interval_start_time": 1660705200,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1660532400
+    },
+    {
+        "champions_id": 16,
+        "end_date": 1660748399,
+        "id": 94,
+        "interval_end_time": 1660748399,
+        "interval_start_time": 1660748399,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1660705200
+    },
+    {
+        "champions_id": 16,
+        "end_date": 1660791599,
+        "id": 95,
+        "interval_end_time": 1660791599,
+        "interval_start_time": 1660791599,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1660748400
+    },
+    {
+        "champions_id": 16,
+        "end_date": 1660877999,
+        "id": 96,
+        "interval_end_time": 1660877999,
+        "interval_start_time": 1660877999,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1660791600
+    },
+    {
+        "champions_id": 17,
+        "end_date": 1663210799,
+        "id": 97,
+        "interval_end_time": 1663210799,
+        "interval_start_time": 1663210799,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1662951600
+    },
+    {
+        "champions_id": 17,
+        "end_date": 1663383599,
+        "id": 98,
+        "interval_end_time": 1663384499,
+        "interval_start_time": 1663383600,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1663210800
+    },
+    {
+        "champions_id": 17,
+        "end_date": 1663556399,
+        "id": 99,
+        "interval_end_time": 1663557299,
+        "interval_start_time": 1663556400,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1663383600
+    },
+    {
+        "champions_id": 17,
+        "end_date": 1663599599,
+        "id": 100,
+        "interval_end_time": 1663599599,
+        "interval_start_time": 1663599599,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1663556400
+    },
+    {
+        "champions_id": 17,
+        "end_date": 1663642799,
+        "id": 101,
+        "interval_end_time": 1663642799,
+        "interval_start_time": 1663642799,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1663599600
+    },
+    {
+        "champions_id": 17,
+        "end_date": 1663729199,
+        "id": 102,
+        "interval_end_time": 1663729199,
+        "interval_start_time": 1663729199,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1663642800
+    },
+    {
+        "champions_id": 18,
+        "end_date": 1665716399,
+        "id": 103,
+        "interval_end_time": 1665716399,
+        "interval_start_time": 1665716399,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1665457200
+    },
+    {
+        "champions_id": 18,
+        "end_date": 1665889199,
+        "id": 104,
+        "interval_end_time": 1665890099,
+        "interval_start_time": 1665889200,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1665716400
+    },
+    {
+        "champions_id": 18,
+        "end_date": 1666061999,
+        "id": 105,
+        "interval_end_time": 1666062899,
+        "interval_start_time": 1666062000,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1665889200
+    },
+    {
+        "champions_id": 18,
+        "end_date": 1666105199,
+        "id": 106,
+        "interval_end_time": 1666105199,
+        "interval_start_time": 1666105199,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1666062000
+    },
+    {
+        "champions_id": 18,
+        "end_date": 1666148399,
+        "id": 107,
+        "interval_end_time": 1666148399,
+        "interval_start_time": 1666148399,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1666105200
+    },
+    {
+        "champions_id": 18,
+        "end_date": 1666234799,
+        "id": 108,
+        "interval_end_time": 1666234799,
+        "interval_start_time": 1666234799,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1666148400
+    },
+    {
+        "champions_id": 19,
+        "end_date": 1668308399,
+        "id": 109,
+        "interval_end_time": 1668308399,
+        "interval_start_time": 1668308399,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1667962800
+    },
+    {
+        "champions_id": 19,
+        "end_date": 1668481199,
+        "id": 110,
+        "interval_end_time": 1668482099,
+        "interval_start_time": 1668481200,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1668308400
+    },
+    {
+        "champions_id": 19,
+        "end_date": 1668653999,
+        "id": 111,
+        "interval_end_time": 1668654899,
+        "interval_start_time": 1668654000,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1668481200
+    },
+    {
+        "champions_id": 19,
+        "end_date": 1668697199,
+        "id": 112,
+        "interval_end_time": 1668697199,
+        "interval_start_time": 1668697199,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1668654000
+    },
+    {
+        "champions_id": 19,
+        "end_date": 1668740399,
+        "id": 113,
+        "interval_end_time": 1668740399,
+        "interval_start_time": 1668740399,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1668697200
+    },
+    {
+        "champions_id": 19,
+        "end_date": 1668826799,
+        "id": 114,
+        "interval_end_time": 1668826799,
+        "interval_start_time": 1668826799,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1668740400
+    },
+    {
+        "champions_id": 20,
+        "end_date": 1671073199,
+        "id": 115,
+        "interval_end_time": 1671073199,
+        "interval_start_time": 1671073199,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1670814000
+    },
+    {
+        "champions_id": 20,
+        "end_date": 1671245999,
+        "id": 116,
+        "interval_end_time": 1671246899,
+        "interval_start_time": 1671246000,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1671073200
+    },
+    {
+        "champions_id": 20,
+        "end_date": 1671418799,
+        "id": 117,
+        "interval_end_time": 1671419699,
+        "interval_start_time": 1671418800,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1671246000
+    },
+    {
+        "champions_id": 20,
+        "end_date": 1671461999,
+        "id": 118,
+        "interval_end_time": 1671461999,
+        "interval_start_time": 1671461999,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1671418800
+    },
+    {
+        "champions_id": 20,
+        "end_date": 1671505199,
+        "id": 119,
+        "interval_end_time": 1671505199,
+        "interval_start_time": 1671505199,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1671462000
+    },
+    {
+        "champions_id": 20,
+        "end_date": 1671591599,
+        "id": 120,
+        "interval_end_time": 1671591599,
+        "interval_start_time": 1671591599,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1671505200
+    },
+    {
+        "champions_id": 21,
+        "end_date": 1673665199,
+        "id": 121,
+        "interval_end_time": 1673665199,
+        "interval_start_time": 1673665199,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1673319600
+    },
+    {
+        "champions_id": 21,
+        "end_date": 1673837999,
+        "id": 122,
+        "interval_end_time": 1673838899,
+        "interval_start_time": 1673838000,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1673665200
+    },
+    {
+        "champions_id": 21,
+        "end_date": 1674010799,
+        "id": 123,
+        "interval_end_time": 1674011699,
+        "interval_start_time": 1674010800,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1673838000
+    },
+    {
+        "champions_id": 21,
+        "end_date": 1674053999,
+        "id": 124,
+        "interval_end_time": 1674053999,
+        "interval_start_time": 1674053999,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1674010800
+    },
+    {
+        "champions_id": 21,
+        "end_date": 1674097199,
+        "id": 125,
+        "interval_end_time": 1674097199,
+        "interval_start_time": 1674097199,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1674054000
+    },
+    {
+        "champions_id": 21,
+        "end_date": 1674183599,
+        "id": 126,
+        "interval_end_time": 1674183599,
+        "interval_start_time": 1674183599,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1674097200
+    },
+    {
+        "champions_id": 22,
+        "end_date": 1676602799,
+        "id": 127,
+        "interval_end_time": 1676602799,
+        "interval_start_time": 1676602799,
+        "round": 0,
+        "round_detail": 0,
+        "start_date": 1676257200
+    },
+    {
+        "champions_id": 22,
+        "end_date": 1676775599,
+        "id": 128,
+        "interval_end_time": 1676776499,
+        "interval_start_time": 1676775600,
+        "round": 1,
+        "round_detail": 0,
+        "start_date": 1676602800
+    },
+    {
+        "champions_id": 22,
+        "end_date": 1676948399,
+        "id": 129,
+        "interval_end_time": 1676949299,
+        "interval_start_time": 1676948400,
+        "round": 2,
+        "round_detail": 0,
+        "start_date": 1676775600
+    },
+    {
+        "champions_id": 22,
+        "end_date": 1676991599,
+        "id": 130,
+        "interval_end_time": 1676991599,
+        "interval_start_time": 1676991599,
+        "round": 3,
+        "round_detail": 1,
+        "start_date": 1676948400
+    },
+    {
+        "champions_id": 22,
+        "end_date": 1677034799,
+        "id": 131,
+        "interval_end_time": 1677034799,
+        "interval_start_time": 1677034799,
+        "round": 3,
+        "round_detail": 2,
+        "start_date": 1676991600
+    },
+    {
+        "champions_id": 22,
+        "end_date": 1677121199,
+        "id": 132,
+        "interval_end_time": 1677121199,
+        "interval_start_time": 1677121199,
+        "round": 3,
+        "round_detail": 3,
+        "start_date": 1677034800
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "chara_id": 1054,
+        "home_event_type": 0,
+        "id": 1,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1012002
+    },
+    {
+        "chara_id": 1037,
+        "home_event_type": 0,
+        "id": 2,
+        "num": 1,
+        "offset": 100,
+        "story_id": 1037002
+    },
+    {
+        "chara_id": 1037,
+        "home_event_type": 0,
+        "id": 3,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1037001
+    },
+    {
+        "chara_id": 1025,
+        "home_event_type": 0,
+        "id": 4,
+        "num": 1,
+        "offset": 100,
+        "story_id": 1025002
+    },
+    {
+        "chara_id": 1045,
+        "home_event_type": 0,
+        "id": 5,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1045001
+    },
+    {
+        "chara_id": 1069,
+        "home_event_type": 0,
+        "id": 6,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1069001
+    },
+    {
+        "chara_id": 1027,
+        "home_event_type": 0,
+        "id": 7,
+        "num": 3,
+        "offset": 100,
+        "story_id": 36
+    },
+    {
+        "chara_id": 1033,
+        "home_event_type": 0,
+        "id": 8,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1038001
+    },
+    {
+        "chara_id": 1015,
+        "home_event_type": 0,
+        "id": 9,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1033002
+    },
+    {
+        "chara_id": 1033,
+        "home_event_type": 0,
+        "id": 10,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1015002
+    },
+    {
+        "chara_id": 1038,
+        "home_event_type": 0,
+        "id": 11,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1033001
+    },
+    {
+        "chara_id": 1067,
+        "home_event_type": 0,
+        "id": 12,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1068001
+    },
+    {
+        "chara_id": 1013,
+        "home_event_type": 0,
+        "id": 13,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1067002
+    },
+    {
+        "chara_id": 1067,
+        "home_event_type": 0,
+        "id": 14,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1067002
+    },
+    {
+        "chara_id": 1051,
+        "home_event_type": 0,
+        "id": 15,
+        "num": 3,
+        "offset": 100,
+        "story_id": 32
+    },
+    {
+        "chara_id": 1072,
+        "home_event_type": 0,
+        "id": 16,
+        "num": 1,
+        "offset": 100,
+        "story_id": 1072003
+    },
+    {
+        "chara_id": 1031,
+        "home_event_type": 0,
+        "id": 17,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1031001
+    },
+    {
+        "chara_id": 1031,
+        "home_event_type": 0,
+        "id": 18,
+        "num": 3,
+        "offset": 100,
+        "story_id": 13
+    },
+    {
+        "chara_id": 1031,
+        "home_event_type": 0,
+        "id": 19,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1031002
+    },
+    {
+        "chara_id": 1064,
+        "home_event_type": 0,
+        "id": 20,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1064001
+    },
+    {
+        "chara_id": 1064,
+        "home_event_type": 0,
+        "id": 21,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1064002
+    },
+    {
+        "chara_id": 1038,
+        "home_event_type": 0,
+        "id": 22,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1044001
+    },
+    {
+        "chara_id": 1039,
+        "home_event_type": 0,
+        "id": 23,
+        "num": 3,
+        "offset": 100,
+        "story_id": 25
+    },
+    {
+        "chara_id": 1044,
+        "home_event_type": 0,
+        "id": 24,
+        "num": 3,
+        "offset": 100,
+        "story_id": 28
+    },
+    {
+        "chara_id": 1022,
+        "home_event_type": 0,
+        "id": 25,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1036002
+    },
+    {
+        "chara_id": 1052,
+        "home_event_type": 0,
+        "id": 26,
+        "num": 3,
+        "offset": 100,
+        "story_id": 24
+    },
+    {
+        "chara_id": 1035,
+        "home_event_type": 0,
+        "id": 27,
+        "num": 3,
+        "offset": 100,
+        "story_id": 20
+    },
+    {
+        "chara_id": 1037,
+        "home_event_type": 0,
+        "id": 28,
+        "num": 3,
+        "offset": 100,
+        "story_id": 3
+    },
+    {
+        "chara_id": 1054,
+        "home_event_type": 1,
+        "id": 29,
+        "num": 3,
+        "offset": 100,
+        "story_id": 1054001
+    },
+    {
+        "chara_id": 1012,
+        "home_event_type": 1,
+        "id": 30,
+        "num": 3,
+        "offset": 100,
+        "story_id": 1054001
+    },
+    {
+        "chara_id": 1022,
+        "home_event_type": 1,
+        "id": 31,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1022001
+    },
+    {
+        "chara_id": 1065,
+        "home_event_type": 0,
+        "id": 32,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1065001
+    },
+    {
+        "chara_id": 1011,
+        "home_event_type": 1,
+        "id": 33,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1011001
+    },
+    {
+        "chara_id": 1069,
+        "home_event_type": 1,
+        "id": 34,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1069001
+    },
+    {
+        "chara_id": 1054,
+        "home_event_type": 1,
+        "id": 35,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1028001
+    },
+    {
+        "chara_id": 1043,
+        "home_event_type": 0,
+        "id": 36,
+        "num": 1,
+        "offset": 100,
+        "story_id": 1043002
+    },
+    {
+        "chara_id": 1043,
+        "home_event_type": 0,
+        "id": 37,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1043002
+    },
+    {
+        "chara_id": 1043,
+        "home_event_type": 0,
+        "id": 38,
+        "num": 3,
+        "offset": 100,
+        "story_id": 27
+    },
+    {
+        "chara_id": 1023,
+        "home_event_type": 1,
+        "id": 39,
+        "num": 3,
+        "offset": 100,
+        "story_id": 1023001
+    },
+    {
+        "chara_id": 1067,
+        "home_event_type": 1,
+        "id": 40,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1068002
+    },
+    {
+        "chara_id": 1087,
+        "home_event_type": 1,
+        "id": 41,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1087001
+    },
+    {
+        "chara_id": 1057,
+        "home_event_type": 0,
+        "id": 42,
+        "num": 2,
+        "offset": 100,
+        "story_id": 1057002
+    }
+]

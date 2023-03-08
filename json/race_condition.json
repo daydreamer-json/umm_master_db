@@ -1,0 +1,226 @@
+[
+    {
+        "ground": 1,
+        "id": 1,
+        "rate": 54600000,
+        "season": 1,
+        "weather": 1
+    },
+    {
+        "ground": 2,
+        "id": 2,
+        "rate": 5400000,
+        "season": 1,
+        "weather": 1
+    },
+    {
+        "ground": 1,
+        "id": 3,
+        "rate": 23400000,
+        "season": 1,
+        "weather": 2
+    },
+    {
+        "ground": 2,
+        "id": 4,
+        "rate": 6600000,
+        "season": 1,
+        "weather": 2
+    },
+    {
+        "ground": 3,
+        "id": 5,
+        "rate": 5500000,
+        "season": 1,
+        "weather": 3
+    },
+    {
+        "ground": 4,
+        "id": 6,
+        "rate": 4500000,
+        "season": 1,
+        "weather": 3
+    },
+    {
+        "ground": 1,
+        "id": 7,
+        "rate": 54600000,
+        "season": 2,
+        "weather": 1
+    },
+    {
+        "ground": 2,
+        "id": 8,
+        "rate": 5400000,
+        "season": 2,
+        "weather": 1
+    },
+    {
+        "ground": 1,
+        "id": 9,
+        "rate": 23400000,
+        "season": 2,
+        "weather": 2
+    },
+    {
+        "ground": 2,
+        "id": 10,
+        "rate": 6600000,
+        "season": 2,
+        "weather": 2
+    },
+    {
+        "ground": 3,
+        "id": 11,
+        "rate": 5500000,
+        "season": 2,
+        "weather": 3
+    },
+    {
+        "ground": 4,
+        "id": 12,
+        "rate": 4500000,
+        "season": 2,
+        "weather": 3
+    },
+    {
+        "ground": 1,
+        "id": 13,
+        "rate": 54600000,
+        "season": 3,
+        "weather": 1
+    },
+    {
+        "ground": 2,
+        "id": 14,
+        "rate": 5400000,
+        "season": 3,
+        "weather": 1
+    },
+    {
+        "ground": 1,
+        "id": 15,
+        "rate": 23400000,
+        "season": 3,
+        "weather": 2
+    },
+    {
+        "ground": 2,
+        "id": 16,
+        "rate": 6600000,
+        "season": 3,
+        "weather": 2
+    },
+    {
+        "ground": 3,
+        "id": 17,
+        "rate": 5500000,
+        "season": 3,
+        "weather": 3
+    },
+    {
+        "ground": 4,
+        "id": 18,
+        "rate": 4500000,
+        "season": 3,
+        "weather": 3
+    },
+    {
+        "ground": 1,
+        "id": 19,
+        "rate": 50050000,
+        "season": 4,
+        "weather": 1
+    },
+    {
+        "ground": 2,
+        "id": 20,
+        "rate": 4950000,
+        "season": 4,
+        "weather": 1
+    },
+    {
+        "ground": 1,
+        "id": 21,
+        "rate": 24960000,
+        "season": 4,
+        "weather": 2
+    },
+    {
+        "ground": 2,
+        "id": 22,
+        "rate": 7040000,
+        "season": 4,
+        "weather": 2
+    },
+    {
+        "ground": 3,
+        "id": 23,
+        "rate": 4400000,
+        "season": 4,
+        "weather": 3
+    },
+    {
+        "ground": 4,
+        "id": 24,
+        "rate": 3600000,
+        "season": 4,
+        "weather": 3
+    },
+    {
+        "ground": 2,
+        "id": 25,
+        "rate": 150000,
+        "season": 4,
+        "weather": 4
+    },
+    {
+        "ground": 3,
+        "id": 26,
+        "rate": 4850000,
+        "season": 4,
+        "weather": 4
+    },
+    {
+        "ground": 1,
+        "id": 27,
+        "rate": 54600000,
+        "season": 5,
+        "weather": 1
+    },
+    {
+        "ground": 2,
+        "id": 28,
+        "rate": 5400000,
+        "season": 5,
+        "weather": 1
+    },
+    {
+        "ground": 1,
+        "id": 29,
+        "rate": 23400000,
+        "season": 5,
+        "weather": 2
+    },
+    {
+        "ground": 2,
+        "id": 30,
+        "rate": 6600000,
+        "season": 5,
+        "weather": 2
+    },
+    {
+        "ground": 3,
+        "id": 31,
+        "rate": 5500000,
+        "season": 5,
+        "weather": 3
+    },
+    {
+        "ground": 4,
+        "id": 32,
+        "rate": 4500000,
+        "season": 5,
+        "weather": 3
+    }
+]

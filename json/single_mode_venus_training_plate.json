@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "value_max": 5,
+        "value_min": 1
+    },
+    {
+        "id": 2,
+        "value_max": 19,
+        "value_min": 6
+    },
+    {
+        "id": 3,
+        "value_max": 999,
+        "value_min": 20
+    }
+]

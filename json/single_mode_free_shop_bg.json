@@ -1,0 +1,37 @@
+[
+    {
+        "bg_id": 12,
+        "bg_sub_id": 10,
+        "end_turn": 36,
+        "id": 1,
+        "start_turn": 1
+    },
+    {
+        "bg_id": 92,
+        "bg_sub_id": 110,
+        "end_turn": 40,
+        "id": 2,
+        "start_turn": 37
+    },
+    {
+        "bg_id": 12,
+        "bg_sub_id": 10,
+        "end_turn": 60,
+        "id": 3,
+        "start_turn": 41
+    },
+    {
+        "bg_id": 92,
+        "bg_sub_id": 110,
+        "end_turn": 64,
+        "id": 4,
+        "start_turn": 61
+    },
+    {
+        "bg_id": 12,
+        "bg_sub_id": 10,
+        "end_turn": 78,
+        "id": 5,
+        "start_turn": 65
+    }
+]

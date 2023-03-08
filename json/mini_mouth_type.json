@@ -1,0 +1,162 @@
+[
+    {
+        "id": 0,
+        "reverse_mouth_id": 16,
+        "type": 1
+    },
+    {
+        "id": 1,
+        "reverse_mouth_id": 16,
+        "type": 1
+    },
+    {
+        "id": 2,
+        "reverse_mouth_id": 15,
+        "type": 2
+    },
+    {
+        "id": 3,
+        "reverse_mouth_id": 13,
+        "type": 1
+    },
+    {
+        "id": 4,
+        "reverse_mouth_id": 14,
+        "type": 1
+    },
+    {
+        "id": 5,
+        "reverse_mouth_id": 1,
+        "type": 2
+    },
+    {
+        "id": 6,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 7,
+        "reverse_mouth_id": 17,
+        "type": 1
+    },
+    {
+        "id": 8,
+        "reverse_mouth_id": 14,
+        "type": 1
+    },
+    {
+        "id": 9,
+        "reverse_mouth_id": 15,
+        "type": 2
+    },
+    {
+        "id": 10,
+        "reverse_mouth_id": 10,
+        "type": 1
+    },
+    {
+        "id": 11,
+        "reverse_mouth_id": 0,
+        "type": 2
+    },
+    {
+        "id": 12,
+        "reverse_mouth_id": 1,
+        "type": 2
+    },
+    {
+        "id": 13,
+        "reverse_mouth_id": 3,
+        "type": 2
+    },
+    {
+        "id": 14,
+        "reverse_mouth_id": 4,
+        "type": 2
+    },
+    {
+        "id": 15,
+        "reverse_mouth_id": 16,
+        "type": 1
+    },
+    {
+        "id": 16,
+        "reverse_mouth_id": 1,
+        "type": 2
+    },
+    {
+        "id": 17,
+        "reverse_mouth_id": 18,
+        "type": 2
+    },
+    {
+        "id": 18,
+        "reverse_mouth_id": 17,
+        "type": 1
+    },
+    {
+        "id": 19,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 20,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 21,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 22,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 23,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 24,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 25,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 26,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 27,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 28,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 29,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 30,
+        "reverse_mouth_id": 2,
+        "type": 1
+    },
+    {
+        "id": 31,
+        "reverse_mouth_id": 2,
+        "type": 1
+    }
+]

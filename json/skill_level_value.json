@@ -1,0 +1,1628 @@
+[
+    {
+        "ability_type": 1,
+        "float_ability_value_coef": 10000,
+        "id": 1,
+        "level": 1
+    },
+    {
+        "ability_type": 1,
+        "float_ability_value_coef": 10100,
+        "id": 2,
+        "level": 2
+    },
+    {
+        "ability_type": 1,
+        "float_ability_value_coef": 10200,
+        "id": 3,
+        "level": 3
+    },
+    {
+        "ability_type": 1,
+        "float_ability_value_coef": 10300,
+        "id": 4,
+        "level": 4
+    },
+    {
+        "ability_type": 1,
+        "float_ability_value_coef": 10400,
+        "id": 5,
+        "level": 5
+    },
+    {
+        "ability_type": 1,
+        "float_ability_value_coef": 10500,
+        "id": 6,
+        "level": 6
+    },
+    {
+        "ability_type": 1,
+        "float_ability_value_coef": 10600,
+        "id": 7,
+        "level": 7
+    },
+    {
+        "ability_type": 1,
+        "float_ability_value_coef": 10700,
+        "id": 8,
+        "level": 8
+    },
+    {
+        "ability_type": 1,
+        "float_ability_value_coef": 10800,
+        "id": 9,
+        "level": 9
+    },
+    {
+        "ability_type": 1,
+        "float_ability_value_coef": 11000,
+        "id": 10,
+        "level": 10
+    },
+    {
+        "ability_type": 2,
+        "float_ability_value_coef": 10000,
+        "id": 11,
+        "level": 1
+    },
+    {
+        "ability_type": 2,
+        "float_ability_value_coef": 10100,
+        "id": 12,
+        "level": 2
+    },
+    {
+        "ability_type": 2,
+        "float_ability_value_coef": 10200,
+        "id": 13,
+        "level": 3
+    },
+    {
+        "ability_type": 2,
+        "float_ability_value_coef": 10300,
+        "id": 14,
+        "level": 4
+    },
+    {
+        "ability_type": 2,
+        "float_ability_value_coef": 10400,
+        "id": 15,
+        "level": 5
+    },
+    {
+        "ability_type": 2,
+        "float_ability_value_coef": 10500,
+        "id": 16,
+        "level": 6
+    },
+    {
+        "ability_type": 2,
+        "float_ability_value_coef": 10600,
+        "id": 17,
+        "level": 7
+    },
+    {
+        "ability_type": 2,
+        "float_ability_value_coef": 10700,
+        "id": 18,
+        "level": 8
+    },
+    {
+        "ability_type": 2,
+        "float_ability_value_coef": 10800,
+        "id": 19,
+        "level": 9
+    },
+    {
+        "ability_type": 2,
+        "float_ability_value_coef": 11000,
+        "id": 20,
+        "level": 10
+    },
+    {
+        "ability_type": 3,
+        "float_ability_value_coef": 10000,
+        "id": 21,
+        "level": 1
+    },
+    {
+        "ability_type": 3,
+        "float_ability_value_coef": 10100,
+        "id": 22,
+        "level": 2
+    },
+    {
+        "ability_type": 3,
+        "float_ability_value_coef": 10200,
+        "id": 23,
+        "level": 3
+    },
+    {
+        "ability_type": 3,
+        "float_ability_value_coef": 10300,
+        "id": 24,
+        "level": 4
+    },
+    {
+        "ability_type": 3,
+        "float_ability_value_coef": 10400,
+        "id": 25,
+        "level": 5
+    },
+    {
+        "ability_type": 3,
+        "float_ability_value_coef": 10500,
+        "id": 26,
+        "level": 6
+    },
+    {
+        "ability_type": 3,
+        "float_ability_value_coef": 10600,
+        "id": 27,
+        "level": 7
+    },
+    {
+        "ability_type": 3,
+        "float_ability_value_coef": 10700,
+        "id": 28,
+        "level": 8
+    },
+    {
+        "ability_type": 3,
+        "float_ability_value_coef": 10800,
+        "id": 29,
+        "level": 9
+    },
+    {
+        "ability_type": 3,
+        "float_ability_value_coef": 11000,
+        "id": 30,
+        "level": 10
+    },
+    {
+        "ability_type": 4,
+        "float_ability_value_coef": 10000,
+        "id": 31,
+        "level": 1
+    },
+    {
+        "ability_type": 4,
+        "float_ability_value_coef": 10100,
+        "id": 32,
+        "level": 2
+    },
+    {
+        "ability_type": 4,
+        "float_ability_value_coef": 10200,
+        "id": 33,
+        "level": 3
+    },
+    {
+        "ability_type": 4,
+        "float_ability_value_coef": 10300,
+        "id": 34,
+        "level": 4
+    },
+    {
+        "ability_type": 4,
+        "float_ability_value_coef": 10400,
+        "id": 35,
+        "level": 5
+    },
+    {
+        "ability_type": 4,
+        "float_ability_value_coef": 10500,
+        "id": 36,
+        "level": 6
+    },
+    {
+        "ability_type": 4,
+        "float_ability_value_coef": 10600,
+        "id": 37,
+        "level": 7
+    },
+    {
+        "ability_type": 4,
+        "float_ability_value_coef": 10700,
+        "id": 38,
+        "level": 8
+    },
+    {
+        "ability_type": 4,
+        "float_ability_value_coef": 10800,
+        "id": 39,
+        "level": 9
+    },
+    {
+        "ability_type": 4,
+        "float_ability_value_coef": 11000,
+        "id": 40,
+        "level": 10
+    },
+    {
+        "ability_type": 5,
+        "float_ability_value_coef": 10000,
+        "id": 41,
+        "level": 1
+    },
+    {
+        "ability_type": 5,
+        "float_ability_value_coef": 10100,
+        "id": 42,
+        "level": 2
+    },
+    {
+        "ability_type": 5,
+        "float_ability_value_coef": 10200,
+        "id": 43,
+        "level": 3
+    },
+    {
+        "ability_type": 5,
+        "float_ability_value_coef": 10300,
+        "id": 44,
+        "level": 4
+    },
+    {
+        "ability_type": 5,
+        "float_ability_value_coef": 10400,
+        "id": 45,
+        "level": 5
+    },
+    {
+        "ability_type": 5,
+        "float_ability_value_coef": 10500,
+        "id": 46,
+        "level": 6
+    },
+    {
+        "ability_type": 5,
+        "float_ability_value_coef": 10600,
+        "id": 47,
+        "level": 7
+    },
+    {
+        "ability_type": 5,
+        "float_ability_value_coef": 10700,
+        "id": 48,
+        "level": 8
+    },
+    {
+        "ability_type": 5,
+        "float_ability_value_coef": 10800,
+        "id": 49,
+        "level": 9
+    },
+    {
+        "ability_type": 5,
+        "float_ability_value_coef": 11000,
+        "id": 50,
+        "level": 10
+    },
+    {
+        "ability_type": 6,
+        "float_ability_value_coef": 10000,
+        "id": 51,
+        "level": 1
+    },
+    {
+        "ability_type": 6,
+        "float_ability_value_coef": 10200,
+        "id": 52,
+        "level": 2
+    },
+    {
+        "ability_type": 6,
+        "float_ability_value_coef": 10400,
+        "id": 53,
+        "level": 3
+    },
+    {
+        "ability_type": 6,
+        "float_ability_value_coef": 10600,
+        "id": 54,
+        "level": 4
+    },
+    {
+        "ability_type": 6,
+        "float_ability_value_coef": 10800,
+        "id": 55,
+        "level": 5
+    },
+    {
+        "ability_type": 6,
+        "float_ability_value_coef": 11000,
+        "id": 56,
+        "level": 6
+    },
+    {
+        "ability_type": 6,
+        "float_ability_value_coef": 11200,
+        "id": 57,
+        "level": 7
+    },
+    {
+        "ability_type": 6,
+        "float_ability_value_coef": 11400,
+        "id": 58,
+        "level": 8
+    },
+    {
+        "ability_type": 6,
+        "float_ability_value_coef": 11600,
+        "id": 59,
+        "level": 9
+    },
+    {
+        "ability_type": 6,
+        "float_ability_value_coef": 11800,
+        "id": 60,
+        "level": 10
+    },
+    {
+        "ability_type": 10,
+        "float_ability_value_coef": 10000,
+        "id": 61,
+        "level": 1
+    },
+    {
+        "ability_type": 10,
+        "float_ability_value_coef": 10200,
+        "id": 62,
+        "level": 2
+    },
+    {
+        "ability_type": 10,
+        "float_ability_value_coef": 10400,
+        "id": 63,
+        "level": 3
+    },
+    {
+        "ability_type": 10,
+        "float_ability_value_coef": 10600,
+        "id": 64,
+        "level": 4
+    },
+    {
+        "ability_type": 10,
+        "float_ability_value_coef": 10800,
+        "id": 65,
+        "level": 5
+    },
+    {
+        "ability_type": 10,
+        "float_ability_value_coef": 11000,
+        "id": 66,
+        "level": 6
+    },
+    {
+        "ability_type": 10,
+        "float_ability_value_coef": 11200,
+        "id": 67,
+        "level": 7
+    },
+    {
+        "ability_type": 10,
+        "float_ability_value_coef": 11400,
+        "id": 68,
+        "level": 8
+    },
+    {
+        "ability_type": 10,
+        "float_ability_value_coef": 11600,
+        "id": 69,
+        "level": 9
+    },
+    {
+        "ability_type": 10,
+        "float_ability_value_coef": 11800,
+        "id": 70,
+        "level": 10
+    },
+    {
+        "ability_type": 13,
+        "float_ability_value_coef": 10000,
+        "id": 71,
+        "level": 1
+    },
+    {
+        "ability_type": 13,
+        "float_ability_value_coef": 10200,
+        "id": 72,
+        "level": 2
+    },
+    {
+        "ability_type": 13,
+        "float_ability_value_coef": 10400,
+        "id": 73,
+        "level": 3
+    },
+    {
+        "ability_type": 13,
+        "float_ability_value_coef": 10600,
+        "id": 74,
+        "level": 4
+    },
+    {
+        "ability_type": 13,
+        "float_ability_value_coef": 10800,
+        "id": 75,
+        "level": 5
+    },
+    {
+        "ability_type": 13,
+        "float_ability_value_coef": 11000,
+        "id": 76,
+        "level": 6
+    },
+    {
+        "ability_type": 13,
+        "float_ability_value_coef": 11200,
+        "id": 77,
+        "level": 7
+    },
+    {
+        "ability_type": 13,
+        "float_ability_value_coef": 11400,
+        "id": 78,
+        "level": 8
+    },
+    {
+        "ability_type": 13,
+        "float_ability_value_coef": 11600,
+        "id": 79,
+        "level": 9
+    },
+    {
+        "ability_type": 13,
+        "float_ability_value_coef": 11800,
+        "id": 80,
+        "level": 10
+    },
+    {
+        "ability_type": 14,
+        "float_ability_value_coef": 10000,
+        "id": 81,
+        "level": 1
+    },
+    {
+        "ability_type": 14,
+        "float_ability_value_coef": 10200,
+        "id": 82,
+        "level": 2
+    },
+    {
+        "ability_type": 14,
+        "float_ability_value_coef": 10400,
+        "id": 83,
+        "level": 3
+    },
+    {
+        "ability_type": 14,
+        "float_ability_value_coef": 10600,
+        "id": 84,
+        "level": 4
+    },
+    {
+        "ability_type": 14,
+        "float_ability_value_coef": 10800,
+        "id": 85,
+        "level": 5
+    },
+    {
+        "ability_type": 14,
+        "float_ability_value_coef": 11000,
+        "id": 86,
+        "level": 6
+    },
+    {
+        "ability_type": 14,
+        "float_ability_value_coef": 11200,
+        "id": 87,
+        "level": 7
+    },
+    {
+        "ability_type": 14,
+        "float_ability_value_coef": 11400,
+        "id": 88,
+        "level": 8
+    },
+    {
+        "ability_type": 14,
+        "float_ability_value_coef": 11600,
+        "id": 89,
+        "level": 9
+    },
+    {
+        "ability_type": 14,
+        "float_ability_value_coef": 11800,
+        "id": 90,
+        "level": 10
+    },
+    {
+        "ability_type": 15,
+        "float_ability_value_coef": 10000,
+        "id": 91,
+        "level": 1
+    },
+    {
+        "ability_type": 15,
+        "float_ability_value_coef": 10200,
+        "id": 92,
+        "level": 2
+    },
+    {
+        "ability_type": 15,
+        "float_ability_value_coef": 10400,
+        "id": 93,
+        "level": 3
+    },
+    {
+        "ability_type": 15,
+        "float_ability_value_coef": 10600,
+        "id": 94,
+        "level": 4
+    },
+    {
+        "ability_type": 15,
+        "float_ability_value_coef": 10800,
+        "id": 95,
+        "level": 5
+    },
+    {
+        "ability_type": 15,
+        "float_ability_value_coef": 11000,
+        "id": 96,
+        "level": 6
+    },
+    {
+        "ability_type": 15,
+        "float_ability_value_coef": 11200,
+        "id": 97,
+        "level": 7
+    },
+    {
+        "ability_type": 15,
+        "float_ability_value_coef": 11400,
+        "id": 98,
+        "level": 8
+    },
+    {
+        "ability_type": 15,
+        "float_ability_value_coef": 11600,
+        "id": 99,
+        "level": 9
+    },
+    {
+        "ability_type": 15,
+        "float_ability_value_coef": 11800,
+        "id": 100,
+        "level": 10
+    },
+    {
+        "ability_type": 16,
+        "float_ability_value_coef": 10000,
+        "id": 101,
+        "level": 1
+    },
+    {
+        "ability_type": 16,
+        "float_ability_value_coef": 10200,
+        "id": 102,
+        "level": 2
+    },
+    {
+        "ability_type": 16,
+        "float_ability_value_coef": 10400,
+        "id": 103,
+        "level": 3
+    },
+    {
+        "ability_type": 16,
+        "float_ability_value_coef": 10600,
+        "id": 104,
+        "level": 4
+    },
+    {
+        "ability_type": 16,
+        "float_ability_value_coef": 10800,
+        "id": 105,
+        "level": 5
+    },
+    {
+        "ability_type": 16,
+        "float_ability_value_coef": 11000,
+        "id": 106,
+        "level": 6
+    },
+    {
+        "ability_type": 16,
+        "float_ability_value_coef": 11200,
+        "id": 107,
+        "level": 7
+    },
+    {
+        "ability_type": 16,
+        "float_ability_value_coef": 11400,
+        "id": 108,
+        "level": 8
+    },
+    {
+        "ability_type": 16,
+        "float_ability_value_coef": 11600,
+        "id": 109,
+        "level": 9
+    },
+    {
+        "ability_type": 16,
+        "float_ability_value_coef": 11800,
+        "id": 110,
+        "level": 10
+    },
+    {
+        "ability_type": 19,
+        "float_ability_value_coef": 10000,
+        "id": 111,
+        "level": 1
+    },
+    {
+        "ability_type": 19,
+        "float_ability_value_coef": 10200,
+        "id": 112,
+        "level": 2
+    },
+    {
+        "ability_type": 19,
+        "float_ability_value_coef": 10400,
+        "id": 113,
+        "level": 3
+    },
+    {
+        "ability_type": 19,
+        "float_ability_value_coef": 10600,
+        "id": 114,
+        "level": 4
+    },
+    {
+        "ability_type": 19,
+        "float_ability_value_coef": 10800,
+        "id": 115,
+        "level": 5
+    },
+    {
+        "ability_type": 19,
+        "float_ability_value_coef": 11000,
+        "id": 116,
+        "level": 6
+    },
+    {
+        "ability_type": 19,
+        "float_ability_value_coef": 11200,
+        "id": 117,
+        "level": 7
+    },
+    {
+        "ability_type": 19,
+        "float_ability_value_coef": 11400,
+        "id": 118,
+        "level": 8
+    },
+    {
+        "ability_type": 19,
+        "float_ability_value_coef": 11600,
+        "id": 119,
+        "level": 9
+    },
+    {
+        "ability_type": 19,
+        "float_ability_value_coef": 11800,
+        "id": 120,
+        "level": 10
+    },
+    {
+        "ability_type": 21,
+        "float_ability_value_coef": 10000,
+        "id": 121,
+        "level": 1
+    },
+    {
+        "ability_type": 21,
+        "float_ability_value_coef": 10200,
+        "id": 122,
+        "level": 2
+    },
+    {
+        "ability_type": 21,
+        "float_ability_value_coef": 10400,
+        "id": 123,
+        "level": 3
+    },
+    {
+        "ability_type": 21,
+        "float_ability_value_coef": 10600,
+        "id": 124,
+        "level": 4
+    },
+    {
+        "ability_type": 21,
+        "float_ability_value_coef": 10800,
+        "id": 125,
+        "level": 5
+    },
+    {
+        "ability_type": 21,
+        "float_ability_value_coef": 11000,
+        "id": 126,
+        "level": 6
+    },
+    {
+        "ability_type": 21,
+        "float_ability_value_coef": 11200,
+        "id": 127,
+        "level": 7
+    },
+    {
+        "ability_type": 21,
+        "float_ability_value_coef": 11400,
+        "id": 128,
+        "level": 8
+    },
+    {
+        "ability_type": 21,
+        "float_ability_value_coef": 11600,
+        "id": 129,
+        "level": 9
+    },
+    {
+        "ability_type": 21,
+        "float_ability_value_coef": 11800,
+        "id": 130,
+        "level": 10
+    },
+    {
+        "ability_type": 27,
+        "float_ability_value_coef": 10000,
+        "id": 131,
+        "level": 1
+    },
+    {
+        "ability_type": 27,
+        "float_ability_value_coef": 10100,
+        "id": 132,
+        "level": 2
+    },
+    {
+        "ability_type": 27,
+        "float_ability_value_coef": 10400,
+        "id": 133,
+        "level": 3
+    },
+    {
+        "ability_type": 27,
+        "float_ability_value_coef": 10700,
+        "id": 134,
+        "level": 4
+    },
+    {
+        "ability_type": 27,
+        "float_ability_value_coef": 11000,
+        "id": 135,
+        "level": 5
+    },
+    {
+        "ability_type": 27,
+        "float_ability_value_coef": 11300,
+        "id": 136,
+        "level": 6
+    },
+    {
+        "ability_type": 27,
+        "float_ability_value_coef": 11600,
+        "id": 137,
+        "level": 7
+    },
+    {
+        "ability_type": 27,
+        "float_ability_value_coef": 11900,
+        "id": 138,
+        "level": 8
+    },
+    {
+        "ability_type": 27,
+        "float_ability_value_coef": 12200,
+        "id": 139,
+        "level": 9
+    },
+    {
+        "ability_type": 27,
+        "float_ability_value_coef": 12500,
+        "id": 140,
+        "level": 10
+    },
+    {
+        "ability_type": 28,
+        "float_ability_value_coef": 10000,
+        "id": 141,
+        "level": 1
+    },
+    {
+        "ability_type": 28,
+        "float_ability_value_coef": 10200,
+        "id": 142,
+        "level": 2
+    },
+    {
+        "ability_type": 28,
+        "float_ability_value_coef": 10400,
+        "id": 143,
+        "level": 3
+    },
+    {
+        "ability_type": 28,
+        "float_ability_value_coef": 10600,
+        "id": 144,
+        "level": 4
+    },
+    {
+        "ability_type": 28,
+        "float_ability_value_coef": 10800,
+        "id": 145,
+        "level": 5
+    },
+    {
+        "ability_type": 28,
+        "float_ability_value_coef": 11000,
+        "id": 146,
+        "level": 6
+    },
+    {
+        "ability_type": 28,
+        "float_ability_value_coef": 11200,
+        "id": 147,
+        "level": 7
+    },
+    {
+        "ability_type": 28,
+        "float_ability_value_coef": 11400,
+        "id": 148,
+        "level": 8
+    },
+    {
+        "ability_type": 28,
+        "float_ability_value_coef": 11600,
+        "id": 149,
+        "level": 9
+    },
+    {
+        "ability_type": 28,
+        "float_ability_value_coef": 11800,
+        "id": 150,
+        "level": 10
+    },
+    {
+        "ability_type": 29,
+        "float_ability_value_coef": 10000,
+        "id": 151,
+        "level": 1
+    },
+    {
+        "ability_type": 29,
+        "float_ability_value_coef": 10200,
+        "id": 152,
+        "level": 2
+    },
+    {
+        "ability_type": 29,
+        "float_ability_value_coef": 10400,
+        "id": 153,
+        "level": 3
+    },
+    {
+        "ability_type": 29,
+        "float_ability_value_coef": 10600,
+        "id": 154,
+        "level": 4
+    },
+    {
+        "ability_type": 29,
+        "float_ability_value_coef": 10800,
+        "id": 155,
+        "level": 5
+    },
+    {
+        "ability_type": 29,
+        "float_ability_value_coef": 11000,
+        "id": 156,
+        "level": 6
+    },
+    {
+        "ability_type": 29,
+        "float_ability_value_coef": 11200,
+        "id": 157,
+        "level": 7
+    },
+    {
+        "ability_type": 29,
+        "float_ability_value_coef": 11400,
+        "id": 158,
+        "level": 8
+    },
+    {
+        "ability_type": 29,
+        "float_ability_value_coef": 11600,
+        "id": 159,
+        "level": 9
+    },
+    {
+        "ability_type": 29,
+        "float_ability_value_coef": 11800,
+        "id": 160,
+        "level": 10
+    },
+    {
+        "ability_type": 30,
+        "float_ability_value_coef": 10000,
+        "id": 161,
+        "level": 1
+    },
+    {
+        "ability_type": 30,
+        "float_ability_value_coef": 10200,
+        "id": 162,
+        "level": 2
+    },
+    {
+        "ability_type": 30,
+        "float_ability_value_coef": 10400,
+        "id": 163,
+        "level": 3
+    },
+    {
+        "ability_type": 30,
+        "float_ability_value_coef": 10600,
+        "id": 164,
+        "level": 4
+    },
+    {
+        "ability_type": 30,
+        "float_ability_value_coef": 10800,
+        "id": 165,
+        "level": 5
+    },
+    {
+        "ability_type": 30,
+        "float_ability_value_coef": 11000,
+        "id": 166,
+        "level": 6
+    },
+    {
+        "ability_type": 30,
+        "float_ability_value_coef": 11200,
+        "id": 167,
+        "level": 7
+    },
+    {
+        "ability_type": 30,
+        "float_ability_value_coef": 11400,
+        "id": 168,
+        "level": 8
+    },
+    {
+        "ability_type": 30,
+        "float_ability_value_coef": 11600,
+        "id": 169,
+        "level": 9
+    },
+    {
+        "ability_type": 30,
+        "float_ability_value_coef": 11800,
+        "id": 170,
+        "level": 10
+    },
+    {
+        "ability_type": 31,
+        "float_ability_value_coef": 10000,
+        "id": 171,
+        "level": 1
+    },
+    {
+        "ability_type": 31,
+        "float_ability_value_coef": 10200,
+        "id": 172,
+        "level": 2
+    },
+    {
+        "ability_type": 31,
+        "float_ability_value_coef": 10400,
+        "id": 173,
+        "level": 3
+    },
+    {
+        "ability_type": 31,
+        "float_ability_value_coef": 10600,
+        "id": 174,
+        "level": 4
+    },
+    {
+        "ability_type": 31,
+        "float_ability_value_coef": 10800,
+        "id": 175,
+        "level": 5
+    },
+    {
+        "ability_type": 31,
+        "float_ability_value_coef": 11000,
+        "id": 176,
+        "level": 6
+    },
+    {
+        "ability_type": 31,
+        "float_ability_value_coef": 11250,
+        "id": 177,
+        "level": 7
+    },
+    {
+        "ability_type": 31,
+        "float_ability_value_coef": 11500,
+        "id": 178,
+        "level": 8
+    },
+    {
+        "ability_type": 31,
+        "float_ability_value_coef": 11750,
+        "id": 179,
+        "level": 9
+    },
+    {
+        "ability_type": 31,
+        "float_ability_value_coef": 12000,
+        "id": 180,
+        "level": 10
+    },
+    {
+        "ability_type": 35,
+        "float_ability_value_coef": 10000,
+        "id": 181,
+        "level": 1
+    },
+    {
+        "ability_type": 35,
+        "float_ability_value_coef": 10200,
+        "id": 182,
+        "level": 2
+    },
+    {
+        "ability_type": 35,
+        "float_ability_value_coef": 10400,
+        "id": 183,
+        "level": 3
+    },
+    {
+        "ability_type": 35,
+        "float_ability_value_coef": 10600,
+        "id": 184,
+        "level": 4
+    },
+    {
+        "ability_type": 35,
+        "float_ability_value_coef": 10800,
+        "id": 185,
+        "level": 5
+    },
+    {
+        "ability_type": 35,
+        "float_ability_value_coef": 11000,
+        "id": 186,
+        "level": 6
+    },
+    {
+        "ability_type": 35,
+        "float_ability_value_coef": 11200,
+        "id": 187,
+        "level": 7
+    },
+    {
+        "ability_type": 35,
+        "float_ability_value_coef": 11400,
+        "id": 188,
+        "level": 8
+    },
+    {
+        "ability_type": 35,
+        "float_ability_value_coef": 11600,
+        "id": 189,
+        "level": 9
+    },
+    {
+        "ability_type": 35,
+        "float_ability_value_coef": 11800,
+        "id": 190,
+        "level": 10
+    },
+    {
+        "ability_type": 7,
+        "float_ability_value_coef": 10000,
+        "id": 191,
+        "level": 1
+    },
+    {
+        "ability_type": 7,
+        "float_ability_value_coef": 10200,
+        "id": 192,
+        "level": 2
+    },
+    {
+        "ability_type": 7,
+        "float_ability_value_coef": 10400,
+        "id": 193,
+        "level": 3
+    },
+    {
+        "ability_type": 7,
+        "float_ability_value_coef": 10600,
+        "id": 194,
+        "level": 4
+    },
+    {
+        "ability_type": 7,
+        "float_ability_value_coef": 10800,
+        "id": 195,
+        "level": 5
+    },
+    {
+        "ability_type": 7,
+        "float_ability_value_coef": 11000,
+        "id": 196,
+        "level": 6
+    },
+    {
+        "ability_type": 7,
+        "float_ability_value_coef": 11200,
+        "id": 197,
+        "level": 7
+    },
+    {
+        "ability_type": 7,
+        "float_ability_value_coef": 11400,
+        "id": 198,
+        "level": 8
+    },
+    {
+        "ability_type": 7,
+        "float_ability_value_coef": 11600,
+        "id": 199,
+        "level": 9
+    },
+    {
+        "ability_type": 7,
+        "float_ability_value_coef": 11800,
+        "id": 200,
+        "level": 10
+    },
+    {
+        "ability_type": 8,
+        "float_ability_value_coef": 10000,
+        "id": 201,
+        "level": 1
+    },
+    {
+        "ability_type": 8,
+        "float_ability_value_coef": 10200,
+        "id": 202,
+        "level": 2
+    },
+    {
+        "ability_type": 8,
+        "float_ability_value_coef": 10400,
+        "id": 203,
+        "level": 3
+    },
+    {
+        "ability_type": 8,
+        "float_ability_value_coef": 10600,
+        "id": 204,
+        "level": 4
+    },
+    {
+        "ability_type": 8,
+        "float_ability_value_coef": 10800,
+        "id": 205,
+        "level": 5
+    },
+    {
+        "ability_type": 8,
+        "float_ability_value_coef": 11000,
+        "id": 206,
+        "level": 6
+    },
+    {
+        "ability_type": 8,
+        "float_ability_value_coef": 11200,
+        "id": 207,
+        "level": 7
+    },
+    {
+        "ability_type": 8,
+        "float_ability_value_coef": 11400,
+        "id": 208,
+        "level": 8
+    },
+    {
+        "ability_type": 8,
+        "float_ability_value_coef": 11600,
+        "id": 209,
+        "level": 9
+    },
+    {
+        "ability_type": 8,
+        "float_ability_value_coef": 11800,
+        "id": 210,
+        "level": 10
+    },
+    {
+        "ability_type": 9,
+        "float_ability_value_coef": 10000,
+        "id": 211,
+        "level": 1
+    },
+    {
+        "ability_type": 9,
+        "float_ability_value_coef": 10200,
+        "id": 212,
+        "level": 2
+    },
+    {
+        "ability_type": 9,
+        "float_ability_value_coef": 10400,
+        "id": 213,
+        "level": 3
+    },
+    {
+        "ability_type": 9,
+        "float_ability_value_coef": 10600,
+        "id": 214,
+        "level": 4
+    },
+    {
+        "ability_type": 9,
+        "float_ability_value_coef": 10800,
+        "id": 215,
+        "level": 5
+    },
+    {
+        "ability_type": 9,
+        "float_ability_value_coef": 11000,
+        "id": 216,
+        "level": 6
+    },
+    {
+        "ability_type": 9,
+        "float_ability_value_coef": 11200,
+        "id": 217,
+        "level": 7
+    },
+    {
+        "ability_type": 9,
+        "float_ability_value_coef": 11400,
+        "id": 218,
+        "level": 8
+    },
+    {
+        "ability_type": 9,
+        "float_ability_value_coef": 11600,
+        "id": 219,
+        "level": 9
+    },
+    {
+        "ability_type": 9,
+        "float_ability_value_coef": 11800,
+        "id": 220,
+        "level": 10
+    },
+    {
+        "ability_type": 501,
+        "float_ability_value_coef": 1000,
+        "id": 221,
+        "level": 1
+    },
+    {
+        "ability_type": 501,
+        "float_ability_value_coef": 3000,
+        "id": 222,
+        "level": 2
+    },
+    {
+        "ability_type": 501,
+        "float_ability_value_coef": 5000,
+        "id": 223,
+        "level": 3
+    },
+    {
+        "ability_type": 501,
+        "float_ability_value_coef": 7000,
+        "id": 224,
+        "level": 4
+    },
+    {
+        "ability_type": 501,
+        "float_ability_value_coef": 10000,
+        "id": 225,
+        "level": 5
+    },
+    {
+        "ability_type": 502,
+        "float_ability_value_coef": 1000,
+        "id": 226,
+        "level": 1
+    },
+    {
+        "ability_type": 502,
+        "float_ability_value_coef": 2000,
+        "id": 227,
+        "level": 2
+    },
+    {
+        "ability_type": 502,
+        "float_ability_value_coef": 3000,
+        "id": 228,
+        "level": 3
+    },
+    {
+        "ability_type": 503,
+        "float_ability_value_coef": 5000,
+        "id": 229,
+        "level": 1
+    },
+    {
+        "ability_type": 503,
+        "float_ability_value_coef": 7500,
+        "id": 230,
+        "level": 2
+    },
+    {
+        "ability_type": 503,
+        "float_ability_value_coef": 10000,
+        "id": 231,
+        "level": 3
+    },
+    {
+        "ability_type": 22,
+        "float_ability_value_coef": 10000,
+        "id": 232,
+        "level": 1
+    },
+    {
+        "ability_type": 22,
+        "float_ability_value_coef": 10200,
+        "id": 233,
+        "level": 2
+    },
+    {
+        "ability_type": 22,
+        "float_ability_value_coef": 10400,
+        "id": 234,
+        "level": 3
+    },
+    {
+        "ability_type": 22,
+        "float_ability_value_coef": 10600,
+        "id": 235,
+        "level": 4
+    },
+    {
+        "ability_type": 22,
+        "float_ability_value_coef": 10800,
+        "id": 236,
+        "level": 5
+    },
+    {
+        "ability_type": 22,
+        "float_ability_value_coef": 11000,
+        "id": 237,
+        "level": 6
+    },
+    {
+        "ability_type": 22,
+        "float_ability_value_coef": 11200,
+        "id": 238,
+        "level": 7
+    },
+    {
+        "ability_type": 22,
+        "float_ability_value_coef": 11400,
+        "id": 239,
+        "level": 8
+    },
+    {
+        "ability_type": 22,
+        "float_ability_value_coef": 11600,
+        "id": 240,
+        "level": 9
+    },
+    {
+        "ability_type": 22,
+        "float_ability_value_coef": 11800,
+        "id": 241,
+        "level": 10
+    },
+    {
+        "ability_type": 37,
+        "float_ability_value_coef": 10000,
+        "id": 242,
+        "level": 1
+    },
+    {
+        "ability_type": 37,
+        "float_ability_value_coef": 10000,
+        "id": 243,
+        "level": 2
+    },
+    {
+        "ability_type": 37,
+        "float_ability_value_coef": 10000,
+        "id": 244,
+        "level": 3
+    },
+    {
+        "ability_type": 37,
+        "float_ability_value_coef": 10000,
+        "id": 245,
+        "level": 4
+    },
+    {
+        "ability_type": 37,
+        "float_ability_value_coef": 10000,
+        "id": 246,
+        "level": 5
+    },
+    {
+        "ability_type": 37,
+        "float_ability_value_coef": 10000,
+        "id": 247,
+        "level": 6
+    },
+    {
+        "ability_type": 37,
+        "float_ability_value_coef": 10000,
+        "id": 248,
+        "level": 7
+    },
+    {
+        "ability_type": 37,
+        "float_ability_value_coef": 10000,
+        "id": 249,
+        "level": 8
+    },
+    {
+        "ability_type": 37,
+        "float_ability_value_coef": 10000,
+        "id": 250,
+        "level": 9
+    },
+    {
+        "ability_type": 37,
+        "float_ability_value_coef": 10000,
+        "id": 251,
+        "level": 10
+    },
+    {
+        "ability_type": 36,
+        "float_ability_value_coef": 10000,
+        "id": 252,
+        "level": 1
+    },
+    {
+        "ability_type": 36,
+        "float_ability_value_coef": 10000,
+        "id": 253,
+        "level": 2
+    },
+    {
+        "ability_type": 36,
+        "float_ability_value_coef": 10000,
+        "id": 254,
+        "level": 3
+    },
+    {
+        "ability_type": 36,
+        "float_ability_value_coef": 10000,
+        "id": 255,
+        "level": 4
+    },
+    {
+        "ability_type": 36,
+        "float_ability_value_coef": 10000,
+        "id": 256,
+        "level": 5
+    },
+    {
+        "ability_type": 36,
+        "float_ability_value_coef": 10000,
+        "id": 257,
+        "level": 6
+    },
+    {
+        "ability_type": 36,
+        "float_ability_value_coef": 10000,
+        "id": 258,
+        "level": 7
+    },
+    {
+        "ability_type": 36,
+        "float_ability_value_coef": 10000,
+        "id": 259,
+        "level": 8
+    },
+    {
+        "ability_type": 36,
+        "float_ability_value_coef": 10000,
+        "id": 260,
+        "level": 9
+    },
+    {
+        "ability_type": 36,
+        "float_ability_value_coef": 10000,
+        "id": 261,
+        "level": 10
+    },
+    {
+        "ability_type": 32,
+        "float_ability_value_coef": 10000,
+        "id": 262,
+        "level": 1
+    },
+    {
+        "ability_type": 32,
+        "float_ability_value_coef": 10100,
+        "id": 263,
+        "level": 2
+    },
+    {
+        "ability_type": 32,
+        "float_ability_value_coef": 10200,
+        "id": 264,
+        "level": 3
+    },
+    {
+        "ability_type": 32,
+        "float_ability_value_coef": 10300,
+        "id": 265,
+        "level": 4
+    },
+    {
+        "ability_type": 32,
+        "float_ability_value_coef": 10400,
+        "id": 266,
+        "level": 5
+    },
+    {
+        "ability_type": 32,
+        "float_ability_value_coef": 10500,
+        "id": 267,
+        "level": 6
+    },
+    {
+        "ability_type": 32,
+        "float_ability_value_coef": 10600,
+        "id": 268,
+        "level": 7
+    },
+    {
+        "ability_type": 32,
+        "float_ability_value_coef": 10700,
+        "id": 269,
+        "level": 8
+    },
+    {
+        "ability_type": 32,
+        "float_ability_value_coef": 10800,
+        "id": 270,
+        "level": 9
+    },
+    {
+        "ability_type": 32,
+        "float_ability_value_coef": 11000,
+        "id": 271,
+        "level": 10
+    }
+]

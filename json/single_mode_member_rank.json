@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "member_rank_id": 1,
+        "value_max": 5,
+        "value_min": 0
+    },
+    {
+        "id": 2,
+        "member_rank_id": 2,
+        "value_max": 12,
+        "value_min": 6
+    },
+    {
+        "id": 3,
+        "member_rank_id": 3,
+        "value_max": 17,
+        "value_min": 13
+    },
+    {
+        "id": 4,
+        "member_rank_id": 4,
+        "value_max": 22,
+        "value_min": 18
+    },
+    {
+        "id": 5,
+        "member_rank_id": 5,
+        "value_max": 27,
+        "value_min": 23
+    },
+    {
+        "id": 6,
+        "member_rank_id": 6,
+        "value_max": 32,
+        "value_min": 28
+    },
+    {
+        "id": 7,
+        "member_rank_id": 7,
+        "value_max": 35,
+        "value_min": 33
+    },
+    {
+        "id": 8,
+        "member_rank_id": 8,
+        "value_max": 99,
+        "value_min": 36
+    }
+]

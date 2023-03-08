@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "item_category": 97,
+        "item_id": 115,
+        "piece_num": 1,
+        "piece_type": 2,
+        "rarity": 1
+    },
+    {
+        "id": 2,
+        "item_category": 97,
+        "item_id": 115,
+        "piece_num": 3,
+        "piece_type": 2,
+        "rarity": 2
+    },
+    {
+        "id": 3,
+        "item_category": 97,
+        "item_id": 115,
+        "piece_num": 20,
+        "piece_type": 2,
+        "rarity": 3
+    }
+]

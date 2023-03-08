@@ -1,0 +1,122 @@
+[
+    {
+        "bg_id": 124,
+        "group_id": 1,
+        "id": 212401,
+        "motion_set_id": 50010,
+        "pos_x": -1306,
+        "pos_z": 12672,
+        "rotation_y": 162631,
+        "scenario_id": 2
+    },
+    {
+        "bg_id": 124,
+        "group_id": 1,
+        "id": 212402,
+        "motion_set_id": 50007,
+        "pos_x": 857,
+        "pos_z": 10615,
+        "rotation_y": 214429,
+        "scenario_id": 2
+    },
+    {
+        "bg_id": 124,
+        "group_id": 1,
+        "id": 212403,
+        "motion_set_id": 50009,
+        "pos_x": -830,
+        "pos_z": 10670,
+        "rotation_y": 323703,
+        "scenario_id": 2
+    },
+    {
+        "bg_id": 124,
+        "group_id": 2,
+        "id": 212404,
+        "motion_set_id": 50017,
+        "pos_x": -760,
+        "pos_z": 6040,
+        "rotation_y": 45970,
+        "scenario_id": 2
+    },
+    {
+        "bg_id": 124,
+        "group_id": 2,
+        "id": 212405,
+        "motion_set_id": 50012,
+        "pos_x": -850,
+        "pos_z": 10590,
+        "rotation_y": 146711,
+        "scenario_id": 2
+    },
+    {
+        "bg_id": 124,
+        "group_id": 2,
+        "id": 212406,
+        "motion_set_id": 50006,
+        "pos_x": 853,
+        "pos_z": 9614,
+        "rotation_y": 218841,
+        "scenario_id": 2
+    },
+    {
+        "bg_id": 124,
+        "group_id": 3,
+        "id": 212407,
+        "motion_set_id": 50016,
+        "pos_x": -820,
+        "pos_z": 13870,
+        "rotation_y": 160840,
+        "scenario_id": 2
+    },
+    {
+        "bg_id": 124,
+        "group_id": 3,
+        "id": 212408,
+        "motion_set_id": 50013,
+        "pos_x": 990,
+        "pos_z": 8320,
+        "rotation_y": 243910,
+        "scenario_id": 2
+    },
+    {
+        "bg_id": 124,
+        "group_id": 3,
+        "id": 212409,
+        "motion_set_id": 50014,
+        "pos_x": -830,
+        "pos_z": 7820,
+        "rotation_y": 136003,
+        "scenario_id": 2
+    },
+    {
+        "bg_id": 124,
+        "group_id": 4,
+        "id": 212410,
+        "motion_set_id": 50008,
+        "pos_x": 710,
+        "pos_z": 11080,
+        "rotation_y": 168404,
+        "scenario_id": 2
+    },
+    {
+        "bg_id": 124,
+        "group_id": 4,
+        "id": 212411,
+        "motion_set_id": 50018,
+        "pos_x": 833,
+        "pos_z": 7196,
+        "rotation_y": 207169,
+        "scenario_id": 2
+    },
+    {
+        "bg_id": 124,
+        "group_id": 4,
+        "id": 212412,
+        "motion_set_id": 50020,
+        "pos_x": -820,
+        "pos_z": 9630,
+        "rotation_y": 137432,
+        "scenario_id": 2
+    }
+]

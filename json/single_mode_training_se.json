@@ -1,0 +1,2202 @@
+[
+    {
+        "chara_index": 0,
+        "id": 1,
+        "se_cue_name": "trc_101011_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101011_001_01_000",
+        "skip_se_cue_name": "trc_101011",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 2,
+        "se_cue_name": "trc_101011_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101011_001_01_000",
+        "skip_se_cue_name": "trc_101011",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 3,
+        "se_cue_name": "trc_101011_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101011_001_02_000",
+        "skip_se_cue_name": "trc_101011",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 4,
+        "se_cue_name": "trc_101011_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101011_001_02_000",
+        "skip_se_cue_name": "trc_101011",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 5,
+        "se_cue_name": "trc_101012_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101012_001_01_000",
+        "skip_se_cue_name": "trc_101012",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 6,
+        "se_cue_name": "trc_101012_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101012_001_01_000",
+        "skip_se_cue_name": "trc_101012",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 7,
+        "se_cue_name": "trc_101012_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101012_001_02_000",
+        "skip_se_cue_name": "trc_101012",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 8,
+        "se_cue_name": "trc_101012_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101012_001_02_000",
+        "skip_se_cue_name": "trc_101012",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 9,
+        "se_cue_name": "trc_101013_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101013_001_01_000",
+        "skip_se_cue_name": "trc_101013",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 10,
+        "se_cue_name": "trc_101013_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101013_001_01_000",
+        "skip_se_cue_name": "trc_101013",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 11,
+        "se_cue_name": "trc_101013_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101013_001_02_000",
+        "skip_se_cue_name": "trc_101013",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 12,
+        "se_cue_name": "trc_101013_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101013_001_02_000",
+        "skip_se_cue_name": "trc_101013",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 13,
+        "se_cue_name": "trc_101014_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101014_001_01_000",
+        "skip_se_cue_name": "trc_101014",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 14,
+        "se_cue_name": "trc_101014_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101014_001_01_000",
+        "skip_se_cue_name": "trc_101014",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 15,
+        "se_cue_name": "trc_101014_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101014_001_02_000",
+        "skip_se_cue_name": "trc_101014",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 16,
+        "se_cue_name": "trc_101014_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101014_001_02_000",
+        "skip_se_cue_name": "trc_101014",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 17,
+        "se_cue_name": "trc_101015_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101015_001_01_000",
+        "skip_se_cue_name": "trc_101015",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 18,
+        "se_cue_name": "trc_101015_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101015_001_01_000",
+        "skip_se_cue_name": "trc_101015",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 19,
+        "se_cue_name": "trc_101015_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101015_001_02_000",
+        "skip_se_cue_name": "trc_101015",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 20,
+        "se_cue_name": "trc_101015_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101015_001_02_000",
+        "skip_se_cue_name": "trc_101015",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 21,
+        "se_cue_name": "trc_101021_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101021_001_01_000",
+        "skip_se_cue_name": "trc_101021",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 22,
+        "se_cue_name": "trc_101021_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101021_001_01_000",
+        "skip_se_cue_name": "trc_101021",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 23,
+        "se_cue_name": "trc_101021_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101021_001_02_000",
+        "skip_se_cue_name": "trc_101021",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 24,
+        "se_cue_name": "trc_101021_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101021_001_02_000",
+        "skip_se_cue_name": "trc_101021",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 25,
+        "se_cue_name": "trc_101022_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101022_001_01_000",
+        "skip_se_cue_name": "trc_101022",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 26,
+        "se_cue_name": "trc_101022_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101022_001_01_000",
+        "skip_se_cue_name": "trc_101022",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 27,
+        "se_cue_name": "trc_101022_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101022_001_02_000",
+        "skip_se_cue_name": "trc_101022",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 28,
+        "se_cue_name": "trc_101022_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101022_001_02_000",
+        "skip_se_cue_name": "trc_101022",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 29,
+        "se_cue_name": "trc_101023_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101023_001_01_000",
+        "skip_se_cue_name": "trc_101023",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 30,
+        "se_cue_name": "trc_101023_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101023_001_01_000",
+        "skip_se_cue_name": "trc_101023",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 31,
+        "se_cue_name": "trc_101023_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101023_001_02_000",
+        "skip_se_cue_name": "trc_101023",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 32,
+        "se_cue_name": "trc_101023_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101023_001_02_000",
+        "skip_se_cue_name": "trc_101023",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 33,
+        "se_cue_name": "trc_101024_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101024_001_01_000",
+        "skip_se_cue_name": "trc_101024",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 34,
+        "se_cue_name": "trc_101024_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101024_001_01_000",
+        "skip_se_cue_name": "trc_101024",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 35,
+        "se_cue_name": "trc_101024_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101024_001_02_000",
+        "skip_se_cue_name": "trc_101024",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 36,
+        "se_cue_name": "trc_101024_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101024_001_02_000",
+        "skip_se_cue_name": "trc_101024",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 37,
+        "se_cue_name": "trc_101025_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101025_001_01_000",
+        "skip_se_cue_name": "trc_101025",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 38,
+        "se_cue_name": "trc_101025_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101025_001_01_000",
+        "skip_se_cue_name": "trc_101025",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 39,
+        "se_cue_name": "trc_101025_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101025_001_02_000",
+        "skip_se_cue_name": "trc_101025",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 40,
+        "se_cue_name": "trc_101025_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101025_001_02_000",
+        "skip_se_cue_name": "trc_101025",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 41,
+        "se_cue_name": "trc_101031_001_01_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101031_001_01_001",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 42,
+        "se_cue_name": "trc_101031_001_01_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101031_001_01_002",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 43,
+        "se_cue_name": "trc_101031_001_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101031_001_01_001",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 44,
+        "se_cue_name": "trc_101031_001_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101031_001_01_002",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 45,
+        "se_cue_name": "trc_101031_001_02_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101031_001_02_001",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 46,
+        "se_cue_name": "trc_101031_001_02_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101031_001_02_002",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 47,
+        "se_cue_name": "trc_101031_001_02_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101031_001_02_001",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 48,
+        "se_cue_name": "trc_101031_001_02_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101031_001_02_002",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 49,
+        "se_cue_name": "trc_101031_001_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101031_001_01_003",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 50,
+        "se_cue_name": "trc_101031_001_01_003_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101031_001_01_003",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 51,
+        "se_cue_name": "trc_101031_001_02_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101031_001_02_003",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 52,
+        "se_cue_name": "trc_101031_001_02_003_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101031_001_02_003",
+        "skip_se_cue_name": "trc_101031",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 53,
+        "se_cue_name": "trc_101032_001_01_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101032_001_01_001",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 54,
+        "se_cue_name": "trc_101032_001_01_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101032_001_01_002",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 55,
+        "se_cue_name": "trc_101032_001_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101032_001_01_001",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 56,
+        "se_cue_name": "trc_101032_001_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101032_001_01_002",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 57,
+        "se_cue_name": "trc_101032_001_02_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101032_001_02_001",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 58,
+        "se_cue_name": "trc_101032_001_02_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101032_001_02_002",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 59,
+        "se_cue_name": "trc_101032_001_02_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101032_001_02_001",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 60,
+        "se_cue_name": "trc_101032_001_02_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101032_001_02_002",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 61,
+        "se_cue_name": "trc_101032_001_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101032_001_01_003",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 62,
+        "se_cue_name": "trc_101032_001_01_003_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101032_001_01_003",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 63,
+        "se_cue_name": "trc_101032_001_02_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101032_001_02_003",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 64,
+        "se_cue_name": "trc_101032_001_02_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101032_001_02_003",
+        "skip_se_cue_name": "trc_101032",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 65,
+        "se_cue_name": "trc_101033_001_01_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101033_001_01_001",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 66,
+        "se_cue_name": "trc_101033_001_01_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101033_001_01_002",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 67,
+        "se_cue_name": "trc_101033_001_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101033_001_01_001",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 68,
+        "se_cue_name": "trc_101033_001_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101033_001_01_002",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 69,
+        "se_cue_name": "trc_101033_001_02_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101033_001_02_001",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 70,
+        "se_cue_name": "trc_101033_001_02_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101033_001_02_002",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 71,
+        "se_cue_name": "trc_101033_001_02_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101033_001_02_001",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 72,
+        "se_cue_name": "trc_101033_001_02_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101033_001_02_002",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 73,
+        "se_cue_name": "trc_101033_001_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101033_001_01_003",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 74,
+        "se_cue_name": "trc_101033_001_01_003_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101033_001_01_003",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 75,
+        "se_cue_name": "trc_101033_001_02_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101033_001_02_003",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 76,
+        "se_cue_name": "trc_101033_001_02_003_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101033_001_02_003",
+        "skip_se_cue_name": "trc_101033",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 77,
+        "se_cue_name": "trc_101034_001_01_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101034_001_01_001",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 78,
+        "se_cue_name": "trc_101034_001_01_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101034_001_01_002",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 79,
+        "se_cue_name": "trc_101034_001_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101034_001_01_001",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 80,
+        "se_cue_name": "trc_101034_001_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101034_001_01_002",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 81,
+        "se_cue_name": "trc_101034_001_02_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101034_001_02_001",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 82,
+        "se_cue_name": "trc_101034_001_02_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101034_001_02_002",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 83,
+        "se_cue_name": "trc_101034_001_02_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101034_001_02_001",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 84,
+        "se_cue_name": "trc_101034_001_02_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101034_001_02_002",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 85,
+        "se_cue_name": "trc_101034_001_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101034_001_01_003",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 86,
+        "se_cue_name": "trc_101034_001_01_003_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101034_001_01_003",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 87,
+        "se_cue_name": "trc_101034_001_02_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101034_001_02_003",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 88,
+        "se_cue_name": "trc_101034_001_02_003_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101034_001_02_003",
+        "skip_se_cue_name": "trc_101034",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 89,
+        "se_cue_name": "trc_101035_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101035_001_01_000",
+        "skip_se_cue_name": "trc_101035",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 90,
+        "se_cue_name": "trc_101035_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101035_001_01_000",
+        "skip_se_cue_name": "trc_101035",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 91,
+        "se_cue_name": "trc_101035_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101035_001_02_000",
+        "skip_se_cue_name": "trc_101035",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 92,
+        "se_cue_name": "trc_101035_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101035_001_02_000",
+        "skip_se_cue_name": "trc_101035",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 93,
+        "se_cue_name": "trc_101041_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101041_001_01_000",
+        "skip_se_cue_name": "trc_101041",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 94,
+        "se_cue_name": "trc_101041_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101041_001_01_000",
+        "skip_se_cue_name": "trc_101041",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 95,
+        "se_cue_name": "trc_101041_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101041_001_02_000",
+        "skip_se_cue_name": "trc_101041",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 96,
+        "se_cue_name": "trc_101041_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101041_001_02_000",
+        "skip_se_cue_name": "trc_101041",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 97,
+        "se_cue_name": "trc_101042_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101042_001_01_000",
+        "skip_se_cue_name": "trc_101042",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 98,
+        "se_cue_name": "trc_101042_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101042_001_01_000",
+        "skip_se_cue_name": "trc_101042",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 99,
+        "se_cue_name": "trc_101042_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101042_001_02_000",
+        "skip_se_cue_name": "trc_101042",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 100,
+        "se_cue_name": "trc_101042_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101042_001_02_000",
+        "skip_se_cue_name": "trc_101042",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 101,
+        "se_cue_name": "trc_101043_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101043_001_01_000",
+        "skip_se_cue_name": "trc_101043",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 102,
+        "se_cue_name": "trc_101043_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101043_001_01_000",
+        "skip_se_cue_name": "trc_101043",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 103,
+        "se_cue_name": "trc_101043_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101043_001_02_000",
+        "skip_se_cue_name": "trc_101043",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 104,
+        "se_cue_name": "trc_101043_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101043_001_02_000",
+        "skip_se_cue_name": "trc_101043",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 105,
+        "se_cue_name": "trc_101044_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101044_001_01_000",
+        "skip_se_cue_name": "trc_101044",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 106,
+        "se_cue_name": "trc_101044_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101044_001_01_000",
+        "skip_se_cue_name": "trc_101044",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 107,
+        "se_cue_name": "trc_101044_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101044_001_02_000",
+        "skip_se_cue_name": "trc_101044",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 108,
+        "se_cue_name": "trc_101044_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101044_001_02_000",
+        "skip_se_cue_name": "trc_101044",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 109,
+        "se_cue_name": "trc_101045_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101045_001_01_000",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 110,
+        "se_cue_name": "trc_101045_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101045_001_01_000",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 111,
+        "se_cue_name": "trc_101045_001_02_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101045_001_02_001",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 112,
+        "se_cue_name": "trc_101045_001_02_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101045_001_02_001",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 113,
+        "se_cue_name": "trc_101045_001_02_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101045_001_02_002",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 114,
+        "se_cue_name": "trc_101045_001_02_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101045_001_02_002",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 115,
+        "se_cue_name": "trc_101045_001_02_003_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101045_001_02_003",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 116,
+        "se_cue_name": "trc_101045_001_02_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101045_001_02_003",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 117,
+        "se_cue_name": "trc_101045_001_02_004_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101045_001_02_004",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 118,
+        "se_cue_name": "trc_101045_001_02_004_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101045_001_02_004",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 119,
+        "se_cue_name": "trc_101045_001_02_005_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101045_001_02_005",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 120,
+        "se_cue_name": "trc_101045_001_02_005_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101045_001_02_005",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 121,
+        "se_cue_name": "trc_101045_001_02_006_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101045_001_02_006",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 122,
+        "se_cue_name": "trc_101045_001_02_006_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101045_001_02_006",
+        "skip_se_cue_name": "trc_101045",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 123,
+        "se_cue_name": "trc_101051_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101051_001_01_000",
+        "skip_se_cue_name": "trc_101051",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 124,
+        "se_cue_name": "trc_101051_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101051_001_01_000",
+        "skip_se_cue_name": "trc_101051",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 125,
+        "se_cue_name": "trc_101051_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101051_001_02_000",
+        "skip_se_cue_name": "trc_101051",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 126,
+        "se_cue_name": "trc_101051_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101051_001_02_000",
+        "skip_se_cue_name": "trc_101051",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 127,
+        "se_cue_name": "trc_101052_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101052_001_01_000",
+        "skip_se_cue_name": "trc_101052",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 128,
+        "se_cue_name": "trc_101052_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101052_001_01_000",
+        "skip_se_cue_name": "trc_101052",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 129,
+        "se_cue_name": "trc_101052_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101052_001_02_000",
+        "skip_se_cue_name": "trc_101052",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 130,
+        "se_cue_name": "trc_101052_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101052_001_02_000",
+        "skip_se_cue_name": "trc_101052",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 131,
+        "se_cue_name": "trc_101053_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101053_001_01_000",
+        "skip_se_cue_name": "trc_101053",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 132,
+        "se_cue_name": "trc_101053_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101053_001_01_000",
+        "skip_se_cue_name": "trc_101053",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 133,
+        "se_cue_name": "trc_101053_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101053_001_02_000",
+        "skip_se_cue_name": "trc_101053",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 134,
+        "se_cue_name": "trc_101053_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101053_001_02_000",
+        "skip_se_cue_name": "trc_101053",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 135,
+        "se_cue_name": "trc_101054_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101054_001_01_000",
+        "skip_se_cue_name": "trc_101054",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 136,
+        "se_cue_name": "trc_101054_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101054_001_01_000",
+        "skip_se_cue_name": "trc_101054",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 137,
+        "se_cue_name": "trc_101054_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101054_001_02_000",
+        "skip_se_cue_name": "trc_101054",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 138,
+        "se_cue_name": "trc_101054_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101054_001_02_000",
+        "skip_se_cue_name": "trc_101054",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 139,
+        "se_cue_name": "trc_101055_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101055_001_01_000",
+        "skip_se_cue_name": "trc_101055",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 140,
+        "se_cue_name": "trc_101055_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101055_001_01_000",
+        "skip_se_cue_name": "trc_101055",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 141,
+        "se_cue_name": "trc_101055_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_101055_001_02_000",
+        "skip_se_cue_name": "trc_101055",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 142,
+        "se_cue_name": "trc_101055_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_101055_001_02_000",
+        "skip_se_cue_name": "trc_101055",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 143,
+        "se_cue_name": "trc_102010_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102010_001_01_000",
+        "skip_se_cue_name": "trc_102010",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 144,
+        "se_cue_name": "trc_102010_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102010_001_01_000",
+        "skip_se_cue_name": "trc_102010",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 145,
+        "se_cue_name": "trc_102010_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102010_001_02_000",
+        "skip_se_cue_name": "trc_102010",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 146,
+        "se_cue_name": "trc_102010_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102010_001_02_000",
+        "skip_se_cue_name": "trc_102010",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 147,
+        "se_cue_name": "trc_102020_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102020_001_01_000",
+        "skip_se_cue_name": "trc_102020",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 148,
+        "se_cue_name": "trc_102020_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102020_001_01_000",
+        "skip_se_cue_name": "trc_102020",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 149,
+        "se_cue_name": "trc_102020_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102020_001_02_000",
+        "skip_se_cue_name": "trc_102020",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 150,
+        "se_cue_name": "trc_102020_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102020_001_02_000",
+        "skip_se_cue_name": "trc_102020",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 151,
+        "se_cue_name": "trc_102030_001_01_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102030_001_01_001",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 152,
+        "se_cue_name": "trc_102030_001_01_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102030_001_01_002",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 153,
+        "se_cue_name": "trc_102030_001_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102030_001_01_001",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 154,
+        "se_cue_name": "trc_102030_001_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102030_001_01_002",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 155,
+        "se_cue_name": "trc_102030_001_02_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102030_001_02_001",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 156,
+        "se_cue_name": "trc_102030_001_02_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102030_001_02_002",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 157,
+        "se_cue_name": "trc_102030_001_02_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102030_001_02_001",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 158,
+        "se_cue_name": "trc_102030_001_02_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102030_001_02_002",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 159,
+        "se_cue_name": "trc_102030_001_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102030_001_01_003",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 160,
+        "se_cue_name": "trc_102030_001_01_003_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102030_001_01_003",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 161,
+        "se_cue_name": "trc_102030_001_02_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102030_001_02_003",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 162,
+        "se_cue_name": "trc_102030_001_02_003_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102030_001_02_003",
+        "skip_se_cue_name": "trc_102030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 163,
+        "se_cue_name": "trc_102040_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102040_001_01_000",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 164,
+        "se_cue_name": "trc_102040_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102040_001_01_000",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 165,
+        "se_cue_name": "trc_102040_001_02_001_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102040_001_02_001",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 166,
+        "se_cue_name": "trc_102040_001_02_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102040_001_02_001",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 167,
+        "se_cue_name": "trc_102040_001_02_002_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102040_001_02_002",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 168,
+        "se_cue_name": "trc_102040_001_02_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102040_001_02_002",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 169,
+        "se_cue_name": "trc_102040_001_02_003_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102040_001_02_003",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 170,
+        "se_cue_name": "trc_102040_001_02_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102040_001_02_003",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 171,
+        "se_cue_name": "trc_102040_001_02_004_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102040_001_02_004",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 172,
+        "se_cue_name": "trc_102040_001_02_004_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102040_001_02_004",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 173,
+        "se_cue_name": "trc_102040_001_02_005_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102040_001_02_005",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 174,
+        "se_cue_name": "trc_102040_001_02_005_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102040_001_02_005",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 175,
+        "se_cue_name": "trc_102040_001_02_006_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102040_001_02_006",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 176,
+        "se_cue_name": "trc_102040_001_02_006_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102040_001_02_006",
+        "skip_se_cue_name": "trc_102040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 177,
+        "se_cue_name": "trc_102050_001_01_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102050_001_01_000",
+        "skip_se_cue_name": "trc_102050",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 178,
+        "se_cue_name": "trc_102050_001_01_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102050_001_01_000",
+        "skip_se_cue_name": "trc_102050",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 179,
+        "se_cue_name": "trc_102050_001_02_000_bad",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Bad01_102050_001_02_000",
+        "skip_se_cue_name": "trc_102050",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 180,
+        "se_cue_name": "trc_102050_001_02_000_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_102050_001_02_000",
+        "skip_se_cue_name": "trc_102050",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 181,
+        "se_cue_name": "trc_103010_001_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103010_001_01_001",
+        "skip_se_cue_name": "trc_103010",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 182,
+        "se_cue_name": "trc_103010_001_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103010_001_01_002",
+        "skip_se_cue_name": "trc_103010",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 183,
+        "se_cue_name": "trc_103010_001_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103010_001_01_003",
+        "skip_se_cue_name": "trc_103010",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 184,
+        "se_cue_name": "trc_103010_001_01_004_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103010_001_01_004",
+        "skip_se_cue_name": "trc_103010",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 185,
+        "se_cue_name": "trc_103010_001_01_005_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103010_001_01_005",
+        "skip_se_cue_name": "trc_103010",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 186,
+        "se_cue_name": "trc_103010_001_01_006_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103010_001_01_006",
+        "skip_se_cue_name": "trc_103010",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 187,
+        "se_cue_name": "trc_103020_001_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103020_001_01_001",
+        "skip_se_cue_name": "trc_103020",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 188,
+        "se_cue_name": "trc_103020_001_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103020_001_01_002",
+        "skip_se_cue_name": "trc_103020",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 189,
+        "se_cue_name": "trc_103020_001_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103020_001_01_003",
+        "skip_se_cue_name": "trc_103020",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 190,
+        "se_cue_name": "trc_103020_001_01_004_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103020_001_01_004",
+        "skip_se_cue_name": "trc_103020",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 191,
+        "se_cue_name": "trc_103020_001_01_005_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103020_001_01_005",
+        "skip_se_cue_name": "trc_103020",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 192,
+        "se_cue_name": "trc_103020_001_01_006_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103020_001_01_006",
+        "skip_se_cue_name": "trc_103020",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 193,
+        "se_cue_name": "trc_103020_001_01_007_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103020_001_01_007",
+        "skip_se_cue_name": "trc_103020",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 194,
+        "se_cue_name": "trc_103030_001_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_001_01_001",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 195,
+        "se_cue_name": "trc_103030_001_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_001_01_002",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 196,
+        "se_cue_name": "trc_103030_001_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_001_01_003",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 197,
+        "se_cue_name": "trc_103030_001_01_004_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_001_01_004",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 198,
+        "se_cue_name": "trc_103030_001_01_005_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_001_01_005",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 199,
+        "se_cue_name": "trc_103030_002_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_002_01_001",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 200,
+        "se_cue_name": "trc_103030_002_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_002_01_002",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 201,
+        "se_cue_name": "trc_103030_002_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_002_01_003",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 202,
+        "se_cue_name": "trc_103030_002_01_004_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_002_01_004",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 203,
+        "se_cue_name": "trc_103030_002_01_005_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_002_01_005",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 204,
+        "se_cue_name": "trc_103030_003_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_003_01_001",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 205,
+        "se_cue_name": "trc_103030_003_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_003_01_002",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 206,
+        "se_cue_name": "trc_103030_003_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_003_01_003",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 207,
+        "se_cue_name": "trc_103030_003_01_004_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_003_01_004",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 208,
+        "se_cue_name": "trc_103030_003_01_005_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103030_003_01_005",
+        "skip_se_cue_name": "trc_103030",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 209,
+        "se_cue_name": "trc_103040_001_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103040_001_01_001",
+        "skip_se_cue_name": "trc_103040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 210,
+        "se_cue_name": "trc_103040_001_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103040_001_01_002",
+        "skip_se_cue_name": "trc_103040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 211,
+        "se_cue_name": "trc_103040_001_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103040_001_01_003",
+        "skip_se_cue_name": "trc_103040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 212,
+        "se_cue_name": "trc_103040_001_01_004_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103040_001_01_004",
+        "skip_se_cue_name": "trc_103040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 213,
+        "se_cue_name": "trc_103040_001_01_005_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103040_001_01_005",
+        "skip_se_cue_name": "trc_103040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 214,
+        "se_cue_name": "trc_103040_001_01_006_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103040_001_01_006",
+        "skip_se_cue_name": "trc_103040",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 215,
+        "se_cue_name": "trc_103050_001_01_001_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103050_001_01_001",
+        "skip_se_cue_name": "trc_103050",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 216,
+        "se_cue_name": "trc_103050_001_01_002_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103050_001_01_002",
+        "skip_se_cue_name": "trc_103050",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 217,
+        "se_cue_name": "trc_103050_001_01_003_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103050_001_01_003",
+        "skip_se_cue_name": "trc_103050",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 218,
+        "se_cue_name": "trc_103050_001_01_004_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103050_001_01_004",
+        "skip_se_cue_name": "trc_103050",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 219,
+        "se_cue_name": "trc_103050_001_01_005_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103050_001_01_005",
+        "skip_se_cue_name": "trc_103050",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    },
+    {
+        "chara_index": 0,
+        "id": 220,
+        "se_cue_name": "trc_103050_001_01_006_suc",
+        "se_cuesheet_name": "snd_sfx_training_000",
+        "sheet_id": "Suc01_103050_001_01_006",
+        "skip_se_cue_name": "trc_103050",
+        "skip_se_cuesheet_name": "snd_sfx_training_000",
+        "voice_trigger_id": 0
+    }
+]
