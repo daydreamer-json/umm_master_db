@@ -6,7 +6,7 @@ Master database file of a certain anime game (Windows)
 
 This repository contains tables extracted from the `<LocalLowFolder>/master/master.mdb` file. 
 
-The `meta` folder contains tables extracted from the `<LocalLowFolder>/meta` file.
+The `meta` folder contains tables extracted from the `<LocalLowFolder>/meta` (Manifest) file.
 
 Tables are available in CSV, JSON and SQL formats. In CSV the columns are in the correct order, but in JSON the keys are forced to be in alphabetical order.
 
